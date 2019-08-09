@@ -1,4 +1,4 @@
-[![Dependency Status](https://img.shields.io/david/LFDLFoundation/lfdl-landscape.svg?style=flat-square)](https://david-dm.org/LFDLFoundation/lfdl-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/cb0bff52-871d-42c9-b46e-b3dbf8da9309/deploy-status)](https://app.netlify.com/sites/graphql-landscape/deploys)
+[![Dependency Status](https://img.shields.io/david/LFDLFoundation/lfdl-landscape.svg?style=flat-square)](https://david-dm.org/LFDLFoundation/lfdl-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/9fe8d885-037d-48ce-8bf9-3bfa54152945/deploy-status)](https://app.netlify.com/sites/graphql-landscape/deploys)
 
 # GraphQL Landscape
 
