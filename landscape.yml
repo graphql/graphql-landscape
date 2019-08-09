@@ -12,13 +12,6 @@ landscape:
             logo: accord-net.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/accord-net-framework-project'
-          - item:
-            name: Accord.NET
-            homepage_url: 'http://accord-framework.net/'
-            repo_url: 'https://github.com/accord-net/framework'
-            logo: accord-net.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/accord-net-framework-project'
   - category:
     name: Services
     subcategories:
@@ -52,13 +45,13 @@ landscape:
         name: General
         items:
           - item:
-            name: Twitter
+            name: Twitter (member)
             homepage_url: 'https://www.twitter.com/'
             stock_ticker: TWTR
             logo: twitter.svg
             twitter: 'https://twitter.com/twitter'
             crunchbase: 'https://www.crunchbase.com/organization/twitter'
-- category:
+  - category:
     name: GraphQL Adopter
     subcategories:
       - subcategory:
