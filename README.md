@@ -1,8 +1,8 @@
-[![Dependency Status](https://img.shields.io/david/LFDLFoundation/lfdl-landscape.svg?style=flat-square)](https://david-dm.org/LFDLFoundation/lfdl-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/9fe8d885-037d-48ce-8bf9-3bfa54152945/deploy-status)](https://app.netlify.com/sites/graphql-landscape/deploys)
+[![Dependency Status](https://img.shields.io/david/graphql/graphql-landscape.svg?style=flat-square)](https://david-dm.org/graphql/graphql-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/9fe8d885-037d-48ce-8bf9-3bfa54152945/deploy-status)](https://app.netlify.com/sites/graphql-landscape/deploys)
 
 # GraphQL Landscape
 
-![GraphQL Landscape Logo](https://landscape.lfdl.io/images/left-logo.svg)
+![GraphQL Landscape Logo](https://landscape.graphql.org/images/left-logo.svg)
 
 - [GraphQL Landscape](#cloud-native-landscape)
   * [Current Version](#current-version)
@@ -24,7 +24,7 @@ This landscape is intended as a map to explore the GraphQL Ecosystem, and also s
 
 ## Current Version
 
-[![GraphQL Landscape](https://landscape.lfdl.io/images/landscape.png)](https://landscape.lfdl.io/images/landscape.png)
+[![GraphQL Landscape](https://landscape.graphql.org/images/landscape.png)](https://landscape.graphql.org/images/landscape.png)
 
 ## Interactive Version
 
@@ -33,7 +33,7 @@ Please see [landscape.graphql.io](https://landscape.graphql.org).
 ## New Entries
 
 * Projects must be open source and hosted on or mirrored to GitHub.
-* AI, ML, and DL projects with at least 300 GitHub stars that clearly fit in an existing category are generally included. Put the project in the single category where it best fits.
+* Projects with at least 300 GitHub stars that clearly fit in an existing category are generally included. Put the project in the single category where it best fits.
 * We are unlikely to create a new category for projects as we'd rather find the best home with the current options.
 * Your project or company needs a logo and the logo needs to include the name.
 * Crunchbase organization should be the company or organization that controls the software. That is normally the owner of the trademark, whether or not a trademark has been formally filed.
@@ -88,13 +88,13 @@ The update server enhances the source data with the fetched data and saves the r
 As explained at https://bestpractices.coreinfrastructure.org/:
 >The Linux Foundation (LF) Core Infrastructure Initiative (CII) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices. Projects can voluntarily self-certify, at no cost, by using this web application to explain how they follow each best practice. The CII Best Practices Badge is inspired by the many badges available to projects on GitHub. Consumers of the badge can quickly assess which FLOSS projects are following best practices and as a result are more likely to produce higher-quality secure software.
 
-The interactive landscape displays the status (or non-existence) of a badge for each open-source project. There's also a feature not available through the filter bar to see all items [with](https://landscape.lfdl.io/bestpractices=yes) and [without](https://landscape.lfdl.io/bestpractices=no) badges. Note that a passing badge is a requirement for projects to [graduate](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc) in the CNCF.
+The interactive landscape displays the status (or non-existence) of a badge for each open-source project. There's also a feature not available through the filter bar to see all items [with](https://landscape.graphql.org/bestpractices=yes) and [without](https://landscape.graphql.org/bestpractices=no) badges. Note that a passing badge is a requirement for projects to [graduate](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc) in the CNCF.
 
 ## Non-Updated Items
 
-We generally remove open source projects that have not had a commit in over 3 months. Note that for projects not hosted on GitHub, we need them to mirror to GitHub to fetch updates, and we try to work with projects when their mirrors are broken. Here is view of projects sorted by last update: https://landscape.lfdl.io/grouping=no&license=open-source&sort=latest-commit
+We generally remove open source projects that have not had a commit in over 3 months. Note that for projects not hosted on GitHub, we need them to mirror to GitHub to fetch updates, and we try to work with projects when their mirrors are broken. Here is view of projects sorted by last update: https://landscape.graphql.org/format=card-mode&grouping=no&license=open-source&sort=latest-commit
 
-We generally remove closed source products when they have not tweeted in over 3 months. This doesn't apply to Chinese companies without Twitter accounts, since Twitter is blocked there. Here is a view of products sorted by last tweet: https://landscape.lfdl.io/grouping=no&license=not-open-source&sort=latest-tweet
+We generally remove closed source products when they have not tweeted in over 3 months. This doesn't apply to Chinese companies without Twitter accounts, since Twitter is blocked there. Here is a view of products sorted by last tweet: https://landscape.graphql.org/format=card-mode&grouping=no&license=not-open-source&sort=latest-tweet
 
 Items that have been removed can apply to be re-added using the regular New Entries criteria above.
 
@@ -106,7 +106,7 @@ Everything else is under the Apache License, Version 2.0, except for project and
 
 ## Formats
 
-The LFDL Landscape is available in these formats:
+The GraphQL Landscape is available in these formats:
 
 * [PNG](https://landscape.graphql.org/images/landscape.png)
 * [PDF](https://landscape.graphql.org/images/landscape.pdf)
