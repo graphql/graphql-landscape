@@ -45,6 +45,40 @@ landscape:
         name: General
         items:
           - item:
+            name: Amazon Web Services (member)
+            homepage_url: 'https://aws.amazon.com/'
+            logo: amazon-web-services.svg
+            crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
+          - item:
+            name: IBM (member)
+            homepage_url: 'https://www.ibm.com/cloud'
+            logo: ibm-cloud.svg
+            twitter: 'https://twitter.com/IBMcloud'
+            crunchbase: 'https://www.crunchbase.com/organization/ibm'
+          - item:
+            name: Hasura Technologies (member)
+            homepage_url: 'https://hasura.io'
+            logo: 'https://www.cncf.io/wp-content/uploads/2017/11/hasura-2.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/hasura'
+          - item:
+            name: Intuit (member)
+            homepage_url: 'https://www.intuit.com'
+            logo: 'https://www.cncf.io/wp-content/uploads/2018/02/intuit.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/intuit'
+          - item:
+            name: Neo4j (member)
+            homepage_url: 'https://neo4j.com'
+            repo_url: 'https://github.com/neo4j/neo4j'
+            logo: neo4j.svg
+            twitter: 'https://twitter.com/neo4j'
+            crunchbase: 'https://www.crunchbase.com/organization/neo-technology'
+         - item:
+            name: Solo.io (member)
+            homepage_url: 'https://www.solo.io'
+            logo: 'https://www.cncf.io/wp-content/uploads/2018/10/solo.io_.svg'
+            twitter: 'https://twitter.com/soloio_inc'
+            crunchbase: 'https://www.crunchbase.com/organization/solo-io'
+         - item:
             name: Twitter (member)
             homepage_url: 'https://twitter.com/'
             stock_ticker: TWTR
