@@ -58,13 +58,6 @@ landscape:
         name: GraphQL User
         items:
           - item:
-            name: Twitter
-            homepage_url: 'https://twitter.com/'
-            stock_ticker: TWTR
-            logo: twitter.svg
-            twitter: 'https://twitter.com/twitter'
-            crunchbase: 'https://www.crunchbase.com/organization/twitter'
-          - item:
             name: Arangodb
             homepage_url: 'https://www.arangodb.com/'
             logo: arangodb.svg
@@ -88,3 +81,10 @@ landscape:
             logo: serverless.svg
             twitter: 'https://twitter.com/goserverless'
             crunchbase: 'https://www.crunchbase.com/organization/serverless'
+          - item:
+            name: Twitter
+            homepage_url: 'https://twitter.com/'
+            stock_ticker: TWTR
+            logo: twitter.svg
+            twitter: 'https://twitter.com/twitter'
+            crunchbase: 'https://www.crunchbase.com/organization/twitter'

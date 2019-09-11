@@ -55,9 +55,9 @@ membership:
     funding: 'No'
 home:
   header: >
-    <h1>GraphQL Landscape</h1> The GraphQL Foundation landscape (<a target="_blank"
-    href="images/landscape.png">png</a>, <a target="_blank" href="images/landscape.pdf">pdf</a>) is dynamically generated below. It is modeled after the <a
-    href="http://landscape.cncf.io">CNCF landscape</a> and based on the same open source code.
+    <h1>GraphQL Landscape</h1> The GraphQL Foundation landscape (<a target="_blank" href="images/landscape.png">png</a>, <a target="_blank"
+    href="images/landscape.pdf">pdf</a>) is dynamically generated below. It is modeled after the <a href="http://landscape.cncf.io">CNCF landscape</a> and based
+    on the same open source code.
   footer: |
     Crunchbase data is used under license from Crunchbase to CNCF.
 ads:
@@ -143,9 +143,8 @@ big_picture:
         left: 750
         children:
           - type: text
-            text: >
-              This landscape is intended as a map to explore the GraphQL community,
-              and also shows the member organizations of the GraphQL Foundation.
+            text: |
+              This landscape is intended as a map to explore the GraphQL community, and also shows the member organizations of the GraphQL Foundation.
             top: 45
             left: 100
             right: 120
