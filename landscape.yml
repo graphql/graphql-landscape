@@ -110,25 +110,6 @@ landscape:
             twitter: 'https://twitter.com/buildkite'
             crunchbase: 'https://www.crunchbase.com/organization/buildkite'
           - item:
-            name: Hasura
-            homepage_url: 'https://hasura.io/'
-            logo: hasura.svg
-            twitter: 'https://twitter.com/hasurahq'
-            crunchbase: 'https://www.crunchbase.com/organization/hasura'
-          - item:
-            name: Serverless
-            homepage_url: 'https://serverless.com/'
-            logo: serverless.svg
-            twitter: 'https://twitter.com/goserverless'
-            crunchbase: 'https://www.crunchbase.com/organization/serverless'
-          - item:
-            name: Twitter
-            homepage_url: 'https://twitter.com/'
-            stock_ticker: TWTR
-            logo: twitter.svg
-            twitter: 'https://twitter.com/twitter'
-            crunchbase: 'https://www.crunchbase.com/organization/twitter'   
-          - item:
             name: DailyMotion
             homepage_url: 'https://www.dailymotion.com/'
             logo: dailymotion.svg
@@ -140,6 +121,12 @@ landscape:
             logo: github.svg
             twitter: 'https://twitter.com/github'
             crunchbase: 'https://www.crunchbase.com/organization/github'
+          - item:
+            name: Hasura
+            homepage_url: 'https://hasura.io/'
+            logo: hasura.svg
+            twitter: 'https://twitter.com/hasurahq'
+            crunchbase: 'https://www.crunchbase.com/organization/hasura'
           - item:
             name: Intuit
             homepage_url: 'https://www.intuit.com/'
@@ -161,6 +148,12 @@ landscape:
             twitter: 'https://twitter.com/pinterest'
             crunchbase: 'https://www.crunchbase.com/organization/pinterest'
           - item:
+            name: Serverless
+            homepage_url: 'https://serverless.com/'
+            logo: serverless.svg
+            twitter: 'https://twitter.com/goserverless'
+            crunchbase: 'https://www.crunchbase.com/organization/serverless'
+          - item:
             name: Shopify
             homepage_url: 'https://www.shopify.com/'
             logo: shopify.svg
@@ -168,8 +161,9 @@ landscape:
             twitter: 'https://twitter.com/shopify'
             crunchbase: 'https://www.crunchbase.com/organization/shopify'
           - item:
-            name: Tensorflow
-            homepage_url: 'https://www.tensorflow.org/'
-            logo: tensorflow.svg
-            twitter: 'https://twitter.com/tensorflow'
-            crunchbase: 'https://www.crunchbase.com/organization/tensorflow'            
+            name: Twitter
+            homepage_url: 'https://twitter.com/'
+            stock_ticker: TWTR
+            logo: twitter.svg
+            twitter: 'https://twitter.com/twitter'
+            crunchbase: 'https://www.crunchbase.com/organization/twitter'   
