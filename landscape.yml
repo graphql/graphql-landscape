@@ -63,6 +63,13 @@ landscape:
             logo: arangodb.svg
             twitter: 'https://twitter.com/arangodb'
             crunchbase: 'https://www.crunchbase.com/organization/arangodb'
+          - item :
+            name: Atlassian
+            homepage_url: 'https://www.atlassian.com/'
+            logo: atlassian.svg
+            stock_ticker: TEAM
+            twitter: 'https://twitter.com/atlassian'
+            crunchbase: 'https://www.crunchbase.com/organization/atlassian'
           - item:
             name: Buildkite
             homepage_url: 'https://www.buildkite.com/'
@@ -70,17 +77,48 @@ landscape:
             twitter: 'https://twitter.com/buildkite'
             crunchbase: 'https://www.crunchbase.com/organization/buildkite'
           - item:
+            name: Github
+            homepage_url: 'https://www.github.com/'
+            logo: github.svg
+            twitter: 'https://twitter.com/github'
+            crunchbase: 'https://www.crunchbase.com/organization/github'
+          - item:
             name: Hasura
             homepage_url: 'https://hasura.io/'
             logo: hasura.svg
             twitter: 'https://twitter.com/hasurahq'
             crunchbase: 'https://www.crunchbase.com/organization/hasura'
           - item:
+            name: Neo4j
+            homepage_url: 'https://www.neo4j.com/'
+            logo: neo4j.svg
+            twitter: 'https://twitter.com/neo4j'
+            crunchbase: 'https://www.crunchbase.com/organization/neo-technology'
+          - item:
+            name: Paypal
+            homepage_url: 'https://www.paypal.com/'
+            logo: paypal.svg
+            twitter: 'https://twitter.com/paypal'
+            crunchbase: 'https://www.crunchbase.com/organization/paypal'
+          - item:
+            name: Pinterest
+            homepage_url: 'https://www.pinterest.com/'
+            logo: pinterest.svg
+            stock_ticker: PINS
+            twitter: 'https://twitter.com/pinterest'
+            crunchbase: 'https://www.crunchbase.com/organization/pinterest'
+          - item:
             name: Serverless
             homepage_url: 'https://serverless.com/'
             logo: serverless.svg
             twitter: 'https://twitter.com/goserverless'
             crunchbase: 'https://www.crunchbase.com/organization/serverless'
+          - item:
+            name: Shopify
+            homepage_url: 'https://www.shopify.com/'
+            logo: shopify.svg
+            twitter: 'https://twitter.com/shopify'
+            crunchbase: 'https://www.crunchbase.com/organization/shopify'    
           - item:
             name: Twitter
             homepage_url: 'https://twitter.com/'
@@ -89,26 +127,14 @@ landscape:
             twitter: 'https://twitter.com/twitter'
             crunchbase: 'https://www.crunchbase.com/organization/twitter'
           - item:
-            name: Arangodb
-            homepage_url: 'https://www.arangodb.com/'
-            logo: arangodb.svg
-            twitter: 'https://twitter.com/arangodb'
-            crunchbase: 'https://www.crunchbase.com/organization/arangodb'
+            name: Tensorflow
+            homepage_url: 'https://www.tensorflow.org/'
+            logo: tensorflow.svg
+            twitter: 'https://twitter.com/tensorflow'
+            crunchbase: 'https://www.crunchbase.com/organization/tensorflow'
           - item:
-            name: Buildkite
-            homepage_url: 'https://www.buildkite.com/'
-            logo: buildkite.svg
-            twitter: 'https://twitter.com/buildkite'
-            crunchbase: 'https://www.crunchbase.com/organization/buildkite'
-          - item:
-            name: Hasura
-            homepage_url: 'https://www.hasura.io/'
-            logo: hasura.svg
-            twitter: 'https://twitter.com/hasurahq'
-            crunchbase: 'https://www.crunchbase.com/organization/hasura'
-          - item:
-            name: Serverless
-            homepage_url: 'https://www.serverless.com/'
-            logo: serverless.svg
-            twitter: 'https://twitter.com/goserverless'
-            crunchbase: 'https://www.crunchbase.com/organization/serverless'
+            name: Yelp
+            homepage_url: 'https://www.yelp.com/'
+            logo: yelp.svg
+            twitter: 'https://twitter.com/yelp'
+            crunchbase: 'https://www.crunchbase.com/organization/yelp'
