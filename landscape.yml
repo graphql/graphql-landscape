@@ -6,12 +6,11 @@ landscape:
         name: Databases
         items:
           - item:
-            name: Accord.NET
-            homepage_url: 'http://accord-framework.net/'
-            repo_url: 'https://github.com/accord-net/framework'
-            logo: accord-net.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/accord-net-framework-project'
+            name: Fauna
+            homepage_url: 'https://fauna.com/'
+            logo: fauna.svg
+            twitter: faunadb
+            crunchbase: 'https://www.crunchbase.com/organization/fauna'
   - category:
     name: Services
     subcategories:
@@ -19,12 +18,10 @@ landscape:
         name: Services
         items:
           - item:
-            name: Tensorflow
-            homepage_url: 'https://www.tensorflow.org/'
-            repo_url: 'https://github.com/tensorflow/tensorflow'
-            logo: tensorflow.svg
-            twitter: 'https://twitter.com/TensorFlow'
-            crunchbase: 'https://www.crunchbase.com/organization/google'
+            name: AWS AppSync
+            homepage_url: 'https://aws.amazon.com/appsync/'
+            logo: amazon-web-services-member.svg
+            crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
   - category:
     name: Tools
     subcategories:
@@ -32,12 +29,11 @@ landscape:
         name: Tools
         items:
           - item:
-            name: Apache Mesos
-            homepage_url: 'http://mesos.apache.org/'
-            repo_url: 'https://github.com/apache/mesos'
-            logo: apache-mesos.svg
-            twitter: 'https://twitter.com/ApacheMesos'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
+            name: GraphiQL
+            homepage_url: 'https://github.com/graphql/graphiql'
+            repo_url: 'https://github.com/graphql/graphiql'
+            logo: graphql.svg
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
   - category:
     name: GraphQL Foundation Member Company
     subcategories:
