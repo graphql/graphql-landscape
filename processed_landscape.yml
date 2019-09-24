@@ -60,7 +60,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-23T01:48:17.000Z
+              latest_tweet_date: 2019-09-24T01:40:13.000Z
   - category:
     name: Services
     subcategories:
@@ -89,7 +89,7 @@ landscape:
               ticker: AMZN
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 887492050944
+              market_cap: 883109396480
               effective_ticker: AMZN
             image_data:
               fileName: aws-app-sync.svg
@@ -98,7 +98,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-23T05:00:01.000Z
+              latest_tweet_date: 2019-09-24T02:05:01.000Z
   - category:
     name: Tools
     subcategories:
@@ -124,7 +124,7 @@ landscape:
               linkedin: 'https://www.linkedin.com/company/the-linux-foundation'
               parents: []
             github_data:
-              stars: 9176
+              stars: 9184
               license: MIT License
               description: An in-browser IDE for exploring GraphQL.
               latest_commit_date: '2019-09-08T00:00:00.000Z'
@@ -143,7 +143,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-23T02:00:05.000Z
+              latest_tweet_date: 2019-09-23T12:48:25.000Z
   - category:
     name: GraphQL Foundation Member Company
     subcategories:
@@ -171,7 +171,7 @@ landscape:
               ticker: AMZN
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 887492050944
+              market_cap: 883109396480
               effective_ticker: AMZN
             image_data:
               fileName: amazon-web-services-member.svg
@@ -180,7 +180,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-23T05:00:01.000Z
+              latest_tweet_date: 2019-09-24T02:05:01.000Z
           - item:
             name: Hasura (member)
             homepage_url: 'https://hasura.io'
@@ -207,7 +207,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-23T01:48:17.000Z
+              latest_tweet_date: 2019-09-24T01:40:13.000Z
           - item:
             name: IBM (member)
             homepage_url: 'https://www.ibm.com/cloud'
@@ -229,7 +229,7 @@ landscape:
               ticker: IBM
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 125687947264
+              market_cap: 125856268288
               effective_ticker: IBM
             image_data:
               fileName: ibm-member.svg
@@ -238,7 +238,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-20T15:33:00.000Z
+              latest_tweet_date: 2019-09-23T08:55:38.000Z
           - item:
             name: Intuit (member)
             homepage_url: 'https://www.intuit.com'
@@ -259,7 +259,7 @@ landscape:
               ticker: INTU
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 69788950528
+              market_cap: 69742280704
               effective_ticker: INTU
             image_data:
               fileName: intuit-member.svg
@@ -267,7 +267,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-23T00:34:40.000Z
+              latest_tweet_date: 2019-09-23T20:49:34.000Z
           - item:
             name: Neo4j (member)
             homepage_url: 'https://neo4j.com'
@@ -290,7 +290,7 @@ landscape:
               kind: funding
               funding: 160100000
             github_data:
-              stars: 6887
+              stars: 6889
               license: Unknown License
               description: Graphs for Everyone
               latest_commit_date: '2019-09-20T00:00:00.000Z'
@@ -309,7 +309,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-23T05:00:17.000Z
+              latest_tweet_date: 2019-09-24T02:05:00.000Z
           - item:
             name: Shopify (member)
             homepage_url: 'https://www.shopify.com'
@@ -328,8 +328,11 @@ landscape:
               twitter: 'http://twitter.com/shopify'
               linkedin: 'https://www.linkedin.com/company/shopify'
               parents: []
-              kind: funding
-              funding: 122250000
+              ticker: SHOP
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 36061863936
+              effective_ticker: SHOP
             image_data:
               fileName: shopify-member.svg
               hash: 9lEs96a9HzjjwqucEJ8iyv44w+MhFqfcQGKl/uUSSf0=
@@ -337,7 +340,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-18T20:03:12.000Z
+              latest_tweet_date: 2019-09-23T18:33:09.000Z
           - item:
             name: Solo.io (member)
             homepage_url: 'https://www.solo.io'
@@ -364,7 +367,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-21T21:06:33.000Z
+              latest_tweet_date: 2019-09-23T22:04:59.000Z
           - item:
             name: Twitter (member)
             homepage_url: 'https://twitter.com/'
@@ -387,7 +390,7 @@ landscape:
               ticker: TWTR
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 33417566208
+              market_cap: 33533521920
               effective_ticker: TWTR
             image_data:
               fileName: twitter-member.svg
@@ -396,7 +399,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-21T17:45:05.000Z
+              latest_tweet_date: 2019-09-23T23:51:16.000Z
   - category:
     name: GraphQL Adopter
     subcategories:
@@ -430,7 +433,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-23T01:34:59.000Z
+              latest_tweet_date: 2019-09-23T11:34:59.000Z
           - item:
             name: Buildkite
             homepage_url: 'https://buildkite.com/'
@@ -456,7 +459,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-22T22:58:27.000Z
+              latest_tweet_date: 2019-09-23T21:41:22.000Z
           - item:
             name: Cheddar
             homepage_url: 'https://cheddar.com'
@@ -484,7 +487,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-23T00:36:00.000Z
+              latest_tweet_date: 2019-09-24T02:15:00.000Z
           - item:
             name: Coursera
             homepage_url: 'https://www.coursera.org'
@@ -512,7 +515,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-22T20:53:01.000Z
+              latest_tweet_date: 2019-09-23T22:11:07.000Z
           - item:
             name: DailyMotion
             homepage_url: 'https://www.dailymotion.com/'
@@ -563,7 +566,7 @@ landscape:
               ticker: MSFT
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1064681603072
+              market_cap: 1060104830976
               effective_ticker: MSFT
             image_data:
               fileName: github.svg
@@ -572,7 +575,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-20T16:00:21.000Z
+              latest_tweet_date: 2019-09-23T16:00:24.000Z
           - item:
             name: Goalify
             homepage_url: 'https://goalify.plus/'
@@ -626,7 +629,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-23T01:48:17.000Z
+              latest_tweet_date: 2019-09-24T01:40:13.000Z
           - item:
             name: Hudl
             homepage_url: 'https://hudl.com'
@@ -654,7 +657,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-22T16:40:00.000Z
+              latest_tweet_date: 2019-09-23T22:23:00.000Z
           - item:
             name: Intuit
             homepage_url: 'https://www.intuit.com/'
@@ -677,7 +680,7 @@ landscape:
               ticker: INTU
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 69788950528
+              market_cap: 69742280704
               effective_ticker: INTU
             image_data:
               fileName: intuit.svg
@@ -686,7 +689,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-23T00:34:40.000Z
+              latest_tweet_date: 2019-09-23T20:49:34.000Z
           - item:
             name: KLM
             homepage_url: 'https://www.klm.com'
@@ -712,7 +715,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-23T05:11:25.000Z
+              latest_tweet_date: 2019-09-24T02:31:44.000Z
           - item:
             name: Loggi
             homepage_url: 'https://www.loggi.com'
@@ -763,7 +766,7 @@ landscape:
               ticker: CMCSA
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 210705743872
+              market_cap: 210046730240
               effective_ticker: CMCSA
             image_data:
               fileName: nbc-news-digital.svg
@@ -772,7 +775,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-23T02:54:30.000Z
+              latest_tweet_date: 2019-09-24T00:10:56.000Z
           - item:
             name: Neo4j
             homepage_url: 'https://www.neo4j.com/'
@@ -800,7 +803,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-23T05:00:17.000Z
+              latest_tweet_date: 2019-09-24T02:05:00.000Z
           - item:
             name: Pinterest
             homepage_url: 'https://www.pinterest.com/'
@@ -823,7 +826,7 @@ landscape:
               ticker: PINS
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 16400696320
+              market_cap: 15494370304
               effective_ticker: PINS
             image_data:
               fileName: pinterest.svg
@@ -832,7 +835,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-21T00:41:46.000Z
+              latest_tweet_date: 2019-09-23T22:14:01.000Z
           - item:
             name: Serverless
             homepage_url: 'https://serverless.com/'
@@ -861,7 +864,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-21T14:08:33.000Z
+              latest_tweet_date: 2019-09-24T01:58:53.000Z
           - item:
             name: Shopify
             homepage_url: 'https://www.shopify.com/'
@@ -881,8 +884,11 @@ landscape:
               twitter: 'http://twitter.com/shopify'
               linkedin: 'https://www.linkedin.com/company/shopify'
               parents: []
-              kind: funding
-              funding: 122250000
+              ticker: SHOP
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 36061863936
+              effective_ticker: SHOP
             image_data:
               fileName: shopify.svg
               hash: 9lEs96a9HzjjwqucEJ8iyv44w+MhFqfcQGKl/uUSSf0=
@@ -890,7 +896,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-18T20:03:12.000Z
+              latest_tweet_date: 2019-09-23T18:33:09.000Z
           - item:
             name: Twitter
             homepage_url: 'https://twitter.com/'
@@ -913,7 +919,7 @@ landscape:
               ticker: TWTR
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 33417566208
+              market_cap: 33533521920
               effective_ticker: TWTR
             image_data:
               fileName: twitter.svg
@@ -922,7 +928,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-21T17:45:05.000Z
+              latest_tweet_date: 2019-09-23T23:51:16.000Z
           - item:
             name: Yelp
             homepage_url: 'https://www.yelp.com/'
@@ -945,7 +951,7 @@ landscape:
               ticker: YELP
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 2659146752
+              market_cap: 2611916288
               effective_ticker: YELP
             image_data:
               fileName: yelp.svg
@@ -954,7 +960,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-20T23:32:14.000Z
+              latest_tweet_date: 2019-09-24T02:21:08.000Z
 twitter_options:
   count: 32
   since_id: '1121971949217837057'
