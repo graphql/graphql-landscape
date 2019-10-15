@@ -48,34 +48,95 @@ landscape:
         name: General
         items:
           - item:
+            name: 8base (member)
+            homepage_url: 'https://8base.com/'
+            logo: 8base.svg
+            crunchbase: 'https://www.crunchbase.com/organization/8base-2'
+          - item:
             name: Amazon Web Services (member)
             homepage_url: 'https://aws.amazon.com/'
             logo: amazon-web-services.svg
             crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
           - item:
+            name: Apollo GraphQL (member)
+            homepage_url: 'https://www.apollographql.com/'
+            logo: apollo-graphql.svg
+            crunchbase: 'https://www.crunchbase.com/organization/meteor'
+          - item:
+            name: Dgraph Labs (member)
+            homepage_url: 'https://dgraph.io/'
+            logo: dgraph-labs.svg
+            crunchbase: 'https://www.crunchbase.com/organization/dgraph'
+          - item:
+            name: Elementl (member)
+            homepage_url: 'https://www.elementl.com/'
+            logo: elementl.png
+            crunchbase: 'https://www.crunchbase.com/organization/elementl'
+          - item:
+            name: Facebook (member)
+            homepage_url: 'https://www.facebook.com/'
+            logo: facebook.png
+            crunchbase: 'https://www.crunchbase.com/organization/facebook'
+          - item:
+            name: Fauna (member)
+            homepage_url: 'https://fauna.com/'
+            logo: fauna.svg
+            crunchbase: 'https://www.crunchbase.com/organization/fauna'
+          - item:
+            name: Gatsby (member)
+            homepage_url: 'https://www.gatsbyjs.org/'
+            logo: gatsby.svg
+            crunchbase: 'https://www.crunchbase.com/organization/gatsby-e828'
+          - item:
             name: Hasura (member)
             homepage_url: 'https://hasura.io'
-            logo: 'https://www.cncf.io/wp-content/uploads/2017/11/hasura-2.svg'
+            logo: hasura.svg
             twitter: 'https://twitter.com/HasuraHQ'
             crunchbase: 'https://www.crunchbase.com/organization/hasura'
           - item:
+            name: HomeAway (member)
+            homepage_url: 'https://homeaway.com'
+            logo: homeaway.svg
+            twitter: 'https://twitter.com/homeaway'
+            crunchbase: 'https://www.crunchbase.com/organization/homeaway'
+          - item:
             name: IBM (member)
-            homepage_url: 'https://www.ibm.com/cloud'
-            logo: ibm-cloud.svg
-            twitter: 'https://twitter.com/IBMcloud'
+            homepage_url: 'https://www.ibm.com/'
+            logo: ibm.svg
+            twitter: 'https://twitter.com/IBM'
             crunchbase: 'https://www.crunchbase.com/organization/ibm'
           - item:
             name: Intuit (member)
-            homepage_url: 'https://www.intuit.com'
-            logo: 'https://www.cncf.io/wp-content/uploads/2018/02/intuit.svg'
+            homepage_url: 'https://www.intuit.com/'
+            logo: intuit.svg
             crunchbase: 'https://www.crunchbase.com/organization/intuit'
           - item:
             name: Neo4j (member)
-            homepage_url: 'https://neo4j.com'
+            homepage_url: 'https://neo4j.com/'
             repo_url: 'https://github.com/neo4j/neo4j'
             logo: neo4j.svg
             twitter: 'https://twitter.com/neo4j'
             crunchbase: 'https://www.crunchbase.com/organization/neo-technology'
+          - item:
+            name: Novvum (member)
+            homepage_url: 'https://novvum.io/'
+            logo: novvum.png
+            crunchbase: 'https://www.crunchbase.com'
+          - item:
+            name: PayPal (member)
+            homepage_url: 'https://paypal.com/'
+            logo: paypal.svg
+            crunchbase: 'https://www.crunchbase.com/organization/paypal'
+          - item:
+            name: Prisma (member)
+            homepage_url: 'https://prisma.io/'
+            logo: prisma.svg
+            crunchbase: 'https://www.crunchbase.com/organization/prisma-io'
+          - item:
+            name: Salsify (member)
+            homepage_url: 'https://www.salsify.com/'
+            logo: salsify.png
+            crunchbase: 'https://www.crunchbase.com/organization/salsify'
           - item:
             name: Shopify (member)
             homepage_url: 'https://www.shopify.com'
@@ -85,7 +146,7 @@ landscape:
           - item:
             name: Solo.io (member)
             homepage_url: 'https://www.solo.io'
-            logo: 'https://www.cncf.io/wp-content/uploads/2018/10/solo.io_.svg'
+            logo: solo-io.svg
             twitter: 'https://twitter.com/soloio_inc'
             crunchbase: 'https://www.crunchbase.com/organization/solo-io'
           - item:
