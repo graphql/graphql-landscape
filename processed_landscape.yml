@@ -261,6 +261,29 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-10-15T14:00:03.000Z
           - item:
+            name: Elementl (member)
+            homepage_url: 'https://www.elementl.com/'
+            logo: elementl.svg
+            crunchbase: 'https://www.crunchbase.com/organization/elementl'
+            crunchbase_data:
+              name: Elementl
+              description: 'Building Dagster, an open-source Python library for building data applications.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://www.elementl.com'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: null
+              linkedin: null
+              parents: []
+            image_data:
+              fileName: elementl-member.svg
+              hash: t+WvTQfQaOzP2xonMHjbRXH6hwexQ92pBDhdPcXyrLM=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Facebook (member)
             homepage_url: 'https://www.facebook.com/'
             logo: 'https://upload.wikimedia.org/wikipedia/commons/8/89/Facebook_Logo_%282019%29.svg'
@@ -532,6 +555,33 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-10-11T22:40:57.000Z
+          - item:
+            name: Pipefy (member)
+            homepage_url: 'https://pipefy.com/'
+            logo: pipefy.svg
+            crunchbase: 'https://www.crunchbase.com/organization/pipefy'
+            crunchbase_data:
+              name: Pipefy
+              description: Pipefy provides software for workflow management and process improvement.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: 'http://www.pipefy.com'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/pipefy'
+              linkedin: 'https://www.linkedin.com/company/pipefy/'
+              parents: []
+              kind: funding
+              funding: 63737500
+            image_data:
+              fileName: pipefy-member.svg
+              hash: awaF6C2APzns0z7aPCw+9KRKDFa6eLd2SpRxZ/GLxqI=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-16T15:07:02.000Z
           - item:
             name: Prisma (member)
             homepage_url: 'https://prisma.io/'
