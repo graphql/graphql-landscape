@@ -9,13 +9,11 @@ landscape:
             name: Fauna
             homepage_url: 'https://fauna.com/'
             logo: fauna.svg
-            twitter: 'https://twitter.com/faunadb'
             crunchbase: 'https://www.crunchbase.com/organization/fauna'
           - item:
             name: Hasura GraphQL Engine
             homepage_url: 'https://hasura.io'
             logo: 'https://www.cncf.io/wp-content/uploads/2017/11/hasura-2.svg'
-            twitter: 'https://twitter.com/HasuraHQ'
             crunchbase: 'https://www.crunchbase.com/organization/hasura'
   - category:
     name: Services
@@ -27,7 +25,6 @@ landscape:
             name: AWS AppSync
             homepage_url: 'https://aws.amazon.com/appsync/'
             logo: amazon-web-services.svg
-            twitter: 'https://twitter.com/awscloud'
             crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
   - category:
     name: Tools
@@ -48,52 +45,92 @@ landscape:
         name: General
         items:
           - item:
+            name: 8base (member)
+            homepage_url: 'https://8base.com/'
+            logo: 8base.svg
+            crunchbase: 'https://www.crunchbase.com/organization/8base-2'
+          - item:
             name: Amazon Web Services (member)
             homepage_url: 'https://aws.amazon.com/'
             logo: amazon-web-services.svg
             crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
           - item:
+            name: Apollo GraphQL (member)
+            homepage_url: 'https://www.apollographql.com/'
+            logo: apollo-graphql.svg
+            crunchbase: 'https://www.crunchbase.com/organization/meteor'
+          - item:
+            name: Dgraph Labs (member)
+            homepage_url: 'https://dgraph.io/'
+            logo: dgraph-labs.svg
+            crunchbase: 'https://www.crunchbase.com/organization/dgraph'
+          - item:
+            name: Facebook (member)
+            homepage_url: 'https://www.facebook.com/'
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/8/89/Facebook_Logo_%282019%29.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/facebook'
+          - item:
+            name: Fauna (member)
+            homepage_url: 'https://fauna.com/'
+            logo: fauna.svg
+            crunchbase: 'https://www.crunchbase.com/organization/fauna'
+          - item:
+            name: Gatsby (member)
+            homepage_url: 'https://www.gatsbyjs.org/'
+            logo: gatsby.svg
+            crunchbase: 'https://www.crunchbase.com/organization/gatsby-e828'
+          - item:
             name: Hasura (member)
             homepage_url: 'https://hasura.io'
-            logo: 'https://www.cncf.io/wp-content/uploads/2017/11/hasura-2.svg'
-            twitter: 'https://twitter.com/HasuraHQ'
+            logo: hasura.svg
             crunchbase: 'https://www.crunchbase.com/organization/hasura'
           - item:
+            name: HomeAway (member)
+            homepage_url: 'https://homeaway.com'
+            stock_ticker: null
+            logo: homeaway.svg
+            crunchbase: 'https://www.crunchbase.com/organization/homeaway'
+          - item:
             name: IBM (member)
-            homepage_url: 'https://www.ibm.com/cloud'
-            logo: ibm-cloud.svg
-            twitter: 'https://twitter.com/IBMcloud'
+            homepage_url: 'https://www.ibm.com/'
+            logo: ibm.svg
             crunchbase: 'https://www.crunchbase.com/organization/ibm'
           - item:
             name: Intuit (member)
-            homepage_url: 'https://www.intuit.com'
-            logo: 'https://www.cncf.io/wp-content/uploads/2018/02/intuit.svg'
+            homepage_url: 'https://www.intuit.com/'
+            logo: intuit.svg
             crunchbase: 'https://www.crunchbase.com/organization/intuit'
           - item:
             name: Neo4j (member)
-            homepage_url: 'https://neo4j.com'
+            homepage_url: 'https://neo4j.com/'
             repo_url: 'https://github.com/neo4j/neo4j'
             logo: neo4j.svg
-            twitter: 'https://twitter.com/neo4j'
             crunchbase: 'https://www.crunchbase.com/organization/neo-technology'
+          - item:
+            name: PayPal (member)
+            homepage_url: 'https://paypal.com/'
+            logo: paypal.svg
+            crunchbase: 'https://www.crunchbase.com/organization/paypal'
+          - item:
+            name: Prisma (member)
+            homepage_url: 'https://prisma.io/'
+            logo: prisma.svg
+            crunchbase: 'https://www.crunchbase.com/organization/prisma-io'
           - item:
             name: Shopify (member)
             homepage_url: 'https://www.shopify.com'
             logo: shopify.svg
-            twitter: 'https://twitter.com/shopify'
             crunchbase: 'https://www.crunchbase.com/organization/shopify'
           - item:
             name: Solo.io (member)
             homepage_url: 'https://www.solo.io'
-            logo: 'https://www.cncf.io/wp-content/uploads/2018/10/solo.io_.svg'
-            twitter: 'https://twitter.com/soloio_inc'
+            logo: solo-io.svg
             crunchbase: 'https://www.crunchbase.com/organization/solo-io'
           - item:
             name: Twitter (member)
             homepage_url: 'https://twitter.com/'
             stock_ticker: TWTR
             logo: twitter.svg
-            twitter: 'https://twitter.com/twitter'
             crunchbase: 'https://www.crunchbase.com/organization/twitter'
   - category:
     name: GraphQL Adopter

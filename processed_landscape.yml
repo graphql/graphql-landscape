@@ -10,7 +10,6 @@ landscape:
             name: Fauna
             homepage_url: 'https://fauna.com/'
             logo: fauna.svg
-            twitter: 'https://twitter.com/faunadb'
             crunchbase: 'https://www.crunchbase.com/organization/fauna'
             crunchbase_data:
               name: Fauna
@@ -33,12 +32,11 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-29T16:46:06.000Z
+              latest_tweet_date: 2019-10-15T23:20:08.000Z
           - item:
             name: Hasura GraphQL Engine
             homepage_url: 'https://hasura.io'
             logo: 'https://www.cncf.io/wp-content/uploads/2017/11/hasura-2.svg'
-            twitter: 'https://twitter.com/HasuraHQ'
             crunchbase: 'https://www.crunchbase.com/organization/hasura'
             crunchbase_data:
               name: Hasura
@@ -71,7 +69,6 @@ landscape:
             name: AWS AppSync
             homepage_url: 'https://aws.amazon.com/appsync/'
             logo: amazon-web-services.svg
-            twitter: 'https://twitter.com/awscloud'
             crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
             crunchbase_data:
               name: Amazon Web Services
@@ -151,6 +148,33 @@ landscape:
         name: General
         items:
           - item:
+            name: 8base (member)
+            homepage_url: 'https://8base.com/'
+            logo: 8base.svg
+            crunchbase: 'https://www.crunchbase.com/organization/8base-2'
+            crunchbase_data:
+              name: 8base
+              description: 8base is a next generation backend-as-a-service for powering SaaS and other go-to-market applications.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://8base.com'
+              city: Coral Gables
+              region: Florida
+              country: United States
+              twitter: 'https://twitter.com/8baseinc'
+              linkedin: 'https://www.linkedin.com/company/8base/'
+              parents: []
+              kind: funding
+              funding: 2800000
+            image_data:
+              fileName: 8base-member.svg
+              hash: 9ISuHXEQOyNpQEjFXCiPixrx3L8sQ0HoH+hZ98EEoWg=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-11T19:41:52.000Z
+          - item:
             name: Amazon Web Services (member)
             homepage_url: 'https://aws.amazon.com/'
             logo: amazon-web-services.svg
@@ -184,8 +208,7 @@ landscape:
           - item:
             name: Hasura (member)
             homepage_url: 'https://hasura.io'
-            logo: 'https://www.cncf.io/wp-content/uploads/2017/11/hasura-2.svg'
-            twitter: 'https://twitter.com/HasuraHQ'
+            logo: hasura.svg
             crunchbase: 'https://www.crunchbase.com/organization/hasura'
             crunchbase_data:
               name: Hasura
@@ -203,6 +226,7 @@ landscape:
               funding: 1600000
             image_data:
               fileName: hasura-member.svg
+              hash: o0ZcUf3u9YqXJ39yLTvbpEmDFJrA2B0c/y8hhA+6Lwo=
             best_practice_data:
               badge: false
               percentage: null
@@ -210,9 +234,8 @@ landscape:
               latest_tweet_date: 2019-10-14T23:30:00.000Z
           - item:
             name: IBM (member)
-            homepage_url: 'https://www.ibm.com/cloud'
-            logo: ibm-cloud.svg
-            twitter: 'https://twitter.com/IBMcloud'
+            homepage_url: 'https://www.ibm.com/'
+            logo: ibm.svg
             crunchbase: 'https://www.crunchbase.com/organization/ibm'
             crunchbase_data:
               name: IBM
@@ -233,16 +256,15 @@ landscape:
               effective_ticker: IBM
             image_data:
               fileName: ibm-member.svg
-              hash: eZxIibwudBXqy3VKTpiGHKR9vnXpA0wXTm0/gOJDssc=
+              hash: E3EqK0+0lDbMaYLFdixTASQkDfEwHfQSUjMYvazFtoI=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-14T14:16:49.000Z
           - item:
             name: Intuit (member)
-            homepage_url: 'https://www.intuit.com'
-            logo: 'https://www.cncf.io/wp-content/uploads/2018/02/intuit.svg'
+            homepage_url: 'https://www.intuit.com/'
+            logo: intuit.svg
             crunchbase: 'https://www.crunchbase.com/organization/intuit'
             crunchbase_data:
               name: Intuit
@@ -263,6 +285,7 @@ landscape:
               effective_ticker: INTU
             image_data:
               fileName: intuit-member.svg
+              hash: I24++Glol3FKuM1gpkeYrf7/9/Kg35S+Nc5GmoMBNkE=
             best_practice_data:
               badge: false
               percentage: null
@@ -270,10 +293,9 @@ landscape:
               latest_tweet_date: 2019-10-14T18:19:05.000Z
           - item:
             name: Neo4j (member)
-            homepage_url: 'https://neo4j.com'
+            homepage_url: 'https://neo4j.com/'
             repo_url: 'https://github.com/neo4j/neo4j'
             logo: neo4j.svg
-            twitter: 'https://twitter.com/neo4j'
             crunchbase: 'https://www.crunchbase.com/organization/neo-technology'
             crunchbase_data:
               name: Neo4j
@@ -314,7 +336,6 @@ landscape:
             name: Shopify (member)
             homepage_url: 'https://www.shopify.com'
             logo: shopify.svg
-            twitter: 'https://twitter.com/shopify'
             crunchbase: 'https://www.crunchbase.com/organization/shopify'
             crunchbase_data:
               name: Shopify
@@ -344,8 +365,7 @@ landscape:
           - item:
             name: Solo.io (member)
             homepage_url: 'https://www.solo.io'
-            logo: 'https://www.cncf.io/wp-content/uploads/2018/10/solo.io_.svg'
-            twitter: 'https://twitter.com/soloio_inc'
+            logo: solo-io.svg
             crunchbase: 'https://www.crunchbase.com/organization/solo-io'
             crunchbase_data:
               name: Solo.io
@@ -363,6 +383,7 @@ landscape:
               funding: 13500000
             image_data:
               fileName: solo-io-member.svg
+              hash: pQuDCH+JGK73TcmWnVwBLPqcnv7dEZLIYpTDs2Et9M4=
             best_practice_data:
               badge: false
               percentage: null
@@ -373,7 +394,6 @@ landscape:
             homepage_url: 'https://twitter.com/'
             stock_ticker: TWTR
             logo: twitter.svg
-            twitter: 'https://twitter.com/twitter'
             crunchbase: 'https://www.crunchbase.com/organization/twitter'
             crunchbase_data:
               name: Twitter
