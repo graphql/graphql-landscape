@@ -101,9 +101,9 @@ big_picture:
       height: 630
     elements:
       - type: HorizontalCategory
-        category: Tools
+        category: Projects
         rows: 3
-        width: 125
+        width: 325
         height: 160
         top: 0
         left: 0
@@ -112,19 +112,19 @@ big_picture:
       - type: HorizontalCategory
         category: Services
         rows: 3
-        width: 380
+        width: 280
         height: 160
         top: 0
-        left: 145
+        left: 345
         color: 'rgb(78,171,207)'
         fit_width: true
       - type: HorizontalCategory
         category: Databases
         rows: 3
-        width: 425
+        width: 325
         height: 160
         top: 0
-        left: 545
+        left: 645
         color: 'rgb(104, 145, 145)'
         fit_width: true
       - type: HorizontalCategory

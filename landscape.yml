@@ -1,5 +1,28 @@
 landscape:
   - category:
+    name: Projects
+    subcategories:
+      - subcategory:
+        name: Spec
+        items:
+          - item:
+            name: GraphQL Spec
+            homepage_url: 'https://graphql.org'
+            project: foundationproject
+            repo_url: 'https://github.com/graphql/graphql-spec'
+            logo: graphql.svg
+            crunchbase: 'https://www.crunchbase.com/organization/graphql-foundation'
+      - subcategory:
+        name: Tools
+        items:
+          - item:
+            name: GraphiQL
+            homepage_url: 'https://github.com/graphql/graphiql'
+            project: foundationproject
+            repo_url: 'https://github.com/graphql/graphiql'
+            logo: graphiql.svg
+            crunchbase: 'https://www.crunchbase.com/organization/graphql-foundation'
+  - category:
     name: Databases
     subcategories:
       - subcategory:
@@ -26,18 +49,6 @@ landscape:
             homepage_url: 'https://aws.amazon.com/appsync/'
             logo: amazon-web-services.svg
             crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
-  - category:
-    name: Tools
-    subcategories:
-      - subcategory:
-        name: Tools
-        items:
-          - item:
-            name: GraphiQL
-            homepage_url: 'https://graphql.org'
-            repo_url: 'https://github.com/graphql/graphiql'
-            logo: graphql.svg
-            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
   - category:
     name: GraphQL Foundation Member
     subcategories:

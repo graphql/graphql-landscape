@@ -1,6 +1,97 @@
 # THIS FILE IS GENERATED AUTOMATICALLY!
 landscape:
   - category:
+    name: Projects
+    subcategories:
+      - subcategory:
+        name: Spec
+        items:
+          - item:
+            name: GraphQL Spec
+            homepage_url: 'https://graphql.org'
+            project: foundationproject
+            repo_url: 'https://github.com/graphql/graphql-spec'
+            logo: graphql.svg
+            crunchbase: 'https://www.crunchbase.com/organization/graphql-foundation'
+            crunchbase_data:
+              name: GraphQL Foundation
+              description: Enabling widespread adoption of GraphQL to help accelerate development and the surrounding ecosystem
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://foundation.graphql.org'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/GraphQL'
+              linkedin: null
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+            github_data:
+              stars: 12059
+              license: Unknown License
+              description: GraphQL is a query language and execution engine tied to any backend service.
+              latest_commit_date: '2019-10-14T13:01:30Z'
+              latest_commit_link: /graphql/graphql-spec/commit/92ad4cac7c4ace3e3047346e937a9a53d4a2e130
+              release_date: '2018-06-11T02:45:19Z'
+              release_link: 'https://github.com/graphql/graphql-spec/releases'
+              contributors_count: 87
+              contributors_link: 'https://github.com/graphql/graphql-spec/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /graphql/graphql-spec/commit/7c0398803c94826957be307e1d3c4a5ffc3c5b5e
+              start_date: '2015-07-01T00:41:15Z'
+            image_data:
+              fileName: graph-ql-spec.svg
+              hash: /wzA7u6MxKYkQbunahsIFIvt3QtzLq4x/PXWwtwps8g=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-06-26T16:15:00.000Z
+      - subcategory:
+        name: Tools
+        items:
+          - item:
+            name: GraphiQL
+            homepage_url: 'https://github.com/graphql/graphiql'
+            project: foundationproject
+            repo_url: 'https://github.com/graphql/graphiql'
+            logo: graphiql.svg
+            crunchbase: 'https://www.crunchbase.com/organization/graphql-foundation'
+            crunchbase_data:
+              name: GraphQL Foundation
+              description: Enabling widespread adoption of GraphQL to help accelerate development and the surrounding ecosystem
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://foundation.graphql.org'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/GraphQL'
+              linkedin: null
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+            github_data:
+              stars: 9327
+              license: MIT License
+              description: An in-browser IDE for exploring GraphQL.
+              latest_commit_date: '2019-10-15T10:00:49Z'
+              latest_commit_link: /graphql/graphiql/commit/7efed6c5483ec2b06657e8537e6452ac10a8c3cf
+              release_date: '2019-10-04T05:38:41Z'
+              release_link: 'https://github.com/graphql/graphiql/releases'
+              contributors_count: 114
+              contributors_link: 'https://github.com/graphql/graphiql/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /graphql/graphiql/commit/b9dec272d89d9c590727fd10d62e4a47e0317fc7
+              start_date: '2015-08-24T08:59:14Z'
+            image_data:
+              fileName: graphi-ql.svg
+              hash: +OIb0eVIkv4eyjjYeI5yUANT2RwGgh4L9YCueUzNBnw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-06-26T16:15:00.000Z
+  - category:
     name: Databases
     subcategories:
       - subcategory:
@@ -96,51 +187,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-10-16T09:03:13.000Z
-  - category:
-    name: Tools
-    subcategories:
-      - subcategory:
-        name: Tools
-        items:
-          - item:
-            name: GraphiQL
-            homepage_url: 'https://graphql.org'
-            repo_url: 'https://github.com/graphql/graphiql'
-            logo: graphql.svg
-            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
-            crunchbase_data:
-              name: Linux Foundation
-              description: The Linux Foundation builds sustainable ecosystems around open source projects to accelerate technology development and industry adoption.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: 'http://www.linuxfoundation.org'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: 'http://twitter.com/linuxfoundation'
-              linkedin: 'https://www.linkedin.com/company/the-linux-foundation'
-              parents: []
-            github_data:
-              stars: 9327
-              license: MIT License
-              description: An in-browser IDE for exploring GraphQL.
-              latest_commit_date: '2019-10-15T10:00:49Z'
-              latest_commit_link: /graphql/graphiql/commit/7efed6c5483ec2b06657e8537e6452ac10a8c3cf
-              release_date: '2019-10-04T05:38:41Z'
-              release_link: 'https://github.com/graphql/graphiql/releases'
-              contributors_count: 114
-              contributors_link: 'https://github.com/graphql/graphiql/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /graphql/graphiql/commit/b9dec272d89d9c590727fd10d62e4a47e0317fc7
-              start_date: '2015-08-24T08:59:14Z'
-            image_data:
-              fileName: graphi-ql.svg
-              hash: LoDqGqUq6kJDYbqUBJEYk8qdjkbpI+MjQ5qd2OVE/bI=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-10-16T01:36:45.000Z
   - category:
     name: GraphQL Foundation Member
     subcategories:
@@ -387,7 +433,7 @@ landscape:
               funding: 1600000
             image_data:
               fileName: hasura-member.svg
-              hash: o0ZcUf3u9YqXJ39yLTvbpEmDFJrA2B0c/y8hhA+6Lwo=
+              hash: lhrTZyKc/eD1z/8kr0wRKSFSdZre3JMNMSNVhba9/h4=
             best_practice_data:
               badge: false
               percentage: null
@@ -487,7 +533,6 @@ landscape:
           - item:
             name: Neo4j (member)
             homepage_url: 'https://neo4j.com/'
-            repo_url: 'https://github.com/neo4j/neo4j'
             logo: neo4j.svg
             crunchbase: 'https://www.crunchbase.com/organization/neo-technology'
             crunchbase_data:
@@ -504,19 +549,6 @@ landscape:
               parents: []
               kind: funding
               funding: 160100000
-            github_data:
-              stars: 6976
-              license: Unknown License
-              description: Graphs for Everyone
-              latest_commit_date: '2019-10-11T21:59:08Z'
-              latest_commit_link: /neo4j/neo4j/commit/893080350537561f228d527b8039916b957e48d7
-              release_date: '2017-09-15T12:28:27Z'
-              release_link: 'https://github.com/neo4j/neo4j/releases'
-              contributors_count: 178
-              contributors_link: 'https://github.com/neo4j/neo4j/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /neo4j/neo4j/commit/6a945ab06a928bbd0f93dc56af279ee35107d7c3
-              start_date: '2007-05-24T01:34:45Z'
             image_data:
               fileName: neo4j-member.svg
               hash: L3FywyQo36HHkBYlC82HHqCqicTV/TrI/PbUAbGK3II=
@@ -555,33 +587,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-10-11T22:40:57.000Z
-          - item:
-            name: Pipefy (member)
-            homepage_url: 'https://pipefy.com/'
-            logo: pipefy.svg
-            crunchbase: 'https://www.crunchbase.com/organization/pipefy'
-            crunchbase_data:
-              name: Pipefy
-              description: Pipefy provides software for workflow management and process improvement.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: 'http://www.pipefy.com'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/pipefy'
-              linkedin: 'https://www.linkedin.com/company/pipefy/'
-              parents: []
-              kind: funding
-              funding: 63737500
-            image_data:
-              fileName: pipefy-member.svg
-              hash: awaF6C2APzns0z7aPCw+9KRKDFa6eLd2SpRxZ/GLxqI=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-10-16T15:07:02.000Z
           - item:
             name: Prisma (member)
             homepage_url: 'https://prisma.io/'
@@ -921,7 +926,7 @@ landscape:
               funding: 1600000
             image_data:
               fileName: hasura.svg
-              hash: o0ZcUf3u9YqXJ39yLTvbpEmDFJrA2B0c/y8hhA+6Lwo=
+              hash: lhrTZyKc/eD1z/8kr0wRKSFSdZre3JMNMSNVhba9/h4=
             best_practice_data:
               badge: false
               percentage: null
