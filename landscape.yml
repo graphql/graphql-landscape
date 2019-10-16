@@ -29,6 +29,19 @@ landscape:
         name: Databases
         items:
           - item:
+            name: Arangodb
+            homepage_url: 'https://www.arangodb.com/'
+            logo: arangodb.svg
+            twitter: 'https://twitter.com/arangodb'
+            repo_url: 'https://github.com/arangodb/arangodb'
+            crunchbase: 'https://www.crunchbase.com/organization/arangodb'
+          - item:
+            name: Dgraph
+            homepage_url: 'https://dgraph.io/'
+            logo: dgraph-labs.svg
+            repo_url: 'https://github.com/dgraph-io/dgraph'
+            crunchbase: 'https://www.crunchbase.com/organization/dgraph'
+          - item:
             name: Fauna
             homepage_url: 'https://fauna.com/'
             logo: fauna.svg
@@ -44,6 +57,12 @@ landscape:
       - subcategory:
         name: Services
         items:
+          - item:
+            name: Apollo GraphQL Server
+            homepage_url: 'https://github.com/apollographql/apollo-server'
+            repo_url: 'https://github.com/apollographql/apollo-server'
+            logo: apollo-graphql.svg
+            crunchbase: 'https://www.crunchbase.com/organization/meteor'
           - item:
             name: AWS AppSync
             homepage_url: 'https://aws.amazon.com/appsync/'
@@ -154,7 +173,7 @@ landscape:
         name: GraphQL Adopter
         items:
           - item:
-            name: Arangodb
+            name: Arangodb (adopter)
             homepage_url: 'https://www.arangodb.com/'
             logo: arangodb.svg
             twitter: 'https://twitter.com/arangodb'
