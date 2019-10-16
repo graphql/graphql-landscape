@@ -8,12 +8,12 @@
   },
   "scripts": {
     "build": "npm run latest; npm config set scripts-prepend-node-path true; export PROJECT_PATH=\"$PWD\"; npm explore interactive-landscape -- npm run build",
-    "latest": "npm install interactive-landscape#406-proper-report-to-pull-request"
+    "latest": "npm install cncf/landscapeapp#0da4cb399d62284576bd58cfc880ab257aa50422"
   },
   "author": "LFDL",
   "license": "Apache-2.0",
   "dependencies": {
-    "interactive-landscape": "1.0.285"
+    "interactive-landscape": "github:cncf/landscapeapp#0da4cb399d62284576bd58cfc880ab257aa50422"
   },
   "keywords": [],
   "repository": {
