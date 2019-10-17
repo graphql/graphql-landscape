@@ -31,15 +31,15 @@ landscape:
           - item:
             name: Arangodb
             homepage_url: 'https://www.arangodb.com/'
+            repo_url: 'https://github.com/arangodb/arangodb'
             logo: arangodb.svg
             twitter: 'https://twitter.com/arangodb'
-            repo_url: 'https://github.com/arangodb/arangodb'
             crunchbase: 'https://www.crunchbase.com/organization/arangodb'
           - item:
             name: Dgraph
             homepage_url: 'https://dgraph.io/'
-            logo: dgraph-labs.svg
             repo_url: 'https://github.com/dgraph-io/dgraph'
+            logo: dgraph-labs.svg
             crunchbase: 'https://www.crunchbase.com/organization/dgraph'
           - item:
             name: Fauna
@@ -102,7 +102,7 @@ landscape:
           - item:
             name: Facebook (member)
             homepage_url: 'https://www.facebook.com/'
-            logo: 'facebook.svg'
+            logo: facebook.svg
             crunchbase: 'https://www.crunchbase.com/organization/facebook'
           - item:
             name: Fauna (member)
@@ -205,8 +205,8 @@ landscape:
           - item:
             name: Facebook
             homepage_url: 'https://www.facebook.com/'
-            logo: 'facebook.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/facebook'            
+            logo: facebook.svg
+            crunchbase: 'https://www.crunchbase.com/organization/facebook'
           - item:
             name: Github
             homepage_url: 'https://github.com/'
