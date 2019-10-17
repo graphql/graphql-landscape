@@ -95,10 +95,10 @@ big_picture:
     method: getGroupedItemsForCncfBigPicture
     size:
       width: 1020
-      height: 630
+      height: 700
     fullscreen_size:
       width: 1020
-      height: 630
+      height: 700
     elements:
       - type: HorizontalCategory
         category: Projects
@@ -129,9 +129,9 @@ big_picture:
         fit_width: true
       - type: HorizontalCategory
         category: GraphQL Adopter
-        rows: 4
+        rows: 5
         width: 970
-        height: 200
+        height: 240
         top: 180
         left: 0
         color: 'rgb(108, 135, 75)'
