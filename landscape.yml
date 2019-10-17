@@ -1,10 +1,46 @@
 landscape:
   - category:
+    name: Projects
+    subcategories:
+      - subcategory:
+        name: Spec
+        items:
+          - item:
+            name: GraphQL Spec
+            homepage_url: 'https://graphql.org'
+            project: foundationproject
+            repo_url: 'https://github.com/graphql/graphql-spec'
+            logo: graphql.svg
+            crunchbase: 'https://www.crunchbase.com/organization/graphql-foundation'
+      - subcategory:
+        name: Tools
+        items:
+          - item:
+            name: GraphiQL
+            homepage_url: 'https://github.com/graphql/graphiql'
+            project: foundationproject
+            repo_url: 'https://github.com/graphql/graphiql'
+            logo: graphiql.svg
+            crunchbase: 'https://www.crunchbase.com/organization/graphql-foundation'
+  - category:
     name: Databases
     subcategories:
       - subcategory:
         name: Databases
         items:
+          - item:
+            name: Arangodb
+            homepage_url: 'https://www.arangodb.com/'
+            repo_url: 'https://github.com/arangodb/arangodb'
+            logo: arangodb.svg
+            twitter: 'https://twitter.com/arangodb'
+            crunchbase: 'https://www.crunchbase.com/organization/arangodb'
+          - item:
+            name: Dgraph
+            homepage_url: 'https://dgraph.io/'
+            repo_url: 'https://github.com/dgraph-io/dgraph'
+            logo: dgraph-labs.svg
+            crunchbase: 'https://www.crunchbase.com/organization/dgraph'
           - item:
             name: Fauna
             homepage_url: 'https://fauna.com/'
@@ -22,22 +58,16 @@ landscape:
         name: Services
         items:
           - item:
+            name: Apollo GraphQL Server
+            homepage_url: 'https://github.com/apollographql/apollo-server'
+            repo_url: 'https://github.com/apollographql/apollo-server'
+            logo: apollo-graphql.svg
+            crunchbase: 'https://www.crunchbase.com/organization/meteor'
+          - item:
             name: AWS AppSync
             homepage_url: 'https://aws.amazon.com/appsync/'
-            logo: amazon-web-services.svg
+            logo: appsync.svg
             crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
-  - category:
-    name: Tools
-    subcategories:
-      - subcategory:
-        name: Tools
-        items:
-          - item:
-            name: GraphiQL
-            homepage_url: 'https://graphql.org'
-            repo_url: 'https://github.com/graphql/graphiql'
-            logo: graphql.svg
-            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
   - category:
     name: GraphQL Foundation Member
     subcategories:
@@ -65,9 +95,14 @@ landscape:
             logo: dgraph-labs.svg
             crunchbase: 'https://www.crunchbase.com/organization/dgraph'
           - item:
+            name: Elementl (member)
+            homepage_url: 'https://www.elementl.com/'
+            logo: elementl.svg
+            crunchbase: 'https://www.crunchbase.com/organization/elementl'
+          - item:
             name: Facebook (member)
             homepage_url: 'https://www.facebook.com/'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/8/89/Facebook_Logo_%282019%29.svg'
+            logo: facebook.svg
             crunchbase: 'https://www.crunchbase.com/organization/facebook'
           - item:
             name: Fauna (member)
@@ -87,7 +122,7 @@ landscape:
           - item:
             name: HomeAway (member)
             homepage_url: 'https://homeaway.com'
-            stock_ticker: null
+            stock_ticker: IAC
             logo: homeaway.svg
             crunchbase: 'https://www.crunchbase.com/organization/homeaway'
           - item:
@@ -103,7 +138,6 @@ landscape:
           - item:
             name: Neo4j (member)
             homepage_url: 'https://neo4j.com/'
-            repo_url: 'https://github.com/neo4j/neo4j'
             logo: neo4j.svg
             crunchbase: 'https://www.crunchbase.com/organization/neo-technology'
           - item:
@@ -145,7 +179,7 @@ landscape:
             twitter: 'https://twitter.com/1stdibs'
             crunchbase: 'https://www.crunchbase.com/organization/1stdibs'
           - item:
-            name: Arangodb
+            name: Arangodb (adopter)
             homepage_url: 'https://www.arangodb.com/'
             logo: arangodb.svg
             twitter: 'https://twitter.com/arangodb'
@@ -392,7 +426,7 @@ landscape:
             twitter: 'https://twitter.com/getninjas'
             crunchbase: 'https://www.crunchbase.com/organization/getninjas'
           - item:
-            name: GitHub
+            name: Github
             homepage_url: 'https://github.com/'
             logo: github.svg
             twitter: 'https://twitter.com/github'
