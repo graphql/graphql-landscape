@@ -91,6 +91,46 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-06-26T16:15:00.000Z
+          - item:
+            name: Apollo CLI
+            homepage_url: 'https://www.apollographql.com/'
+            repo_url: 'https://github.com/apollographql/apollo-tooling'
+            logo: apollo-graphql.svg
+            crunchbase: 'https://www.crunchbase.com/organization/meteor'
+            crunchbase_data:
+              name: Apollo
+              description: 'Apollo is the GraphQL company. Its Data Graph Platform helps developers, startups, and enterprises get the most out of GraphQL.'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://www.apollographql.com'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/apollographql'
+              linkedin: 'https://www.linkedin.com/company/apollo-graphql/'
+              parents:
+                - 'https://www.crunchbase.com/organization/heavybit-industries'
+              kind: funding
+              funding: 53200000
+            github_data:
+              stars: 2145
+              license: MIT License
+              description: ✏️ Tooling for development and production Apollo workflows
+              latest_commit_date: '2019-10-18T07:31:31Z'
+              latest_commit_link: /apollographql/apollo-tooling/commit/239ac503be89cc6af8aad1ff12e031557acc0cf5
+              contributors_count: 142
+              contributors_link: 'https://github.com/apollographql/apollo-tooling/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /apollographql/apollo-tooling/commit/547c70194c31f292200c409974cab4cd22e9bc48
+              start_date: '2016-08-12T15:29:21Z'
+            image_data:
+              fileName: apollo-cli.svg
+              hash: tHRhDNJjHVZKSDWv/b/UwuRDxTeCvssKzKAAo++Mbvs=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-16T18:59:08.000Z
   - category:
     name: Databases
     subcategories:
@@ -131,7 +171,7 @@ landscape:
               start_date: '2011-10-26T06:42:49Z'
             image_data:
               fileName: arangodb.svg
-              hash: X/KBa6TfCiEW8rRDWy6PpnBqHolUnkidHnF26OsBPwQ=
+              hash: 2tAcXXAOaDVAGMwlwat6LtPEdY1R84mmWHh0R05cIRI=
             best_practice_data:
               badge: false
               percentage: null
@@ -238,8 +278,8 @@ landscape:
         name: Services
         items:
           - item:
-            name: Apollo GraphQL Server
-            homepage_url: 'https://github.com/apollographql/apollo-server'
+            name: Apollo Server
+            homepage_url: 'https://www.apollographql.com/'
             repo_url: 'https://github.com/apollographql/apollo-server'
             logo: apollo-graphql.svg
             crunchbase: 'https://www.crunchbase.com/organization/meteor'
@@ -272,7 +312,7 @@ landscape:
               start_commit_link: /apollographql/apollo-server/commit/a850c95c7c077c9dd5bafc056d16e7681b01a6f9
               start_date: '2016-04-21T09:26:01Z'
             image_data:
-              fileName: apollo-graph-ql-server.svg
+              fileName: apollo-server.svg
               hash: tHRhDNJjHVZKSDWv/b/UwuRDxTeCvssKzKAAo++Mbvs=
             best_practice_data:
               badge: false
@@ -320,6 +360,7 @@ landscape:
             name: 8base (member)
             homepage_url: 'https://8base.com/'
             logo: 8base.svg
+            twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/8base-2'
             crunchbase_data:
               name: 8base
@@ -341,8 +382,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-10-11T19:41:52.000Z
           - item:
             name: Amazon Web Services (member)
             homepage_url: 'https://aws.amazon.com/'
@@ -683,6 +722,31 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-10-17T01:58:00.000Z
           - item:
+            name: Novvum (member)
+            homepage_url: 'https://novvum.io/'
+            logo: novvum.svg
+            crunchbase: 'https://www.crunchbase.com/organization/novvum'
+            crunchbase_data:
+              name: Novvum
+              description: A Full-Service Software Development & Consulting Firm
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://novvum.io'
+              city: Irvine
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/novvumio'
+              linkedin: 'https://www.linkedin.com/company/novvum-consulting-group-llc'
+              parents: []
+            image_data:
+              fileName: novvum-member.svg
+              hash: kZoGKPwYjKoEt0DO7YfeQBpHPG/XybZ6fn0fyEzkOBw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-09-18T19:23:01.000Z
+          - item:
             name: PayPal (member)
             homepage_url: 'https://paypal.com/'
             logo: paypal.svg
@@ -834,9 +898,218 @@ landscape:
         name: GraphQL Adopter
         items:
           - item:
+            name: 1stdibs
+            homepage_url: 'https://www.1stdibs.com'
+            logo: 1stdibs.svg
+            twitter: 'https://twitter.com/1stdibs'
+            crunchbase: 'https://www.crunchbase.com/organization/1stdibs'
+            crunchbase_data:
+              name: 1stdibs
+              description: '1stdibs is an online marketplace that connects dealers to consumers interested in antiques, design, fine jewelry, vintage fashion, and art.'
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: 'http://www.1stdibs.com'
+              city: New York
+              region: New York
+              country: United States
+              twitter: 'http://twitter.com/1stdibs'
+              linkedin: 'https://www.linkedin.com/company/1stdibs-com/'
+              parents: []
+              kind: funding
+              funding: 253000000
+            image_data:
+              fileName: 1stdibs.svg
+              hash: 6lR4gG6HBPVIJqArifzYTnMLY/C8fall8FkRRYYyDGw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-17T23:26:01.000Z
+          - item:
+            name: Adayroi
+            homepage_url: 'https://www.adayroi.com'
+            logo: adayroi.svg
+            crunchbase: 'https://www.crunchbase.com/organization/a-day-roi'
+            crunchbase_data:
+              name: A day roi
+              description: Adayroi is a e-commerce website of VinCommerce General Trading Services Joint Stock Company.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.adayroi.com/'
+              city: Ho Chi Minh City
+              region: NA - Vietnam
+              country: Vietnam
+              twitter: null
+              linkedin: null
+              parents: []
+            image_data:
+              fileName: adayroi.svg
+              hash: jTwEEPbki0z9h7Spk3k0qkR5wctaMteYVpIK9VIgSyE=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Alembic
+            homepage_url: 'https://alembic.com.au'
+            logo: alembic.svg
+            twitter: 'https://twitter.com/teamalembic'
+            crunchbase: 'https://www.crunchbase.com/organization/alembic-c6a7'
+            crunchbase_data:
+              name: Alembic
+              description: Alembic is a software development consultancy that builds software that empowers their clients and enriches the lives of its customers.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://alembic.com.au'
+              city: Sydney
+              region: New South Wales
+              country: Australia
+              twitter: 'https://twitter.com/teamalembic'
+              linkedin: 'https://www.linkedin.com/company/team-alembic'
+              parents: []
+            image_data:
+              fileName: alembic.svg
+              hash: m+GgiTDye03nf1WlOwwsvMwxoVaXPzcZvb++tuQ0F2Q=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-02T23:42:31.000Z
+          - item:
+            name: Allocine
+            homepage_url: 'http://www.allocine.fr/'
+            logo: allocine.svg
+            twitter: 'https://twitter.com/allocine'
+            crunchbase: 'https://www.crunchbase.com/organization/allocine'
+            crunchbase_data:
+              name: Allocine
+              description: Allocine is a website that offers details on the newest cinema releases.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: 'http://www.allocine.com'
+              city: Paris
+              region: Ile-de-France
+              country: France
+              twitter: null
+              linkedin: null
+              parents: []
+            image_data:
+              fileName: allocine.svg
+              hash: xXtlz15EUWpPVCzWJpLk0vFAqQOMnr9tYhq8FFmw77Y=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-18T11:00:01.000Z
+          - item:
+            name: AlphaSights
+            homepage_url: 'https://www.alphasights.com/'
+            logo: alphasights.svg
+            twitter: 'https://twitter.com/alphasights'
+            crunchbase: 'https://www.crunchbase.com/organization/alphasights'
+            crunchbase_data:
+              name: AlphaSights
+              description: 'AlphaSights helps today''s business leaders succeed by providing them with fast, flexible access to deep industry knowledge worldwide.'
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: 'http://www.alphasights.com'
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: 'http://twitter.com/AlphaSights'
+              linkedin: 'https://www.linkedin.com/company/alphasights/'
+              parents: []
+            image_data:
+              fileName: alpha-sights.svg
+              hash: 61j1MX9mKiO+OKRBk9vZhVI9QWH8VHK8SHiWDYYtMRo=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-07T12:41:33.000Z
+          - item:
+            name: Amplitude
+            homepage_url: 'https://amplitude.com'
+            logo: 'https://d3hotuclm6if1r.cloudfront.net/logos/amplitude-default.svg'
+            twitter: 'https://twitter.com/Amplitude_HQ'
+            crunchbase: 'https://www.crunchbase.com/organization/amplitude'
+            crunchbase_data:
+              name: Amplitude
+              description: Amplitude is a product intelligence company.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: 'http://amplitude.com'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/Amplitude_HQ'
+              linkedin: 'https://www.linkedin.com/company/amplitude-analytics'
+              parents: []
+              kind: funding
+              funding: 136000000
+            image_data:
+              fileName: amplitude.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-16T20:01:40.000Z
+          - item:
+            name: Ants
+            homepage_url: 'https://ants.vn/'
+            logo: ants.svg
+            twitter: 'https://twitter.com/antscorporation'
+            crunchbase: 'https://www.crunchbase.com/organization/ants-2'
+            crunchbase_data:
+              name: ANTS
+              description: The Leading Independent Programmatic Agency | ANTS – Programmatic Premium | DSP | DMP | SSP | SaaS | Omnichannel
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: 'https://antsprogrammatic.com'
+              city: Ho Chi Minh City
+              region: NA - Vietnam
+              country: Vietnam
+              twitter: 'https://www.twitter.com/antscorporation'
+              linkedin: 'https://www.linkedin.com/company/ants-jsc'
+              parents: []
+            image_data:
+              fileName: ants.svg
+              hash: stznzd+wdCDtLWTNesT+/yUYKnIicZxwqvtM13TRZ5E=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2017-07-19T11:01:31.000Z
+          - item:
+            name: Appier
+            homepage_url: 'https://www.appier.com/'
+            logo: appier.svg
+            crunchbase: 'https://www.crunchbase.com/organization/appier'
+            crunchbase_data:
+              name: Appier
+              description: Appier is a technology company which aims to provide artificial intelligence platform to help enterprises solve their business problems.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: 'http://appier.com'
+              city: Taipei
+              region: T'ai-pei
+              country: Taiwan
+              twitter: 'http://twitter.com/GoAppier'
+              linkedin: 'https://www.linkedin.com/company/appier'
+              parents: []
+              kind: funding
+              funding: 81500000
+            image_data:
+              fileName: appier.svg
+              hash: lRkJ6KSLIsmBh8wG4mbtHsbt2suki13aLDhv3eQYB4w=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-17T07:21:12.000Z
+          - item:
             name: Arangodb (adopter)
             homepage_url: 'https://www.arangodb.com/'
-            logo: arangodb.svg
+            logo: 'https://landscape.cncf.io/logos/arango-db.svg'
             twitter: 'https://twitter.com/arangodb'
             crunchbase: 'https://www.crunchbase.com/organization/arangodb'
             crunchbase_data:
@@ -855,12 +1128,125 @@ landscape:
               funding: 19221423
             image_data:
               fileName: arangodb-adopter.svg
-              hash: X/KBa6TfCiEW8rRDWy6PpnBqHolUnkidHnF26OsBPwQ=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-10-16T20:10:00.000Z
+          - item:
+            name: Artsy
+            homepage_url: 'https://artsy.github.io/'
+            logo: artsy.svg
+            twitter: 'http://twitter.com/artsyopensource'
+            crunchbase: 'https://www.crunchbase.com/organization/art-sy'
+            crunchbase_data:
+              name: Artsy
+              description: Artsy is a global platform for discovering and collecting art.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: 'http://artsy.net'
+              city: New York
+              region: New York
+              country: United States
+              twitter: 'http://twitter.com/artsy'
+              linkedin: 'https://www.linkedin.com/company/artsyinc'
+              parents: []
+              kind: funding
+              funding: 100912389
+            image_data:
+              fileName: artsy.svg
+              hash: Rd7YKik464V+lRl51An3FTsaW7+smmohpeNe5g3XGZE=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-09-25T18:48:17.000Z
+          - item:
+            name: Atlassian
+            homepage_url: 'https://www.atlassian.com'
+            logo: atlassian.svg
+            twitter: 'https://twitter.com/atlassian'
+            crunchbase: 'https://www.crunchbase.com/organization/atlassian'
+            crunchbase_data:
+              name: Atlassian
+              description: 'Atlassian provides collaboration, development, and issue tracking software for teams.'
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: 'http://www.atlassian.com/'
+              city: Sydney
+              region: New South Wales
+              country: Australia
+              twitter: 'http://twitter.com/atlassian'
+              linkedin: 'https://www.linkedin.com/company/atlassian/'
+              parents: []
+              ticker: TEAM
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 29678389248
+              effective_ticker: TEAM
+            image_data:
+              fileName: atlassian.svg
+              hash: 0GdE0AJnlRJU0ES7TiZlZ3C8p42QYzveYk32uLDCwZQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-17T16:54:33.000Z
+          - item:
+            name: Attendify
+            homepage_url: 'https://attendify.com/'
+            logo: 'https://cdn.attendify.com/website/3.0.114-production/build/img/logo-black.svg'
+            twitter: 'https://twitter.com/attendify'
+            crunchbase: 'https://www.crunchbase.com/organization/attendify'
+            crunchbase_data:
+              name: Attendify
+              description: 'Attendify is a SaaS-based event technology, dedicated to solutions that bridge the gap between event marketing & digital marketing.'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://attendify.com'
+              city: San Jose
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/attendifyapp'
+              linkedin: 'https://www.linkedin.com/company/attendify'
+              parents: []
+              kind: funding
+              funding: 2100000
+            image_data:
+              fileName: attendify.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-16T15:05:02.000Z
+          - item:
+            name: Bazinga!
+            homepage_url: 'https://mybazinga.com/'
+            logo: bazinga.svg
+            twitter: 'https://twitter.com/getbazinga'
+            crunchbase: 'https://www.crunchbase.com/organization/bazinga-technologies'
+            crunchbase_data:
+              name: bazinga! Technologies
+              description: Bazinga offers a range of software and services that focus on community management and communications.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: 'http://www.mybazinga.com'
+              city: Vancouver
+              region: British Columbia
+              country: Canada
+              twitter: 'http://twitter.com/bazingahome'
+              linkedin: 'https://www.linkedin.com/company/bazinga-technologies'
+              parents: []
+              kind: funding
+              funding: 4894446
+            image_data:
+              fileName: bazinga.svg
+              hash: 9p6mZg9JWrDSs6WWOQmJ7CZIWtYIuub4VAIkhJ/sbI4=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-04-23T19:13:29.000Z
           - item:
             name: Buildkite
             homepage_url: 'https://buildkite.com/'
@@ -887,6 +1273,34 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-10-11T23:56:56.000Z
+          - item:
+            name: Bynder
+            homepage_url: 'https://www.bynder.com/en/'
+            logo: bynder.svg
+            twitter: 'https://twitter.com/bynder'
+            crunchbase: 'https://www.crunchbase.com/organization/bynder'
+            crunchbase_data:
+              name: Bynder
+              description: 'Bynder is award-winning marketing software that allows brands to easily create, find and use content, such as documents and videos.'
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: 'https://www.bynder.com'
+              city: Amsterdam
+              region: Noord-Holland
+              country: The Netherlands
+              twitter: 'http://twitter.com/bynder'
+              linkedin: 'https://linkedin.com/company/bynder'
+              parents: []
+              kind: funding
+              funding: 22200000
+            image_data:
+              fileName: bynder.svg
+              hash: lzAqoE6+tZGxCshkDbGg2Amv28sgWgfUANdpLVIzmTc=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-17T11:29:52.000Z
           - item:
             name: Cheddar
             homepage_url: 'https://cheddar.com'
@@ -916,6 +1330,186 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-10-17T02:55:00.000Z
           - item:
+            name: CircleHD
+            homepage_url: 'https://www.circlehd.com/'
+            logo: 'https://www.circlehd.com/img/circlehd-logo.svg'
+            twitter: 'https://twitter.com/circlehdteam'
+            crunchbase: 'https://www.crunchbase.com/organization/circlehd'
+            crunchbase_data:
+              name: CircleHD
+              description: Enterprise Video Platform for employee generated video content. Video driven work collaboration made easy.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://www.circlehd.com'
+              city: Bellevue
+              region: Washington
+              country: United States
+              twitter: null
+              linkedin: 'https://www.linkedin.com/company/circlehd/'
+              parents: []
+            image_data:
+              fileName: circle-hd.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-17T17:18:01.000Z
+          - item:
+            name: Cloverleaf
+            homepage_url: 'https://cloverleaf.me/'
+            logo: cloverleaf.svg
+            twitter: 'https://twitter.com/cloverleafme'
+            crunchbase: 'https://www.crunchbase.com/organization/cloverleaf-me'
+            crunchbase_data:
+              name: Cloverleaf.me
+              description: 'Cloverleaf is an identity discovery and employee development platform for teams. See how people best fit in a team, a group, or a company.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'http://cloverleaf.me'
+              city: Cincinnati
+              region: Ohio
+              country: United States
+              twitter: 'https://twitter.com/cloverleafme'
+              linkedin: 'https://www.linkedin.com/company/cloverleaf-me/'
+              parents: []
+            image_data:
+              fileName: cloverleaf.svg
+              hash: jXnqrvX5+z3Hybb7CBhZGFkOkJOjIAwIqTk3pyxn+a0=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-17T12:38:01.000Z
+          - item:
+            name: ClubMed
+            homepage_url: 'http://www.clubmed.com/'
+            logo: clubmed.svg
+            crunchbase: 'https://www.crunchbase.com/organization/club-med'
+            crunchbase_data:
+              name: Club Med
+              description: 'Club Med sells vacations and related services, operates villages and cruises, and provides tours and discovery programs.'
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.clubmed.com'
+              city: Paris
+              region: Ile-de-France
+              country: France
+              twitter: 'https://www.twitter.com/clubmedofficial'
+              linkedin: 'https://www.linkedin.com/company/163115/'
+              parents: []
+            image_data:
+              fileName: club-med.svg
+              hash: HDorahmDCcMpTkw1GiSshAUt6fZ+Psi6hDcytVBbCo4=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-17T22:42:01.000Z
+          - item:
+            name: Collectica
+            homepage_url: 'https://www.colectica.com/'
+            logo: collectica.svg
+            twitter: 'https://twitter.com/Colectica'
+            crunchbase: 'https://www.crunchbase.com/organization/colectica'
+            crunchbase_data:
+              name: Colectica
+              description: 'Colectica helps users design, document, and publish their statistical data and survey research using open data standards.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'http://www.colectica.com'
+              city: Minneapolis
+              region: Minnesota
+              country: United States
+              twitter: 'http://twitter.com/Colectica'
+              linkedin: 'https://www.linkedin.com/company/Colectica'
+              parents: []
+              kind: funding
+              funding: 350000
+            image_data:
+              fileName: collectica.svg
+              hash: 2l5wFbGRkNKu58PYnqSlIQqBjJstVsw6qs5dDlHfWkU=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-15T21:10:38.000Z
+          - item:
+            name: CommerceTools
+            homepage_url: 'https://commercetools.com/'
+            logo: 'https://dev.commercetools.com/assets/img/CT-logo.svg'
+            twitter: 'https://twitter.com/commercetools'
+            crunchbase: 'https://www.crunchbase.com/organization/commercetools'
+            crunchbase_data:
+              name: commercetools
+              description: commercetools offers cloud-based e-commerce software focused on APIs and micro services for real omnichannel customer experiences.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: 'http://www.commercetools.com'
+              city: München
+              region: Bayern
+              country: Germany
+              twitter: 'https://twitter.com/commercetools'
+              linkedin: 'https://www.linkedin.com/company/commercetools/'
+              parents: []
+              kind: funding
+              funding: 22674186
+            image_data:
+              fileName: commerce-tools.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-18T07:00:03.000Z
+          - item:
+            name: Compara
+            homepage_url: 'https://www.comparaonline.com/'
+            logo: compara.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/comparaonline'
+            crunchbase_data:
+              name: ComparaOnline
+              description: ComparaOnline is a price comparison site for financial and insurance services in Latin America.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: 'http://www.comparaonline.com'
+              city: Santiago
+              region: Region Metropolitana
+              country: Chile
+              twitter: null
+              linkedin: 'https://www.linkedin.com/company/424979/'
+              parents: []
+              kind: funding
+              funding: 33050000
+            image_data:
+              fileName: compara.svg
+              hash: VoIOXrsvuNOjwOBaMiOVeP7AvL3JeNgNbLVxbzsMbNE=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Conduit
+            homepage_url: 'https://conduithq.com'
+            logo: conduithq.svg
+            crunchbase: 'https://www.crunchbase.com/organization/conduit-analytics'
+            crunchbase_data:
+              name: Conduit Analytics
+              description: Relationship management software and platform
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://conduithq.com'
+              city: Cambridge
+              region: Massachusetts
+              country: United States
+              twitter: null
+              linkedin: null
+              parents: []
+            image_data:
+              fileName: conduit.svg
+              hash: UDCISxxB14TU9o8C5ruEUupe80kT0mFQTIzOqLKic8I=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Coursera
             homepage_url: 'https://www.coursera.org'
             logo: coursera.svg
@@ -943,6 +1537,60 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-10-16T22:47:37.000Z
+          - item:
+            name: Credit Karma
+            homepage_url: 'https://www.creditkarma.com'
+            logo: creditcarma.svg
+            twitter: 'https://twitter.com/CreditKarma'
+            crunchbase: 'https://www.crunchbase.com/organization/credit-karma'
+            crunchbase_data:
+              name: Credit Karma
+              description: Credit Karma is a personal finance company that's focused on helping everyone make financial progress.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: 'https://www.creditkarma.com'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/CreditKarma'
+              linkedin: 'https://www.linkedin.com/company/credit-karma'
+              parents: []
+              kind: funding
+              funding: 868000000
+            image_data:
+              fileName: credit-karma.svg
+              hash: uo1X3OlYa0ql2dW3RvV+V9jpkP5eA9cbdhKZyS9AP8E=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-17T22:41:20.000Z
+          - item:
+            name: Curio
+            homepage_url: 'https://curio.org/'
+            logo: curio.svg
+            twitter: 'https://twitter.com/curio'
+            crunchbase: 'https://www.crunchbase.com/organization/curio-io'
+            crunchbase_data:
+              name: Curio
+              description: 'Curio Labs is an online media company that curates narrated articles from publications such as The Guardian, The Financial Times, and Salon.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'http://curio.io'
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: 'https://twitter.com/curioio'
+              linkedin: 'https://www.linkedin.com/company/curio-labs'
+              parents: []
+            image_data:
+              fileName: curio.svg
+              hash: KN+cQTqZwz+8cm2v09t/nMPCN6ZYowzwkh0qs8f4XT8=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2017-12-21T18:31:22.000Z
           - item:
             name: DailyMotion
             homepage_url: 'https://www.dailymotion.com/us'
@@ -972,9 +1620,175 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-10-16T16:47:28.000Z
           - item:
+            name: Directlyrics
+            homepage_url: 'https://directlyrics.com/'
+            logo: directlyrics.svg
+            twitter: 'http://twitter.com/directlyrics'
+            crunchbase: 'https://www.crunchbase.com/organization/directlyrics'
+            crunchbase_data:
+              name: Directlyrics
+              description: Directlyrics is a directory of lyrics to songs as well as a blog with news about popular singers.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'http://directlyrics.com'
+              city: Amsterdam
+              region: Noord-Holland
+              country: The Netherlands
+              twitter: 'http://twitter.com/directlyrics'
+              linkedin: null
+              parents: []
+            image_data:
+              fileName: directlyrics.svg
+              hash: 7RhIi0AhvEApAHK+2ZoV/pAGUDfUflT844rXMRHh+eY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-05-06T16:31:43.000Z
+          - item:
+            name: Drift
+            homepage_url: 'https://www.drift.com/'
+            logo: drift.svg
+            twitter: 'https://twitter.com/drift'
+            crunchbase: 'https://www.crunchbase.com/organization/drift'
+            crunchbase_data:
+              name: Drift
+              description: 'Drift provides a buying experience for potential customers, generate more qualified leads, and dramatically accelerate the sales cycle.'
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: 'http://www.drift.com'
+              city: Boston
+              region: Massachusetts
+              country: United States
+              twitter: 'https://twitter.com/drift'
+              linkedin: 'https://www.linkedin.com/company/drift/'
+              parents: []
+              kind: funding
+              funding: 107000000
+            image_data:
+              fileName: drift.svg
+              hash: g1HDjg+0nBpg3qwEAYpfNtpgQMq9P+6rh42dHpWoFs0=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-17T12:19:22.000Z
+          - item:
+            name: Duedil
+            homepage_url: 'https://www.duedil.com'
+            logo: duedil.svg
+            twitter: 'http://twitter.com/duedil'
+            crunchbase: 'https://www.crunchbase.com/organization/duedil'
+            crunchbase_data:
+              name: DueDil
+              description: DueDil is a company intelligence platform that gives businesses a solution to identify opportunities and manage risk.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: 'https://www.duedil.com/'
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: 'https://twitter.com/duedil'
+              linkedin: 'https://www.linkedin.com/company/duedil/'
+              parents: []
+              kind: funding
+              funding: 48943489
+            image_data:
+              fileName: duedil.svg
+              hash: U5tCkrH2Xn5QXLDTZ+RVFjRi/aZhuywLpOH9GQDoxZE=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-13T20:02:38.000Z
+          - item:
+            name: Easy Carros
+            homepage_url: 'http://www.easycarros.com/'
+            logo: easycarros.svg
+            twitter: 'https://twitter.com/easycarros'
+            crunchbase: 'https://www.crunchbase.com/organization/easy-carros'
+            crunchbase_data:
+              name: Easy Carros
+              description: 'Easy Carros offers services such as washing, waxing, and internal hygiene for cars without the owners leaving home or work.'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://easycarros.com/'
+              city: Brasil
+              region: Sao Paulo
+              country: Brazil
+              twitter: 'https://twitter.com/easycarros'
+              linkedin: 'https://www.linkedin.com/company/easy-carros/'
+              parents:
+                - 'https://www.crunchbase.com/organization/egenius-founders'
+              kind: funding
+              funding: 311227
+            image_data:
+              fileName: easy-carros.svg
+              hash: k5oDji/IHbA+mKR1zsZEEz04XcOkRsCLX1aq/e8m1Sg=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-08-30T18:47:34.000Z
+          - item:
+            name: Ediket
+            homepage_url: 'https://ediket.com/'
+            logo: ediket.svg
+            twitter: 'https://twitter.com/Ediketeer'
+            crunchbase: 'https://www.crunchbase.com/organization/ediket'
+            crunchbase_data:
+              name: Ediket
+              description: 'An on-demand platform for English proofreading and copy-editing services, perfect for academic papers, business e-mails, or cover letters'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'http://www.ediket.com/'
+              city: Seoul
+              region: Seoul-t'ukpyolsi
+              country: South Korea
+              twitter: 'https://twitter.com/Ediketeer'
+              linkedin: 'https://www.linkedin.com/company/ediket'
+              parents: []
+            image_data:
+              fileName: ediket.svg
+              hash: +sJoq6pFzcACDD2zS7/AG8rhr3/aVgxjc+p1WHoQkPY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2018-06-07T02:34:52.000Z
+          - item:
+            name: Expert360
+            homepage_url: 'https://expert360.com/'
+            logo: expert360.svg
+            twitter: 'https://twitter.com/expert_360'
+            crunchbase: 'https://www.crunchbase.com/organization/expert360'
+            crunchbase_data:
+              name: Expert360
+              description: 'Expert360 Marketplace empower thousands of organisations to build, scale and manage flexible, on-demand workforces. '
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: 'http://expert360.com'
+              city: Sydney
+              region: New South Wales
+              country: Australia
+              twitter: 'http://twitter.com/expert_360'
+              linkedin: 'https://www.linkedin.com/company/expert-360'
+              parents: []
+              kind: funding
+              funding: 12926348
+            image_data:
+              fileName: expert360.svg
+              hash: PtF44gYRPUtFDemi4pFmzVdRhZThQ3J5le3CI/1U7ps=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-17T02:26:18.000Z
+          - item:
             name: Facebook
             homepage_url: 'https://www.facebook.com/'
             logo: facebook.svg
+            twitter: 'https://twitter.com/facebook'
             crunchbase: 'https://www.crunchbase.com/organization/facebook'
             crunchbase_data:
               name: Facebook
@@ -1001,6 +1815,111 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-10-16T22:37:47.000Z
+          - item:
+            name: Fairfax Media
+            homepage_url: 'https://www.fairfaxmedia.com.au/'
+            logo: fairfaxmedia.svg
+            twitter: 'http://twitter.com/smh'
+            crunchbase: 'https://www.crunchbase.com/organization/fairfax-media'
+            crunchbase_data:
+              name: Fairfax Media
+              description: 'Fairfax Media Limited [ASX:FXJ] is Australasia''s leading media company.'
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'http://fairfaxmedia.com.au'
+              city: Sydney
+              region: New South Wales
+              country: Australia
+              twitter: 'http://twitter.com/smh'
+              linkedin: 'https://www.linkedin.com/company/fairfax-media'
+              parents: []
+            image_data:
+              fileName: fairfax-media.svg
+              hash: PoKrexjg0lILEZuBeF4LmWaNamcDs0fVFklrmjfNh1c=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-18T10:20:13.000Z
+          - item:
+            name: FileJet
+            homepage_url: 'https://filejet.io/'
+            logo: filejet.svg
+            crunchbase: 'https://www.crunchbase.com/organization/filejet'
+            crunchbase_data:
+              name: FileJet
+              description: Professional Media Management Platform
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://filejet.io'
+              city: Bratislava
+              region: Bratislava
+              country: Slovakia (Slovak Republic)
+              twitter: null
+              linkedin: 'https://www.linkedin.com/company/filejet'
+              parents: []
+            image_data:
+              fileName: file-jet.svg
+              hash: UNYUj0h0ZMRas4fz4gQGDMyl1xBM4zFU2mKL0lFQ+o4=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Gentux
+            homepage_url: 'https://www.generationtux.com/'
+            logo: generationtux.svg
+            twitter: 'https://www.twitter.com/generationtux'
+            crunchbase: 'https://www.crunchbase.com/organization/generation-tux'
+            crunchbase_data:
+              name: Generation Tux
+              description: Rent the highest quality tuxedos and suits online without ever visiting a store.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: 'https://www.generationtux.com/'
+              city: Oakland
+              region: California
+              country: United States
+              twitter: 'https://www.twitter.com/generationtux'
+              linkedin: null
+              parents: []
+              kind: funding
+              funding: 25000000
+            image_data:
+              fileName: gentux.svg
+              hash: jHa0dHzSEsgLThZEimzRdueFRiN6P+ImKXElMVS56lM=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-17T23:38:23.000Z
+          - item:
+            name: GetNinjas
+            homepage_url: 'https://www.getninjas.com.br/'
+            logo: getninjas.svg
+            twitter: 'https://twitter.com/getninjas'
+            crunchbase: 'https://www.crunchbase.com/organization/getninjas'
+            crunchbase_data:
+              name: GetNinjas
+              description: 'GetNinjas is the leading local services marketplace in LATAM, where you can hire cleaners, private lessons, and hundreds of other services'
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: 'https://www.getninjas.com.br'
+              city: São Paulo
+              region: Sao Paulo
+              country: Brazil
+              twitter: 'https://twitter.com/getninjas'
+              linkedin: 'https://www.linkedin.com/company/getninjas/'
+              parents: []
+              kind: funding
+              funding: 16786267
+            image_data:
+              fileName: get-ninjas.svg
+              hash: s77HRZhEzKqbXMpG2W+A03KLgucInQoVglPvpIGwmXw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-17T16:02:50.000Z
           - item:
             name: Github
             homepage_url: 'https://github.com/'
@@ -1060,6 +1979,87 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-10-07T12:34:11.000Z
           - item:
+            name: GraphCMS
+            homepage_url: 'https://graphcms.com/'
+            logo: 'https://graphcms.com/static/darkLogo-359a30ec36fd51d42ad166818599185f.svg'
+            twitter: 'https://twitter.com/graphcms'
+            crunchbase: 'https://www.crunchbase.com/organization/graphcms'
+            crunchbase_data:
+              name: GraphCMS
+              description: GraphCMS is a GraphQL based headless content management system for digital creators and digital products.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://graphcms.com/'
+              city: Gießen
+              region: Hessen
+              country: Germany
+              twitter: 'https://twitter.com/graphcms'
+              linkedin: 'https://www.linkedin.com/company/graphcms'
+              parents: []
+              kind: funding
+              funding: 1000000
+            image_data:
+              fileName: graph-cms.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-16T10:31:44.000Z
+          - item:
+            name: GraphCool
+            homepage_url: 'https://www.graph.cool'
+            logo: graphcool.svg
+            twitter: 'https://twitter.com/graphcool'
+            crunchbase: 'https://www.crunchbase.com/organization/prisma-io'
+            crunchbase_data:
+              name: Prisma
+              description: Prisma enables its users to access all of their databases in a single GraphQL query.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://www.prisma.io'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/prisma'
+              linkedin: 'https://www.linkedin.com/company/prisma-io/'
+              parents: []
+              kind: funding
+              funding: 4500000
+            image_data:
+              fileName: graph-cool.svg
+              hash: L4Xq/sKGgs1J8SgQAOUNMNTWvU+zI/033Q4tChhX8Z4=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2018-05-16T08:28:52.000Z
+          - item:
+            name: Hackages
+            homepage_url: 'https://hackages.io/'
+            logo: hackages.svg
+            twitter: 'https://twitter.com/hackages'
+            crunchbase: 'https://www.crunchbase.com/organization/hackages'
+            crunchbase_data:
+              name: Hackages
+              description: 'Hackages you will find enthusiastic engineers, passionate about new technologies and education.'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://hackages.io/'
+              city: Brussels
+              region: Brussels Hoofdstedelijk Gewest
+              country: Belgium
+              twitter: 'https://twitter.com/hackages'
+              linkedin: 'https://www.linkedin.com/company/hackages/about/'
+              parents: []
+            image_data:
+              fileName: hackages.svg
+              hash: RRutYpOJXqhq6ChApRDgMD+oWODA3SFxpKE6L4o4DyE=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-18T09:50:00.000Z
+          - item:
             name: Hasura
             homepage_url: 'https://hasura.io/'
             logo: hasura.svg
@@ -1087,6 +2087,62 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-10-16T23:30:07.000Z
+          - item:
+            name: Hijup
+            homepage_url: 'https://www.hijup.com/en'
+            logo: hijup.svg
+            twitter: 'https://twitter.com/hijup'
+            crunchbase: 'https://www.crunchbase.com/organization/hijup-com'
+            crunchbase_data:
+              name: HijUp
+              description: 'HijUp provides wide range of the best products from Indonesian Islamic fashion designers. '
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: 'http://hijup.com'
+              city: Jakarta
+              region: Jakarta Raya
+              country: Indonesia
+              twitter: 'http://twitter.com/hijup'
+              linkedin: 'https://www.linkedin.com/company/hijup-com'
+              parents: []
+              kind: funding
+              funding: 50000
+            image_data:
+              fileName: hijup.svg
+              hash: q6SlyO54trg9d7GI33a29k14ojwIDB+vwErxHaV1F9I=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-04T07:31:02.000Z
+          - item:
+            name: Housing Anywhere
+            homepage_url: 'https://housinganywhere.com/'
+            logo: housinganywhere.svg
+            twitter: 'https://twitter.com/HousingAnywhere'
+            crunchbase: 'https://www.crunchbase.com/organization/housinganywhere-com'
+            crunchbase_data:
+              name: HousingAnywhere
+              description: 'HousingAnywhere is the world’s largest rental accommodation platform for mid-term stays. Rent rooms, apartments, and stay for months.'
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: 'http://www.housinganywhere.com'
+              city: Rotterdam
+              region: Zuid-Holland
+              country: The Netherlands
+              twitter: 'https://www.twitter.com/housinganywhere'
+              linkedin: 'https://www.linkedin.com/company/housinganywhere-com/'
+              parents: []
+              kind: funding
+              funding: 13610673
+            image_data:
+              fileName: housing-anywhere.svg
+              hash: AlQgecdGz3kPld9zD0UBSbTZqV8Wxb0gXCkwDeKFIGg=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-16T12:05:36.000Z
           - item:
             name: Hudl
             homepage_url: 'https://www.hudl.com'
