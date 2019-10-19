@@ -16,18 +16,18 @@ landscape:
         name: Tools
         items:
           - item:
+            name: Apollo CLI
+            homepage_url: 'https://www.apollographql.com/'
+            repo_url: 'https://github.com/apollographql/apollo-tooling'
+            logo: apollo-graphql.svg
+            crunchbase: 'https://www.crunchbase.com/organization/meteor'
+          - item:
             name: GraphiQL
             homepage_url: 'https://github.com/graphql/graphiql'
             project: foundationproject
             repo_url: 'https://github.com/graphql/graphiql'
             logo: graphiql.svg
             crunchbase: 'https://www.crunchbase.com/organization/graphql-foundation'
-          - item:
-            name: Apollo CLI
-            homepage_url: 'https://www.apollographql.com/'
-            repo_url: 'https://github.com/apollographql/apollo-tooling'
-            logo: apollo-graphql.svg
-            crunchbase: 'https://www.crunchbase.com/organization/meteor'
   - category:
     name: Databases
     subcategories:
