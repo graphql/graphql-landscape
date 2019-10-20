@@ -247,6 +247,7 @@ landscape:
           - item:
             name: Hasura GraphQL Engine
             homepage_url: 'https://hasura.io'
+            repo_url: 'https://github.com/hasura/graphql-engine'
             logo: 'https://landscape.cncf.io/logos/hasura-graph-ql-engine.svg'
             crunchbase: 'https://www.crunchbase.com/organization/hasura'
             crunchbase_data:
@@ -263,6 +264,19 @@ landscape:
               parents: []
               kind: funding
               funding: 1600000
+            github_data:
+              stars: 12416
+              license: Other
+              description: 'Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.'
+              latest_commit_date: '2019-10-18T13:23:55Z'
+              latest_commit_link: /hasura/graphql-engine/commit/d14300e9c917ed433eebd99d2ef1096951bfe840
+              release_date: '2019-10-10T07:26:47Z'
+              release_link: 'https://github.com/hasura/graphql-engine/releases'
+              contributors_count: 174
+              contributors_link: 'https://github.com/hasura/graphql-engine/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /hasura/graphql-engine/commit/f7409ef2eb21bc73f6e9e8a1dbcdda878f0d6db1
+              start_date: '2018-06-24T13:40:48Z'
             image_data:
               fileName: hasura-graph-ql-engine.svg
             best_practice_data:
