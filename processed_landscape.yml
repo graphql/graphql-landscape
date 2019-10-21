@@ -2277,7 +2277,8 @@ landscape:
           - item:
             name: NBC News Digital
             homepage_url: 'https://www.nbc.com'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/d/d6/NBC_2014_Ident.svg'
+            logo: nbc.svg
+            stock_ticker: CMCSA
             twitter: 'https://twitter.com/nbc'
             crunchbase: 'https://www.crunchbase.com/organization/nbcuniversal'
             crunchbase_data:
@@ -2300,6 +2301,7 @@ landscape:
               effective_ticker: CMCSA
             image_data:
               fileName: nbc-news-digital.svg
+              hash: 7xsBUadcSOrmwq1kccTjXYPou6W91KASAYuk7YL6irM=
             best_practice_data:
               badge: false
               percentage: null
@@ -2487,6 +2489,38 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-10-19T21:17:41.000Z
+          - item:
+            name: Wayfair (adopter)
+            homepage_url: 'https://wayfair.com/'
+            stock_ticker: W
+            logo: wayfair.svg
+            twitter: 'https://twitter.com/wayfair'
+            crunchbase: 'https://www.crunchbase.com/organization/wayfair'
+            crunchbase_data:
+              name: Wayfair
+              description: 'Wayfair is an online retailer of home products for bedroom, living room, kitchen and dining, home entertainment, bathroom, and more.'
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: 'https://www.wayfair.com'
+              city: Boston
+              region: Massachusetts
+              country: United States
+              twitter: 'https://twitter.com/wayfair'
+              linkedin: 'https://www.linkedin.com/company/wayfair/'
+              parents: []
+              ticker: W
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 10083265536
+              effective_ticker: W
+            image_data:
+              fileName: wayfair-adopter.svg
+              hash: Aq7CRyqWYKD93gJrB+oC9VhhYTs/K6DIjD+/NHxaCtQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-20T19:01:56.000Z
           - item:
             name: Yelp
             homepage_url: 'https://www.yelp.com/'
