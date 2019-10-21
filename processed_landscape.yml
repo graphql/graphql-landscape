@@ -2306,6 +2306,37 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-10-20T15:00:17.000Z
           - item:
+            name: NYTimes (adopter)
+            homepage_url: 'https://nytimes.com'
+            logo: nytimes.svg
+            twitter: 'https://twitter.com/nytimes'
+            crunchbase: 'https://www.crunchbase.com/organization/newyorktimes'
+            crunchbase_data:
+              name: The New York Times
+              description: 'The New York Times creates, collects, and distributes news, information, and entertainment through a daily newspaper and a website.'
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: 'http://www.nytimes.com'
+              city: New York
+              region: New York
+              country: United States
+              twitter: 'http://twitter.com/nytimes'
+              linkedin: 'https://www.linkedin.com/company/the-new-york-times'
+              parents: []
+              ticker: NYT
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 5110948352
+              effective_ticker: NYT
+            image_data:
+              fileName: ny-times-adopter.svg
+              hash: praEXS1gn9Gi0BzalVACHuMgjqBXQVY4deG6LCDd9IE=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-21T09:10:03.000Z
+          - item:
             name: Pinterest
             homepage_url: 'https://www.pinterest.com/'
             stock_ticker: PINS
@@ -2398,6 +2429,33 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-10-18T18:10:46.000Z
+          - item:
+            name: Stackshare (adopter)
+            homepage_url: 'https://stackshare.io'
+            logo: 'https://communitybridge.org/wp-content/uploads/2019/03/stackshare-color-031319.svg'
+            twitter: 'https://twitter.com/stackshareio'
+            crunchbase: 'https://www.crunchbase.com/organization/stackshare'
+            crunchbase_data:
+              name: StackShare
+              description: StackShare is on a mission to connect every developer in the world with the right tools and the companies using them.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://stackshare.io'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/stackshareio'
+              linkedin: 'https://www.linkedin.com/company/stackshare'
+              parents: []
+              kind: funding
+              funding: 7000000
+            image_data:
+              fileName: stackshare-adopter.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-21T00:51:00.000Z
           - item:
             name: Twitter
             homepage_url: 'https://twitter.com/'
