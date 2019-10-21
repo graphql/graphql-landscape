@@ -490,12 +490,26 @@ landscape:
             twitter: 'https://twitter.com/nbc'
             crunchbase: 'https://www.crunchbase.com/organization/nbcuniversal'
           - item:
-            name: Pinterest
+            name: PayPal (adopter)
+            homepage_url: 'https://www.paypal.com/'
+            stock_ticker: PYPL
+            logo: paypal.svg
+            twitter: 'https://twitter.com/paypal'
+            crunchbase: 'https://www.crunchbase.com/organization/paypal'
+          - item:
+            name: Pinterest (adopter)
             homepage_url: 'https://www.pinterest.com/'
             stock_ticker: PINS
             logo: pinterest.svg
             twitter: 'https://twitter.com/pinterest'
             crunchbase: 'https://www.crunchbase.com/organization/pinterest'
+          - item:
+            name: Pluralsight (adopter)
+            homepage_url: 'https://www.pluralsight.com/'
+            stock_ticker: PS
+            logo: pluralsight.svg
+            twitter: 'https://twitter.com/pluralsight'
+            crunchbase: 'https://www.crunchbase.com/organization/pluralsight'
           - item:
             name: Serverless
             homepage_url: 'https://serverless.com/'
@@ -503,7 +517,7 @@ landscape:
             twitter: 'https://twitter.com/goserverless'
             crunchbase: 'https://www.crunchbase.com/organization/serverless'
           - item:
-            name: Shopify
+            name: Shopify (adopter)
             homepage_url: 'https://www.shopify.com/'
             stock_ticker: SHOP
             logo: shopify.svg
