@@ -485,7 +485,8 @@ landscape:
           - item:
             name: NBC News Digital
             homepage_url: 'https://www.nbc.com'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/d/d6/NBC_2014_Ident.svg'
+            logo: 'nbc.svg'
+            stock_ticker: CMCSA
             twitter: 'https://twitter.com/nbc'
             crunchbase: 'https://www.crunchbase.com/organization/nbcuniversal'
           - item:
@@ -527,6 +528,13 @@ landscape:
             logo: twitter.svg
             twitter: 'https://twitter.com/twitter'
             crunchbase: 'https://www.crunchbase.com/organization/twitter'
+          - item:
+            name: Wayfair (adopter)
+            homepage_url: 'https://wayfair.com/'
+            stock_ticker: W
+            logo: wayfair.svg
+            twitter: 'https://twitter.com/wayfair'
+            crunchbase: 'https://www.crunchbase.com/organization/wayfair'
           - item:
             name: Yelp
             homepage_url: 'https://www.yelp.com/'
