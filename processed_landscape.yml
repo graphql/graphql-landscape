@@ -2306,37 +2306,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-10-20T15:00:17.000Z
           - item:
-            name: NYTimes (adopter)
-            homepage_url: 'https://nytimes.com'
-            logo: nytimes.svg
-            twitter: 'https://twitter.com/nytimes'
-            crunchbase: 'https://www.crunchbase.com/organization/newyorktimes'
-            crunchbase_data:
-              name: The New York Times
-              description: 'The New York Times creates, collects, and distributes news, information, and entertainment through a daily newspaper and a website.'
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: 'http://www.nytimes.com'
-              city: New York
-              region: New York
-              country: United States
-              twitter: 'http://twitter.com/nytimes'
-              linkedin: 'https://www.linkedin.com/company/the-new-york-times'
-              parents: []
-              ticker: NYT
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 5110948352
-              effective_ticker: NYT
-            image_data:
-              fileName: ny-times-adopter.svg
-              hash: praEXS1gn9Gi0BzalVACHuMgjqBXQVY4deG6LCDd9IE=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-10-21T09:10:03.000Z
-          - item:
             name: Pinterest
             homepage_url: 'https://www.pinterest.com/'
             stock_ticker: PINS
@@ -2456,6 +2425,36 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-10-21T00:51:00.000Z
+          - item:
+            name: The New York Times (adopter)
+            homepage_url: 'https://www.nytco.com/'
+            logo: 'https://landscape.cncf.io/logos/the-new-york-times-supporter.svg'
+            twitter: 'https://twitter.com/nytimes'
+            crunchbase: 'https://www.crunchbase.com/organization/newyorktimes'
+            crunchbase_data:
+              name: The New York Times
+              description: 'The New York Times creates, collects, and distributes news, information, and entertainment through a daily newspaper and a website.'
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: 'http://www.nytimes.com'
+              city: New York
+              region: New York
+              country: United States
+              twitter: 'http://twitter.com/nytimes'
+              linkedin: 'https://www.linkedin.com/company/the-new-york-times'
+              parents: []
+              ticker: NYT
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 5110948352
+              effective_ticker: NYT
+            image_data:
+              fileName: the-new-york-times-adopter.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-21T09:10:03.000Z
           - item:
             name: Twitter
             homepage_url: 'https://twitter.com/'
