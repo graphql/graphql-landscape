@@ -83,7 +83,7 @@ landscape:
             logo: appsync.svg
             crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
           - item:
-            name: 8base (member)
+            name: 8base
             homepage_url: 'https://8base.com'
             logo: 8base.svg
             twitter: 'https://twitter.com/8base'
@@ -94,6 +94,12 @@ landscape:
       - subcategory:
         name: General
         items:
+          - item:
+            name: 8base (member)
+            homepage_url: 'https://8base.com'
+            logo: 8base.svg
+            twitter: 'https://twitter.com/8base'
+            crunchbase: 'https://www.crunchbase.com/organization/8base-2'
           - item:
             name: Amazon Web Services (member)
             homepage_url: 'https://aws.amazon.com/'
