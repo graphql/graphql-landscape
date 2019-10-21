@@ -27,7 +27,7 @@ landscape:
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
-              stars: 12067
+              stars: 12070
               license: Unknown License
               description: GraphQL is a query language and execution engine tied to any backend service.
               latest_commit_date: '2019-10-14T13:01:30Z'
@@ -72,11 +72,11 @@ landscape:
               kind: funding
               funding: 53200000
             github_data:
-              stars: 2150
+              stars: 2149
               license: MIT License
               description: ✏️ Tooling for development and production Apollo workflows
-              latest_commit_date: '2019-10-19T11:17:07Z'
-              latest_commit_link: /apollographql/apollo-tooling/commit/e19efc213ae52e15da209d6311b926f7b98488f5
+              latest_commit_date: '2019-10-20T13:18:42Z'
+              latest_commit_link: /apollographql/apollo-tooling/commit/90234b28704e654abcd0a4e89b3ceeb466712253
               contributors_count: 143
               contributors_link: 'https://github.com/apollographql/apollo-tooling/graphs/contributors'
             github_start_commit_data:
@@ -111,7 +111,7 @@ landscape:
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
-              stars: 9342
+              stars: 9345
               license: MIT License
               description: An in-browser IDE for exploring GraphQL.
               latest_commit_date: '2019-10-19T13:58:04Z'
@@ -159,11 +159,11 @@ landscape:
               kind: funding
               funding: 19221423
             github_data:
-              stars: 8718
+              stars: 8720
               license: Apache License 2.0
               description: "\U0001F951 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions."
-              latest_commit_date: '2019-10-19T16:14:26Z'
-              latest_commit_link: /arangodb/arangodb/commit/ea20f7aeb25b036b4f96ae424d0196e80020f076
+              latest_commit_date: '2019-10-20T16:18:54Z'
+              latest_commit_link: /arangodb/arangodb/commit/1c7a60a587a046ce48c6692ebe78ab25c2cee71e
               contributors_count: 93
               contributors_link: 'https://github.com/arangodb/arangodb/graphs/contributors'
             github_start_commit_data:
@@ -175,7 +175,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-20T05:59:59.000Z
+              latest_tweet_date: 2019-10-20T23:00:00.000Z
           - item:
             name: Dgraph
             homepage_url: 'https://dgraph.io/'
@@ -197,7 +197,7 @@ landscape:
               kind: funding
               funding: 14450000
             github_data:
-              stars: 11367
+              stars: 11375
               license: Other
               description: 'Fast, Distributed Graph DB'
               latest_commit_date: '2019-10-19T01:41:02Z'
@@ -216,7 +216,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-19T03:30:08.000Z
+              latest_tweet_date: 2019-10-20T16:05:57.000Z
           - item:
             name: Fauna
             homepage_url: 'https://fauna.com/'
@@ -243,7 +243,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-19T05:40:48.000Z
+              latest_tweet_date: 2019-10-21T05:22:51.000Z
           - item:
             name: Hasura GraphQL Engine
             homepage_url: 'https://hasura.io'
@@ -265,11 +265,11 @@ landscape:
               kind: funding
               funding: 1600000
             github_data:
-              stars: 12418
+              stars: 12429
               license: Other
               description: 'Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.'
-              latest_commit_date: '2019-10-18T13:23:55Z'
-              latest_commit_link: /hasura/graphql-engine/commit/d14300e9c917ed433eebd99d2ef1096951bfe840
+              latest_commit_date: '2019-10-20T11:59:41Z'
+              latest_commit_link: /hasura/graphql-engine/commit/842913f56665b97ad1b84595ca3a4a416179f923
               release_date: '2019-10-10T07:26:47Z'
               release_link: 'https://github.com/hasura/graphql-engine/releases'
               contributors_count: 174
@@ -283,7 +283,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-19T16:46:01.000Z
+              latest_tweet_date: 2019-10-20T14:58:00.000Z
           - item:
             name: Neo4j
             homepage_url: 'https://neo4j.com/'
@@ -306,14 +306,14 @@ landscape:
               kind: funding
               funding: 160100000
             github_data:
-              stars: 6987
+              stars: 6990
               license: Unknown License
               description: Graphs for Everyone
-              latest_commit_date: '2019-10-18T14:36:35Z'
-              latest_commit_link: /neo4j/neo4j/commit/d4bf7e505deabb58ae0bfeb22da10db1d83e120a
+              latest_commit_date: '2019-10-19T17:58:12Z'
+              latest_commit_link: /neo4j/neo4j/commit/e9ef9de959ffa76b74c4fa6ee792060529083d86
               release_date: '2017-09-15T12:28:27Z'
               release_link: 'https://github.com/neo4j/neo4j/releases'
-              contributors_count: 0
+              contributors_count: 178
               contributors_link: 'https://github.com/neo4j/neo4j/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /neo4j/neo4j/commit/6a945ab06a928bbd0f93dc56af279ee35107d7c3
@@ -325,7 +325,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-20T04:10:01.000Z
+              latest_tweet_date: 2019-10-20T23:11:01.000Z
   - category:
     name: Services
     subcategories:
@@ -354,7 +354,7 @@ landscape:
               kind: funding
               funding: 53200000
             github_data:
-              stars: 8311
+              stars: 8316
               license: MIT License
               description: "\U0001F30D GraphQL server for Express, Connect, Hapi, Koa and more"
               latest_commit_date: '2019-10-18T23:00:16Z'
@@ -404,7 +404,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-20T01:37:14.000Z
+              latest_tweet_date: 2019-10-21T03:39:01.000Z
   - category:
     name: GraphQL Foundation Member
     subcategories:
@@ -467,7 +467,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-20T01:37:14.000Z
+              latest_tweet_date: 2019-10-21T03:39:01.000Z
           - item:
             name: Apollo GraphQL (member)
             homepage_url: 'https://www.apollographql.com/'
@@ -522,7 +522,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-19T03:30:08.000Z
+              latest_tweet_date: 2019-10-20T16:05:57.000Z
           - item:
             name: Elementl (member)
             homepage_url: 'https://www.elementl.com/'
@@ -602,7 +602,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-19T05:40:48.000Z
+              latest_tweet_date: 2019-10-21T05:22:51.000Z
           - item:
             name: Gatsby (member)
             homepage_url: 'https://www.gatsbyjs.org/'
@@ -629,7 +629,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-19T15:30:12.000Z
+              latest_tweet_date: 2019-10-20T20:56:02.000Z
           - item:
             name: Hasura (member)
             homepage_url: 'https://hasura.io'
@@ -656,7 +656,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-19T16:46:01.000Z
+              latest_tweet_date: 2019-10-20T14:58:00.000Z
           - item:
             name: HomeAway (member)
             homepage_url: 'https://homeaway.com'
@@ -748,7 +748,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-19T15:03:05.000Z
+              latest_tweet_date: 2019-10-20T13:54:04.000Z
           - item:
             name: Neo4j (member)
             homepage_url: 'https://neo4j.com/'
@@ -775,7 +775,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-20T04:10:01.000Z
+              latest_tweet_date: 2019-10-20T23:11:01.000Z
           - item:
             name: Novvum (member)
             homepage_url: 'https://novvum.io/'
@@ -979,7 +979,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-20T03:13:37.000Z
+              latest_tweet_date: 2019-10-20T21:13:01.000Z
           - item:
             name: Adayroi
             homepage_url: 'https://www.adayroi.com'
@@ -1052,7 +1052,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-19T20:49:23.000Z
+              latest_tweet_date: 2019-10-20T18:00:00.000Z
           - item:
             name: AlphaSights
             homepage_url: 'https://www.alphasights.com/'
@@ -1158,7 +1158,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-17T07:21:12.000Z
+              latest_tweet_date: 2019-10-21T05:37:51.000Z
           - item:
             name: Arangodb (adopter)
             homepage_url: 'https://www.arangodb.com/'
@@ -1185,7 +1185,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-20T05:59:59.000Z
+              latest_tweet_date: 2019-10-20T23:00:00.000Z
           - item:
             name: Artsy
             homepage_url: 'https://artsy.github.io/'
@@ -1234,7 +1234,7 @@ landscape:
               ticker: TEAM
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 28279652352
+              market_cap: 26591258624
               effective_ticker: TEAM
             image_data:
               fileName: atlassian.svg
@@ -1323,7 +1323,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-19T23:38:54.000Z
+              latest_tweet_date: 2019-10-21T03:33:02.000Z
           - item:
             name: Bynder
             homepage_url: 'https://www.bynder.com/en/'
@@ -1379,7 +1379,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-20T01:22:00.000Z
+              latest_tweet_date: 2019-10-21T01:39:00.000Z
           - item:
             name: CircleHD
             homepage_url: 'https://www.circlehd.com/'
@@ -1455,7 +1455,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-19T19:20:17.000Z
+              latest_tweet_date: 2019-10-20T19:41:01.000Z
           - item:
             name: Colectica
             homepage_url: 'https://www.colectica.com/'
@@ -1510,7 +1510,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-18T14:30:03.000Z
+              latest_tweet_date: 2019-10-20T07:00:08.000Z
           - item:
             name: Compara
             homepage_url: 'https://www.comparaonline.com/'
@@ -1587,7 +1587,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-19T07:05:00.000Z
+              latest_tweet_date: 2019-10-20T18:28:01.000Z
           - item:
             name: Credit Karma
             homepage_url: 'https://www.creditkarma.com'
@@ -1721,7 +1721,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-18T19:57:14.000Z
+              latest_tweet_date: 2019-10-21T00:13:00.000Z
           - item:
             name: DueDil
             homepage_url: 'https://www.duedil.com'
@@ -1888,7 +1888,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-20T05:45:27.000Z
+              latest_tweet_date: 2019-10-21T05:10:00.000Z
           - item:
             name: FileJet
             homepage_url: 'https://filejet.io/'
@@ -2187,7 +2187,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-19T16:54:10.000Z
+              latest_tweet_date: 2019-10-20T18:36:53.000Z
           - item:
             name: Intuit
             homepage_url: 'https://www.intuit.com/'
@@ -2219,7 +2219,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-19T15:03:05.000Z
+              latest_tweet_date: 2019-10-20T13:54:04.000Z
           - item:
             name: KLM
             homepage_url: 'https://www.klm.com/home/us/en'
@@ -2245,7 +2245,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-20T06:03:35.000Z
+              latest_tweet_date: 2019-10-21T05:44:25.000Z
           - item:
             name: Loggi
             homepage_url: 'https://www.loggi.com'
@@ -2304,7 +2304,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-19T13:00:15.000Z
+              latest_tweet_date: 2019-10-20T15:00:17.000Z
           - item:
             name: Pinterest
             homepage_url: 'https://www.pinterest.com/'
@@ -2461,6 +2461,6 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-18T19:39:28.000Z
+              latest_tweet_date: 2019-10-20T23:29:00.000Z
 twitter_options:
   count: 0
