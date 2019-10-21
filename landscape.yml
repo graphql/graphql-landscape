@@ -259,8 +259,8 @@ landscape:
           - item:
             name: Atlassian (adopter)
             homepage_url: 'https://www.atlassian.com'
-            stock_ticker: TEAM
             logo: atlassian.svg
+            stock_ticker: TEAM
             twitter: 'https://twitter.com/atlassian'
             crunchbase: 'https://www.crunchbase.com/organization/atlassian'
           - item:
@@ -276,18 +276,18 @@ landscape:
             twitter: 'https://twitter.com/getbazinga'
             crunchbase: 'https://www.crunchbase.com/organization/bazinga-technologies'
           - item:
-            name: Braintree (adopter)
-            homepage_url: 'https://braintreepayments.com/'
-            stock_ticker: PYPL
-            logo: braintree.svg
-            twitter: 'https://twitter.com/braintree'
-            crunchbase: 'https://www.crunchbase.com/organization/braintree-payment-solutions'
-          - item:
             name: Buildkite (adopter)
             homepage_url: 'https://buildkite.com/'
             logo: buildkite.svg
             twitter: 'https://twitter.com/buildkite'
             crunchbase: 'https://www.crunchbase.com/organization/buildkite'
+          - item:
+            name: Braintree (adopter)
+            homepage_url: 'https://braintreepayments.com/'
+            logo: braintree.svg
+            stock_ticker: PYPL
+            twitter: 'https://twitter.com/braintree'
+            crunchbase: 'https://www.crunchbase.com/organization/braintree-payment-solutions'
           - item:
             name: Bynder (adopter)
             homepage_url: 'https://www.bynder.com/en/'
@@ -525,8 +525,8 @@ landscape:
           - item:
             name: NBC News Digital (adopter)
             homepage_url: 'https://www.nbc.com'
+            logo: 'nbc.svg'
             stock_ticker: CMCSA
-            logo: nbc.svg
             twitter: 'https://twitter.com/nbc'
             crunchbase: 'https://www.crunchbase.com/organization/nbcuniversal'
           - item:
@@ -550,12 +550,6 @@ landscape:
             logo: pluralsight.svg
             twitter: 'https://twitter.com/pluralsight'
             crunchbase: 'https://www.crunchbase.com/organization/pluralsight'
-          - item:
-            name: Satispay (adopter)
-            homepage_url: 'https://www.satispay.com'
-            logo: satispay.svg
-            twitter: 'https://twitter.com/satispay'
-            crunchbase: 'https://www.crunchbase.com/organization/satispay'
           - item:
             name: Serverless
             homepage_url: 'https://serverless.com/'
@@ -602,3 +596,9 @@ landscape:
             logo: yelp.svg
             twitter: 'https://twitter.com/yelp'
             crunchbase: 'https://www.crunchbase.com/organization/yelp'
+          - item:
+            name: Satispay (adopter)
+            homepage_url: 'https://www.satispay.com'
+            logo: satispay.svg
+            twitter: 'https://twitter.com/satispay'
+            crunchbase: 'https://www.crunchbase.com/organization/satispay'
