@@ -485,9 +485,17 @@ landscape:
           - item:
             name: NBC News Digital
             homepage_url: 'https://www.nbc.com'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/d/d6/NBC_2014_Ident.svg'
+            logo: 'nbc.svg'
+            stock_ticker: CMCSA
             twitter: 'https://twitter.com/nbc'
             crunchbase: 'https://www.crunchbase.com/organization/nbcuniversal'
+          - item:
+            name: NYTimes (adopter)
+            homepage_url: 'https://nytimes.com'
+            stock_ticker: NYT
+            logo: nytimes.svg
+            twitter: 'https://twitter.com/nytimes'
+            crunchbase: 'https://www.crunchbase.com/organization/newyorktimes'
           - item:
             name: Pinterest
             homepage_url: 'https://www.pinterest.com/'
@@ -511,7 +519,7 @@ landscape:
           - item:
             name: Stackshare (adopter)
             homepage_url: 'https://stackshare.io'
-            logo: 'https://communitybridge.org/wp-content/uploads/2019/03/stackshare-color-031319.svg'
+            logo: 'stackshare.svg'
             twitter: 'https://twitter.com/stackshareio'
             crunchbase: 'https://www.crunchbase.com/organization/stackshare'
           - item:
@@ -527,6 +535,13 @@ landscape:
             logo: twitter.svg
             twitter: 'https://twitter.com/twitter'
             crunchbase: 'https://www.crunchbase.com/organization/twitter'
+          - item:
+            name: Wayfair (adopter)
+            homepage_url: 'https://wayfair.com/'
+            stock_ticker: 1WF
+            logo: wayfair.svg
+            twitter: 'https://twitter.com/wayfair'
+            crunchbase: 'https://www.crunchbase.com/organization/wayfair'
           - item:
             name: Yelp
             homepage_url: 'https://www.yelp.com/'
