@@ -54,7 +54,7 @@ landscape:
             name: Apollo CLI
             homepage_url: 'https://www.apollographql.com/'
             repo_url: 'https://github.com/apollographql/apollo-tooling'
-            logo: apollo-graphql.svg
+            logo: apollo-cli.svg
             crunchbase: 'https://www.crunchbase.com/organization/meteor'
             crunchbase_data:
               name: Apollo
@@ -84,7 +84,7 @@ landscape:
               start_date: '2016-08-12T15:29:21Z'
             image_data:
               fileName: apollo-cli.svg
-              hash: tHRhDNJjHVZKSDWv/b/UwuRDxTeCvssKzKAAo++Mbvs=
+              hash: mq34WWtq7pDUV9T+ZLBYFoeeLbNUQ+NEcbt8E7GNKHU=
             best_practice_data:
               badge: false
               percentage: null
@@ -142,7 +142,6 @@ landscape:
             homepage_url: 'https://www.arangodb.com/'
             repo_url: 'https://github.com/arangodb/arangodb'
             logo: 'https://landscape.cncf.io/logos/arango-db.svg'
-            twitter: 'https://twitter.com/arangodb'
             crunchbase: 'https://www.crunchbase.com/organization/arangodb'
             crunchbase_data:
               name: ArangoDB
@@ -326,7 +325,6 @@ landscape:
             homepage_url: 'https://neo4j.com/'
             repo_url: 'https://github.com/neo4j/neo4j'
             logo: neo4j.svg
-            twitter: 'https://twitter.com/neo4j'
             crunchbase: 'https://www.crunchbase.com/organization/neo-technology'
             crunchbase_data:
               name: Neo4j
@@ -985,7 +983,6 @@ landscape:
           - item:
             name: Twitter (member)
             homepage_url: 'https://twitter.com/'
-            stock_ticker: TWTR
             logo: twitter.svg
             crunchbase: 'https://www.crunchbase.com/organization/twitter'
             crunchbase_data:
@@ -1023,7 +1020,6 @@ landscape:
             name: 1stdibs (adopter)
             homepage_url: 'https://www.1stdibs.com'
             logo: 1stdibs.svg
-            twitter: 'https://twitter.com/1stdibs'
             crunchbase: 'https://www.crunchbase.com/organization/1stdibs'
             crunchbase_data:
               name: 1stdibs
@@ -1051,7 +1047,6 @@ landscape:
             name: 99designs (adopter)
             homepage_url: 'https://www.99designs.com'
             logo: 99designs.svg
-            twitter: 'https://twitter.com/99designs'
             crunchbase: 'https://www.crunchbase.com/organization/99designs'
             crunchbase_data:
               name: 99designs
@@ -1098,10 +1093,37 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Airbnb (adopter)
+            homepage_url: 'https://www.airbnb.com'
+            logo: airbnb.svg
+            twitter: 'https://twitter.com/airbnb'
+            crunchbase: 'https://www.crunchbase.com/organization/airbnb'
+            crunchbase_data:
+              name: Airbnb
+              description: 'Airbnb is an online community marketplace for people to list, discover, and book accommodations around the world.'
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: 'http://airbnb.com'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/airbnb'
+              linkedin: 'https://www.linkedin.com/company/airbnb'
+              parents: []
+              kind: funding
+              funding: 4398082100
+            image_data:
+              fileName: airbnb-adopter.svg
+              hash: 4F20c1Q9BUtSvVwgWbsEFrWSxXHpGqckq0ZlnqrzU9w=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-22T12:06:53.000Z
+          - item:
             name: Alembic (adopter)
             homepage_url: 'https://alembic.com.au'
             logo: alembic.svg
-            twitter: 'https://twitter.com/teamalembic'
             crunchbase: 'https://www.crunchbase.com/organization/alembic-c6a7'
             crunchbase_data:
               name: Alembic
@@ -1178,7 +1200,6 @@ landscape:
             name: Amplitude (adopter)
             homepage_url: 'https://amplitude.com'
             logo: 'https://d3hotuclm6if1r.cloudfront.net/logos/amplitude-default.svg'
-            twitter: 'https://twitter.com/Amplitude_HQ'
             crunchbase: 'https://www.crunchbase.com/organization/amplitude'
             crunchbase_data:
               name: Amplitude
@@ -1205,7 +1226,6 @@ landscape:
             name: Ants (adopter)
             homepage_url: 'https://ants.vn/'
             logo: ants.svg
-            twitter: 'https://twitter.com/antscorporation'
             crunchbase: 'https://www.crunchbase.com/organization/ants-2'
             crunchbase_data:
               name: ANTS
@@ -1258,7 +1278,6 @@ landscape:
             name: Arangodb (adopter)
             homepage_url: 'https://www.arangodb.com/'
             logo: 'https://landscape.cncf.io/logos/arango-db.svg'
-            twitter: 'https://twitter.com/arangodb'
             crunchbase: 'https://www.crunchbase.com/organization/arangodb'
             crunchbase_data:
               name: ArangoDB
@@ -1312,9 +1331,7 @@ landscape:
           - item:
             name: Atlassian (adopter)
             homepage_url: 'https://www.atlassian.com'
-            stock_ticker: TEAM
             logo: atlassian.svg
-            twitter: 'https://twitter.com/atlassian'
             crunchbase: 'https://www.crunchbase.com/organization/atlassian'
             crunchbase_data:
               name: Atlassian
@@ -1369,6 +1386,32 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-10-21T17:01:46.000Z
           - item:
+            name: Audi (adopter)
+            homepage_url: 'https://audi.com/'
+            logo: audi.svg
+            twitter: 'https://twitter.com/audi'
+            crunchbase: 'https://www.crunchbase.com/organization/audi'
+            crunchbase_data:
+              name: Audi
+              description: 'Audi develops, produces, assembles, distributes, and sells vehicles of the Audi and Lamborghini brands in Germany and internationally.'
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://audiusa.com'
+              city: Herndon
+              region: Virginia
+              country: United States
+              twitter: 'http://twitter.com/Audi'
+              linkedin: 'https://www.linkedin.com/company/audi-of-america'
+              parents: []
+            image_data:
+              fileName: audi-adopter.svg
+              hash: s6zmgQQ0zDMG3VJF+ZgorP6JynB7BF3KBHaYij6XOo4=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-21T22:38:00.000Z
+          - item:
             name: Bazinga! (adopter)
             homepage_url: 'https://mybazinga.com/'
             logo: 'https://app.mybazinga.com/App/img/icons/wordmark.svg'
@@ -1400,7 +1443,6 @@ landscape:
             homepage_url: 'https://braintreepayments.com/'
             stock_ticker: PYPL
             logo: braintree.svg
-            twitter: 'https://twitter.com/braintree'
             crunchbase: 'https://www.crunchbase.com/organization/braintree-payment-solutions'
             crunchbase_data:
               name: Braintree
@@ -1430,7 +1472,6 @@ landscape:
             name: Buildkite (adopter)
             homepage_url: 'https://buildkite.com/'
             logo: buildkite.svg
-            twitter: 'https://twitter.com/buildkite'
             crunchbase: 'https://www.crunchbase.com/organization/buildkite'
             crunchbase_data:
               name: Buildkite
@@ -1456,7 +1497,6 @@ landscape:
             name: Bynder (adopter)
             homepage_url: 'https://www.bynder.com/en/'
             logo: bynder.svg
-            twitter: 'https://twitter.com/bynder'
             crunchbase: 'https://www.crunchbase.com/organization/bynder'
             crunchbase_data:
               name: Bynder
@@ -1484,7 +1524,6 @@ landscape:
             name: Cheddar (adopter)
             homepage_url: 'https://cheddar.com'
             logo: cheddar.svg
-            twitter: 'https://twitter.com/cheddar'
             crunchbase: 'https://www.crunchbase.com/organization/cheddar-tv'
             crunchbase_data:
               name: Cheddar
@@ -1537,7 +1576,6 @@ landscape:
             name: Cloverleaf (adopter)
             homepage_url: 'https://cloverleaf.me/'
             logo: cloverleaf.svg
-            twitter: 'https://twitter.com/cloverleafme'
             crunchbase: 'https://www.crunchbase.com/organization/cloverleaf-me'
             crunchbase_data:
               name: Cloverleaf.me
@@ -1588,7 +1626,6 @@ landscape:
             name: Colectica (adopter)
             homepage_url: 'https://www.colectica.com/'
             logo: colectica.svg
-            twitter: 'https://twitter.com/Colectica'
             crunchbase: 'https://www.crunchbase.com/organization/colectica'
             crunchbase_data:
               name: Colectica
@@ -1616,7 +1653,6 @@ landscape:
             name: CommerceTools (adopter)
             homepage_url: 'https://commercetools.com/'
             logo: 'https://dev.commercetools.com/assets/img/CT-logo.svg'
-            twitter: 'https://twitter.com/commercetools'
             crunchbase: 'https://www.crunchbase.com/organization/commercetools'
             crunchbase_data:
               name: commercetools
@@ -1692,7 +1728,6 @@ landscape:
             name: Configure One (adopter)
             homepage_url: 'https://configureone.com'
             logo: configure-one.svg
-            twitter: 'https://twitter.com/ConfigureOne'
             crunchbase: 'https://www.crunchbase.com/organization/configure-one'
             crunchbase_data:
               name: Configure One
@@ -1718,7 +1753,6 @@ landscape:
             name: Coursera (adopter)
             homepage_url: 'https://www.coursera.org'
             logo: coursera.svg
-            twitter: 'https://twitter.com/coursera'
             crunchbase: 'https://www.crunchbase.com/organization/coursera'
             crunchbase_data:
               name: Coursera
@@ -1746,7 +1780,6 @@ landscape:
             name: Credit Karma (adopter)
             homepage_url: 'https://www.creditkarma.com'
             logo: 'https://blog.creditkarma.com/wp-content/themes/creditkarma-pr/assets/svg/logo.svg'
-            twitter: 'https://twitter.com/CreditKarma'
             crunchbase: 'https://www.crunchbase.com/organization/credit-karma'
             crunchbase_data:
               name: Credit Karma
@@ -1827,7 +1860,6 @@ landscape:
             name: Directlyrics (adopter)
             homepage_url: 'https://directlyrics.com/'
             logo: directlyrics.svg
-            twitter: 'http://twitter.com/directlyrics'
             crunchbase: 'https://www.crunchbase.com/organization/directlyrics'
             crunchbase_data:
               name: Directlyrics
@@ -1853,7 +1885,6 @@ landscape:
             name: Drift (adopter)
             homepage_url: 'https://www.drift.com/'
             logo: drift.svg
-            twitter: 'https://twitter.com/drift'
             crunchbase: 'https://www.crunchbase.com/organization/drift'
             crunchbase_data:
               name: Drift
@@ -1881,7 +1912,6 @@ landscape:
             name: DueDil (adopter)
             homepage_url: 'https://www.duedil.com'
             logo: duedil.svg
-            twitter: 'http://twitter.com/duedil'
             crunchbase: 'https://www.crunchbase.com/organization/duedil'
             crunchbase_data:
               name: DueDil
@@ -1909,7 +1939,6 @@ landscape:
             name: Easy Carros (adopter)
             homepage_url: 'http://www.easycarros.com/'
             logo: 'https://easycarrista.easycarros.com/assets/images/logo-easycarros-vertical-blue.svg'
-            twitter: 'https://twitter.com/easycarros'
             crunchbase: 'https://www.crunchbase.com/organization/easy-carros'
             crunchbase_data:
               name: Easy Carros
@@ -1937,7 +1966,6 @@ landscape:
             name: Ediket (adopter)
             homepage_url: 'https://ediket.com/'
             logo: ediket.svg
-            twitter: 'https://twitter.com/Ediketeer'
             crunchbase: 'https://www.crunchbase.com/organization/ediket'
             crunchbase_data:
               name: Ediket
@@ -1988,7 +2016,6 @@ landscape:
             name: Expert360 (adopter)
             homepage_url: 'https://expert360.com/'
             logo: expert360.svg
-            twitter: 'https://twitter.com/expert_360'
             crunchbase: 'https://www.crunchbase.com/organization/expert360'
             crunchbase_data:
               name: Expert360
@@ -2016,7 +2043,6 @@ landscape:
             name: Facebook (adopter)
             homepage_url: 'https://www.facebook.com/'
             logo: facebook.svg
-            twitter: 'https://twitter.com/facebook'
             crunchbase: 'https://www.crunchbase.com/organization/facebook'
             crunchbase_data:
               name: Facebook
@@ -2047,7 +2073,6 @@ landscape:
             name: Fairfax Media (adopter)
             homepage_url: 'https://www.fairfaxmedia.com.au/'
             logo: fairfaxmedia.svg
-            twitter: 'http://twitter.com/smh'
             crunchbase: 'https://www.crunchbase.com/organization/fairfax-media'
             crunchbase_data:
               name: Fairfax Media
@@ -2095,7 +2120,6 @@ landscape:
             name: Gentux (adopter)
             homepage_url: 'https://www.generationtux.com/'
             logo: generationtux.svg
-            twitter: 'https://www.twitter.com/generationtux'
             crunchbase: 'https://www.crunchbase.com/organization/generation-tux'
             crunchbase_data:
               name: Generation Tux
@@ -2123,7 +2147,6 @@ landscape:
             name: GetNinjas (adopter)
             homepage_url: 'https://www.getninjas.com.br/'
             logo: getninjas.svg
-            twitter: 'https://twitter.com/getninjas'
             crunchbase: 'https://www.crunchbase.com/organization/getninjas'
             crunchbase_data:
               name: GetNinjas
@@ -2150,9 +2173,7 @@ landscape:
           - item:
             name: GitHub (adopter)
             homepage_url: 'https://github.com/'
-            stock_ticker: MSFT
             logo: github.svg
-            twitter: 'https://twitter.com/github'
             crunchbase: 'https://www.crunchbase.com/organization/github'
             crunchbase_data:
               name: GitHub
@@ -2210,7 +2231,6 @@ landscape:
             name: GraphCMS (adopter)
             homepage_url: 'https://graphcms.com/'
             logo: 'https://graphcms.com/static/darkLogo-359a30ec36fd51d42ad166818599185f.svg'
-            twitter: 'https://twitter.com/graphcms'
             crunchbase: 'https://www.crunchbase.com/organization/graphcms'
             crunchbase_data:
               name: GraphCMS
@@ -2265,7 +2285,6 @@ landscape:
             name: Hackages (adopter)
             homepage_url: 'https://hackages.io/'
             logo: 'http://2018.css-minsk-js.by/storage/app/media/partners/info/hackages.svg'
-            twitter: 'https://twitter.com/hackages'
             crunchbase: 'https://www.crunchbase.com/organization/hackages'
             crunchbase_data:
               name: Hackages
@@ -2290,7 +2309,6 @@ landscape:
             name: Hijup (adopter)
             homepage_url: 'https://www.hijup.com/en'
             logo: hijup.svg
-            twitter: 'https://twitter.com/hijup'
             crunchbase: 'https://www.crunchbase.com/organization/hijup-com'
             crunchbase_data:
               name: HijUp
@@ -2345,7 +2363,6 @@ landscape:
             name: Hudl (adopter)
             homepage_url: 'https://www.hudl.com'
             logo: hudl.svg
-            twitter: 'https://twitter.com/hudl'
             crunchbase: 'https://www.crunchbase.com/organization/hudl'
             crunchbase_data:
               name: Hudl
@@ -2373,7 +2390,6 @@ landscape:
             name: Instana (adopter)
             homepage_url: 'https://www.instana.com/'
             logo: instana.svg
-            twitter: 'https://twitter.com/InstanaHQ'
             crunchbase: 'https://www.crunchbase.com/organization/instana'
             crunchbase_data:
               name: Instana
@@ -2400,7 +2416,6 @@ landscape:
           - item:
             name: Intuit (adopter)
             homepage_url: 'https://www.intuit.com/'
-            stock_ticker: INTU
             logo: intuit.svg
             twitter: 'https://twitter.com/intuit'
             crunchbase: 'https://www.crunchbase.com/organization/intuit'
@@ -2433,7 +2448,6 @@ landscape:
             name: KLM (adopter)
             homepage_url: 'https://www.klm.com/home/us/en'
             logo: klm.svg
-            twitter: 'https://twitter.com/klm'
             crunchbase: 'https://www.crunchbase.com/organization/klm-royal-dutch-airlines'
             crunchbase_data:
               name: KLM Royal Dutch Airlines
@@ -2486,9 +2500,7 @@ landscape:
           - item:
             name: Lyft (adopter)
             homepage_url: 'https://www.lyft.com'
-            stock_ticker: LYFT
             logo: lyft.svg
-            twitter: 'https://twitter.com/lyft'
             crunchbase: 'https://www.crunchbase.com/organization/lyft'
             crunchbase_data:
               name: Lyft
@@ -2520,7 +2532,6 @@ landscape:
             homepage_url: 'https://www.magento.com'
             stock_ticker: ADBE
             logo: magento.svg
-            twitter: 'https://twitter.com/magento'
             crunchbase: 'https://www.crunchbase.com/organization/magento'
             crunchbase_data:
               name: Magento Commerce
@@ -2549,7 +2560,6 @@ landscape:
           - item:
             name: NBC News Digital (adopter)
             homepage_url: 'https://www.nbc.com'
-            stock_ticker: CMCSA
             logo: nbc.svg
             twitter: 'https://twitter.com/nbc'
             crunchbase: 'https://www.crunchbase.com/organization/nbcuniversal'
@@ -2582,9 +2592,7 @@ landscape:
           - item:
             name: New Relic (adopter)
             homepage_url: 'https://www.newrelic.com/'
-            stock_ticker: NEWR
             logo: newrelic.svg
-            twitter: 'https://twitter.com/newrelic'
             crunchbase: 'https://www.crunchbase.com/organization/new-relic'
             crunchbase_data:
               name: New Relic
@@ -2614,7 +2622,6 @@ landscape:
           - item:
             name: Pinterest (adopter)
             homepage_url: 'https://www.pinterest.com/'
-            stock_ticker: PINS
             logo: pinterest.svg
             twitter: 'https://twitter.com/pinterest'
             crunchbase: 'https://www.crunchbase.com/organization/pinterest'
@@ -2646,7 +2653,6 @@ landscape:
           - item:
             name: Pluralsight (adopter)
             homepage_url: 'https://www.pluralsight.com/'
-            stock_ticker: PS
             logo: pluralsight.svg
             twitter: 'https://twitter.com/pluralsight'
             crunchbase: 'https://www.crunchbase.com/organization/pluralsight'
@@ -2711,7 +2717,6 @@ landscape:
             name: Satispay (adopter)
             homepage_url: 'https://www.satispay.com'
             logo: satispay.svg
-            twitter: 'https://twitter.com/satispay'
             crunchbase: 'https://www.crunchbase.com/organization/satispay'
             crunchbase_data:
               name: Satispay
@@ -2739,7 +2744,6 @@ landscape:
             name: Serverless
             homepage_url: 'https://serverless.com/'
             logo: serverless.svg
-            twitter: 'https://twitter.com/goserverless'
             crunchbase: 'https://www.crunchbase.com/organization/serverless'
             crunchbase_data:
               name: Serverless
@@ -2767,9 +2771,7 @@ landscape:
           - item:
             name: Shopify (adopter)
             homepage_url: 'https://www.shopify.com/'
-            stock_ticker: SHOP
             logo: shopify.svg
-            twitter: 'https://twitter.com/shopify'
             crunchbase: 'https://www.crunchbase.com/organization/shopify'
             crunchbase_data:
               name: Shopify
@@ -2800,7 +2802,6 @@ landscape:
             name: Stackshare (adopter)
             homepage_url: 'https://stackshare.io'
             logo: 'https://communitybridge.org/wp-content/uploads/2019/03/stackshare-color-031319.svg'
-            twitter: 'https://twitter.com/stackshareio'
             crunchbase: 'https://www.crunchbase.com/organization/stackshare'
             crunchbase_data:
               name: StackShare
@@ -2850,7 +2851,6 @@ landscape:
             name: The New York Times (adopter)
             homepage_url: 'https://www.nytco.com/'
             logo: 'https://landscape.cncf.io/logos/the-new-york-times-supporter.svg'
-            twitter: 'https://twitter.com/nytimes'
             crunchbase: 'https://www.crunchbase.com/organization/newyorktimes'
             crunchbase_data:
               name: The New York Times
@@ -2879,9 +2879,7 @@ landscape:
           - item:
             name: Twitter
             homepage_url: 'https://twitter.com/'
-            stock_ticker: TWTR
             logo: twitter.svg
-            twitter: 'https://twitter.com/twitter'
             crunchbase: 'https://www.crunchbase.com/organization/twitter'
             crunchbase_data:
               name: Twitter
@@ -2911,9 +2909,7 @@ landscape:
           - item:
             name: Wayfair (adopter)
             homepage_url: 'https://wayfair.com/'
-            stock_ticker: W
             logo: wayfair.svg
-            twitter: 'https://twitter.com/wayfair'
             crunchbase: 'https://www.crunchbase.com/organization/wayfair'
             crunchbase_data:
               name: Wayfair
@@ -2943,7 +2939,6 @@ landscape:
           - item:
             name: Yelp
             homepage_url: 'https://www.yelp.com/'
-            stock_ticker: YELP
             logo: yelp.svg
             twitter: 'https://twitter.com/yelp'
             crunchbase: 'https://www.crunchbase.com/organization/yelp'
