@@ -27,7 +27,7 @@ landscape:
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
-              stars: 12078
+              stars: 12082
               license: Unknown License
               description: GraphQL is a query language and execution engine tied to any backend service.
               latest_commit_date: '2019-10-21T19:46:05Z'
@@ -72,12 +72,12 @@ landscape:
               kind: funding
               funding: 53200000
             github_data:
-              stars: 2151
+              stars: 2155
               license: MIT License
               description: ✏️ Tooling for development and production Apollo workflows
-              latest_commit_date: '2019-10-22T20:42:14Z'
-              latest_commit_link: /apollographql/apollo-tooling/commit/96488d23da6410d5179deafb0e887e6a5188e244
-              contributors_count: 143
+              latest_commit_date: '2019-10-23T13:24:42Z'
+              latest_commit_link: /apollographql/apollo-tooling/commit/fe4d46c2478409f8bc4fdeb4d36b52abea970ca5
+              contributors_count: 144
               contributors_link: 'https://github.com/apollographql/apollo-tooling/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /apollographql/apollo-tooling/commit/547c70194c31f292200c409974cab4cd22e9bc48
@@ -111,11 +111,11 @@ landscape:
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
-              stars: 9360
+              stars: 9373
               license: MIT License
               description: An in-browser IDE for exploring GraphQL.
-              latest_commit_date: '2019-10-19T13:58:04Z'
-              latest_commit_link: /graphql/graphiql/commit/e09ce2329812f26cda5abce108ad050f63e6e646
+              latest_commit_date: '2019-10-23T14:21:25Z'
+              latest_commit_link: /graphql/graphiql/commit/68d0ebf4d747983c8f09e2f564da70ebcb39e9db
               release_date: '2019-10-19T13:58:22Z'
               release_link: 'https://github.com/graphql/graphiql/releases'
               contributors_count: 114
@@ -158,11 +158,11 @@ landscape:
               kind: funding
               funding: 19221423
             github_data:
-              stars: 8732
+              stars: 8736
               license: Apache License 2.0
               description: "\U0001F951 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions."
-              latest_commit_date: '2019-10-22T16:47:29Z'
-              latest_commit_link: /arangodb/arangodb/commit/2f62f628005946cc781a69c4e23a5badcf9277f1
+              latest_commit_date: '2019-10-23T13:49:47Z'
+              latest_commit_link: /arangodb/arangodb/commit/b124113190caa3857624ec28d2eccdcd590e4580
               contributors_count: 93
               contributors_link: 'https://github.com/arangodb/arangodb/graphs/contributors'
             github_start_commit_data:
@@ -174,7 +174,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T20:02:59.000Z
+              latest_tweet_date: 2019-10-23T20:06:59.000Z
           - item:
             name: Dgraph
             homepage_url: 'https://dgraph.io/'
@@ -196,11 +196,11 @@ landscape:
               kind: funding
               funding: 14450000
             github_data:
-              stars: 11416
+              stars: 11434
               license: Other
               description: 'Fast, Distributed Graph DB'
-              latest_commit_date: '2019-10-19T01:41:02Z'
-              latest_commit_link: /dgraph-io/dgraph/commit/8a5c2f25136cbf61fdcf7644fcb3ffec77ced426
+              latest_commit_date: '2019-10-23T22:19:21Z'
+              latest_commit_link: /dgraph-io/dgraph/commit/97c5bcab005580b23c4b8b8928bb2c251da83a99
               release_date: '2019-09-04T07:15:44Z'
               release_link: 'https://github.com/dgraph-io/dgraph/releases'
               contributors_count: 111
@@ -215,7 +215,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T22:20:06.000Z
+              latest_tweet_date: 2019-10-23T14:00:30.000Z
           - item:
             name: EdgeDB
             homepage_url: 'https://edgedb.com/'
@@ -235,11 +235,11 @@ landscape:
               linkedin: null
               parents: []
             github_data:
-              stars: 3318
+              stars: 3322
               license: Apache License 2.0
               description: The next generation relational database.
-              latest_commit_date: '2019-10-22T22:24:59Z'
-              latest_commit_link: /edgedb/edgedb/commit/be705ce77d6a5f6d66a94691b4f7d0fb555b34b0
+              latest_commit_date: '2019-10-23T21:26:04Z'
+              latest_commit_link: /edgedb/edgedb/commit/433cc685c520e9fc300431f506ac9cd5cc32ca8d
               release_date: '2019-04-12T06:31:17Z'
               release_link: 'https://github.com/edgedb/edgedb/releases'
               contributors_count: 11
@@ -279,7 +279,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T23:11:34.000Z
+              latest_tweet_date: 2019-10-23T14:34:44.000Z
           - item:
             name: Hasura GraphQL Engine
             homepage_url: 'https://hasura.io'
@@ -301,11 +301,11 @@ landscape:
               kind: funding
               funding: 1600000
             github_data:
-              stars: 12491
+              stars: 12515
               license: Other
               description: 'Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.'
-              latest_commit_date: '2019-10-22T07:24:35Z'
-              latest_commit_link: /hasura/graphql-engine/commit/713d689dc1ffdd1b32482884d557a377f5ec7de0
+              latest_commit_date: '2019-10-23T09:23:41Z'
+              latest_commit_link: /hasura/graphql-engine/commit/7664f1a528eda8c63f7f9c3e57202c8613a22935
               release_date: '2019-10-22T08:30:34Z'
               release_link: 'https://github.com/hasura/graphql-engine/releases'
               contributors_count: 176
@@ -319,7 +319,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-23T03:49:21.000Z
+              latest_tweet_date: 2019-10-24T05:06:04.000Z
           - item:
             name: Neo4j
             homepage_url: 'https://neo4j.com/'
@@ -341,11 +341,11 @@ landscape:
               kind: funding
               funding: 160100000
             github_data:
-              stars: 7001
+              stars: 7005
               license: Unknown License
               description: Graphs for Everyone
-              latest_commit_date: '2019-10-22T08:48:54Z'
-              latest_commit_link: /neo4j/neo4j/commit/b98399b05546fabeb2d873a9bc05bd8d98a4e52a
+              latest_commit_date: '2019-10-22T08:38:38Z'
+              latest_commit_link: /neo4j/neo4j/commit/c0b6bd68402e5afdd32d1a845bbb4c498c339472
               release_date: '2017-09-15T12:28:27Z'
               release_link: 'https://github.com/neo4j/neo4j/releases'
               contributors_count: 176
@@ -360,7 +360,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T21:09:00.000Z
+              latest_tweet_date: 2019-10-24T06:09:00.000Z
   - category:
     name: Services
     subcategories:
@@ -417,11 +417,11 @@ landscape:
               kind: funding
               funding: 53200000
             github_data:
-              stars: 8323
+              stars: 8328
               license: MIT License
               description: "\U0001F30D GraphQL server for Express, Connect, Hapi, Koa and more"
-              latest_commit_date: '2019-10-21T17:29:07Z'
-              latest_commit_link: /apollographql/apollo-server/commit/2cdab5ac20beeabfce7b7121afd2e3a077064b94
+              latest_commit_date: '2019-10-23T07:13:21Z'
+              latest_commit_link: /apollographql/apollo-server/commit/8059326ce43a776b6f34e1a6de4cb78da4e4a2b3
               release_date: '2017-01-12T16:01:12Z'
               release_link: 'https://github.com/apollographql/apollo-server/releases'
               contributors_count: 311
@@ -458,7 +458,7 @@ landscape:
               ticker: AMZN
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 873428942848
+              market_cap: 871667990528
               effective_ticker: AMZN
             image_data:
               fileName: aws-app-sync.svg
@@ -467,7 +467,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-23T04:00:01.000Z
+              latest_tweet_date: 2019-10-24T04:30:01.000Z
   - category:
     name: GraphQL Foundation Member
     subcategories:
@@ -523,7 +523,7 @@ landscape:
               ticker: AMZN
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 873428942848
+              market_cap: 871667990528
               effective_ticker: AMZN
             image_data:
               fileName: amazon-web-services-member.svg
@@ -532,7 +532,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-23T04:00:01.000Z
+              latest_tweet_date: 2019-10-24T04:30:01.000Z
           - item:
             name: Apollo GraphQL (member)
             homepage_url: 'https://www.apollographql.com/'
@@ -587,7 +587,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T22:20:06.000Z
+              latest_tweet_date: 2019-10-23T14:00:30.000Z
           - item:
             name: Elementl (member)
             homepage_url: 'https://www.elementl.com/'
@@ -607,7 +607,7 @@ landscape:
               parents: []
             image_data:
               fileName: elementl-member.svg
-              hash: t+WvTQfQaOzP2xonMHjbRXH6hwexQ92pBDhdPcXyrLM=
+              hash: OyYYeNssdVs/QSnhivxas/yxwoAxh9FpxGdGTm3g7Tk=
             best_practice_data:
               badge: false
               percentage: null
@@ -631,7 +631,7 @@ landscape:
               ticker: FB
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 520206909440
+              market_cap: 531076612096
               effective_ticker: FB
             image_data:
               fileName: facebook-member.svg
@@ -667,7 +667,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T23:11:34.000Z
+              latest_tweet_date: 2019-10-23T14:34:44.000Z
           - item:
             name: Gatsby (member)
             homepage_url: 'https://www.gatsbyjs.org/'
@@ -694,7 +694,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T19:01:40.000Z
+              latest_tweet_date: 2019-10-24T00:19:10.000Z
           - item:
             name: Hasura (member)
             homepage_url: 'https://hasura.io'
@@ -721,7 +721,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-23T03:49:21.000Z
+              latest_tweet_date: 2019-10-24T05:06:04.000Z
           - item:
             name: HomeAway (member)
             homepage_url: 'https://homeaway.com'
@@ -744,7 +744,7 @@ landscape:
               ticker: AWAY
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 18715197440
+              market_cap: 18872838144
               effective_ticker: IAC
             image_data:
               fileName: home-away-member.svg
@@ -774,7 +774,7 @@ landscape:
               ticker: IBM
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 118671818752
+              market_cap: 119043891200
               effective_ticker: IBM
             image_data:
               fileName: ibm-member.svg
@@ -783,7 +783,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T20:32:37.000Z
+              latest_tweet_date: 2019-10-23T17:02:31.000Z
           - item:
             name: Intuit (member)
             homepage_url: 'https://www.intuit.com/'
@@ -804,7 +804,7 @@ landscape:
               ticker: INTU
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 65884545024
+              market_cap: 66571141120
               effective_ticker: INTU
             image_data:
               fileName: intuit-member.svg
@@ -813,7 +813,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-23T00:02:08.000Z
+              latest_tweet_date: 2019-10-23T21:52:03.000Z
           - item:
             name: Neo4j (member)
             homepage_url: 'https://neo4j.com/'
@@ -840,7 +840,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T21:09:00.000Z
+              latest_tweet_date: 2019-10-24T06:09:00.000Z
           - item:
             name: Novvum (member)
             homepage_url: 'https://novvum.io/'
@@ -886,7 +886,7 @@ landscape:
               ticker: PYPL
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 114561556480
+              market_cap: 113714348032
               effective_ticker: PYPL
             image_data:
               fileName: pay-pal-member.svg
@@ -895,7 +895,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-23T00:32:51.000Z
+              latest_tweet_date: 2019-10-24T01:16:56.000Z
           - item:
             name: Prisma (member)
             homepage_url: 'https://prisma.io/'
@@ -922,7 +922,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-18T09:30:02.000Z
+              latest_tweet_date: 2019-10-23T09:37:02.000Z
           - item:
             name: Shopify (member)
             homepage_url: 'https://www.shopify.com'
@@ -943,7 +943,7 @@ landscape:
               ticker: SHOP
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 34420895744
+              market_cap: 34247763968
               effective_ticker: SHOP
             image_data:
               fileName: shopify-member.svg
@@ -979,7 +979,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T18:05:22.000Z
+              latest_tweet_date: 2019-10-23T20:09:14.000Z
           - item:
             name: Twitter (member)
             homepage_url: 'https://twitter.com/'
@@ -1000,7 +1000,7 @@ landscape:
               ticker: TWTR
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 30000828416
+              market_cap: 30016288768
               effective_ticker: TWTR
             image_data:
               fileName: twitter-member.svg
@@ -1009,7 +1009,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T21:22:45.000Z
+              latest_tweet_date: 2019-10-23T22:16:57.000Z
   - category:
     name: GraphQL Adopter
     subcategories:
@@ -1042,7 +1042,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T23:00:08.000Z
+              latest_tweet_date: 2019-10-23T23:35:01.000Z
           - item:
             name: 99designs (adopter)
             homepage_url: 'https://www.99designs.com'
@@ -1096,7 +1096,6 @@ landscape:
             name: Airbnb (adopter)
             homepage_url: 'https://www.airbnb.com'
             logo: airbnb.svg
-            twitter: 'https://twitter.com/airbnb'
             crunchbase: 'https://www.crunchbase.com/organization/airbnb'
             crunchbase_data:
               name: Airbnb
@@ -1119,7 +1118,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T23:57:28.000Z
+              latest_tweet_date: 2019-10-23T22:36:54.000Z
           - item:
             name: Alembic (adopter)
             homepage_url: 'https://alembic.com.au'
@@ -1169,7 +1168,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T19:00:00.000Z
+              latest_tweet_date: 2019-10-23T20:30:00.000Z
           - item:
             name: AlphaSights (adopter)
             homepage_url: 'https://www.alphasights.com/'
@@ -1195,7 +1194,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-07T12:41:33.000Z
+              latest_tweet_date: 2019-10-23T13:06:21.000Z
           - item:
             name: Amplitude (adopter)
             homepage_url: 'https://amplitude.com'
@@ -1273,7 +1272,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T07:21:47.000Z
+              latest_tweet_date: 2019-10-23T04:29:55.000Z
           - item:
             name: Arangodb (adopter)
             homepage_url: 'https://www.arangodb.com/'
@@ -1299,7 +1298,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T20:02:59.000Z
+              latest_tweet_date: 2019-10-23T20:06:59.000Z
           - item:
             name: Artsy (adopter)
             homepage_url: 'https://artsy.github.io/'
@@ -1348,7 +1347,7 @@ landscape:
               ticker: TEAM
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 26643759104
+              market_cap: 26075068416
               effective_ticker: TEAM
             image_data:
               fileName: atlassian-adopter.svg
@@ -1357,7 +1356,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T20:00:11.000Z
+              latest_tweet_date: 2019-10-23T23:05:19.000Z
           - item:
             name: Attendify (adopter)
             homepage_url: 'https://attendify.com/'
@@ -1384,7 +1383,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T23:39:11.000Z
+              latest_tweet_date: 2019-10-23T15:20:17.000Z
           - item:
             name: Audi (adopter)
             homepage_url: 'https://audi.com/'
@@ -1410,7 +1409,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-21T22:38:00.000Z
+              latest_tweet_date: 2019-10-23T17:31:00.000Z
           - item:
             name: Bazinga! (adopter)
             homepage_url: 'https://mybazinga.com/'
@@ -1458,7 +1457,7 @@ landscape:
               parents: []
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 114561556480
+              market_cap: 113714348032
               effective_ticker: PYPL
             image_data:
               fileName: braintree-adopter.svg
@@ -1492,7 +1491,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-21T18:31:39.000Z
+              latest_tweet_date: 2019-10-23T21:03:37.000Z
           - item:
             name: Bynder (adopter)
             homepage_url: 'https://www.bynder.com/en/'
@@ -1519,7 +1518,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T07:31:16.000Z
+              latest_tweet_date: 2019-10-23T15:32:58.000Z
           - item:
             name: Cheddar (adopter)
             homepage_url: 'https://cheddar.com'
@@ -1546,7 +1545,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-23T02:29:00.000Z
+              latest_tweet_date: 2019-10-24T02:10:19.000Z
           - item:
             name: CircleHD (adopter)
             homepage_url: 'https://www.circlehd.com/'
@@ -1571,7 +1570,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T13:58:02.000Z
+              latest_tweet_date: 2019-10-23T17:18:01.000Z
           - item:
             name: Cloverleaf (adopter)
             homepage_url: 'https://cloverleaf.me/'
@@ -1596,7 +1595,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T12:06:01.000Z
+              latest_tweet_date: 2019-10-23T14:15:01.000Z
           - item:
             name: ClubMed (adopter)
             homepage_url: 'http://www.clubmed.com/'
@@ -1621,7 +1620,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-20T19:41:01.000Z
+              latest_tweet_date: 2019-10-23T21:36:02.000Z
           - item:
             name: Colectica (adopter)
             homepage_url: 'https://www.colectica.com/'
@@ -1674,7 +1673,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T20:30:19.000Z
+              latest_tweet_date: 2019-10-23T13:30:08.000Z
           - item:
             name: Compara (adopter)
             homepage_url: 'https://www.comparaonline.com/'
@@ -1775,7 +1774,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T23:36:29.000Z
+              latest_tweet_date: 2019-10-24T01:20:13.000Z
           - item:
             name: Credit Karma (adopter)
             homepage_url: 'https://www.creditkarma.com'
@@ -1801,7 +1800,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T22:46:35.000Z
+              latest_tweet_date: 2019-10-23T21:23:17.000Z
           - item:
             name: Curio (adopter)
             homepage_url: 'https://curio.org/'
@@ -1907,7 +1906,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T19:22:06.000Z
+              latest_tweet_date: 2019-10-23T20:25:01.000Z
           - item:
             name: DueDil (adopter)
             homepage_url: 'https://www.duedil.com'
@@ -2059,7 +2058,7 @@ landscape:
               ticker: FB
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 520206909440
+              market_cap: 531076612096
               effective_ticker: FB
             image_data:
               fileName: facebook-adopter.svg
@@ -2093,7 +2092,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-23T04:19:50.000Z
+              latest_tweet_date: 2019-10-24T06:20:30.000Z
           - item:
             name: FileJet (adopter)
             homepage_url: 'https://filejet.io/'
@@ -2191,7 +2190,7 @@ landscape:
               ticker: MSFT
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1033799073792
+              market_cap: 1062848364544
               effective_ticker: MSFT
             image_data:
               fileName: git-hub-adopter.svg
@@ -2200,7 +2199,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-21T18:00:01.000Z
+              latest_tweet_date: 2019-10-23T23:05:01.000Z
           - item:
             name: Goalify (adopter)
             homepage_url: 'https://goalify.plus/'
@@ -2304,7 +2303,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-21T17:26:07.000Z
+              latest_tweet_date: 2019-10-23T06:32:51.000Z
           - item:
             name: Hijup (adopter)
             homepage_url: 'https://www.hijup.com/en'
@@ -2358,7 +2357,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-21T16:44:03.000Z
+              latest_tweet_date: 2019-10-23T15:29:16.000Z
           - item:
             name: Hudl (adopter)
             homepage_url: 'https://www.hudl.com'
@@ -2385,7 +2384,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T17:06:00.000Z
+              latest_tweet_date: 2019-10-23T23:50:59.000Z
           - item:
             name: Instana (adopter)
             homepage_url: 'https://www.instana.com/'
@@ -2412,7 +2411,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T21:03:18.000Z
+              latest_tweet_date: 2019-10-23T23:45:30.000Z
           - item:
             name: Intuit (adopter)
             homepage_url: 'https://www.intuit.com/'
@@ -2434,7 +2433,7 @@ landscape:
               ticker: INTU
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 65884545024
+              market_cap: 66571141120
               effective_ticker: INTU
             image_data:
               fileName: intuit-adopter.svg
@@ -2443,7 +2442,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-23T00:02:08.000Z
+              latest_tweet_date: 2019-10-23T21:52:03.000Z
           - item:
             name: KLM (adopter)
             homepage_url: 'https://www.klm.com/home/us/en'
@@ -2468,7 +2467,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-23T04:11:32.000Z
+              latest_tweet_date: 2019-10-24T05:55:21.000Z
           - item:
             name: Loggi (adopter)
             homepage_url: 'https://www.loggi.com'
@@ -2496,7 +2495,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T18:45:02.000Z
+              latest_tweet_date: 2019-10-23T17:12:26.000Z
           - item:
             name: Lyft (adopter)
             homepage_url: 'https://www.lyft.com'
@@ -2517,7 +2516,7 @@ landscape:
               ticker: LYFT
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 12755282944
+              market_cap: 12614728704
               effective_ticker: LYFT
             image_data:
               fileName: lyft-adopter.svg
@@ -2526,7 +2525,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T23:57:50.000Z
+              latest_tweet_date: 2019-10-24T05:50:54.000Z
           - item:
             name: Magento (adopter)
             homepage_url: 'https://www.magento.com'
@@ -2547,7 +2546,7 @@ landscape:
               parents: []
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 126388183040
+              market_cap: 126499528704
               effective_ticker: ADBE
             image_data:
               fileName: magento-adopter.svg
@@ -2556,7 +2555,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T21:04:12.000Z
+              latest_tweet_date: 2019-10-23T13:40:20.000Z
           - item:
             name: NBC News Digital (adopter)
             homepage_url: 'https://www.nbc.com'
@@ -2579,7 +2578,7 @@ landscape:
               ticker: CMCSA
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 206624555008
+              market_cap: 207796961280
               effective_ticker: CMCSA
             image_data:
               fileName: nbc-news-digital-adopter.svg
@@ -2588,7 +2587,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-23T00:42:34.000Z
+              latest_tweet_date: 2019-10-23T21:56:30.000Z
           - item:
             name: New Relic (adopter)
             homepage_url: 'https://www.newrelic.com/'
@@ -2609,7 +2608,7 @@ landscape:
               ticker: NEWR
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 3412639232
+              market_cap: 3445346560
               effective_ticker: NEWR
             image_data:
               fileName: new-relic-adopter.svg
@@ -2618,7 +2617,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T20:23:32.000Z
+              latest_tweet_date: 2019-10-24T06:00:00.000Z
           - item:
             name: Pinterest (adopter)
             homepage_url: 'https://www.pinterest.com/'
@@ -2640,7 +2639,7 @@ landscape:
               ticker: PINS
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 14045334528
+              market_cap: 13947648000
               effective_ticker: PINS
             image_data:
               fileName: pinterest-adopter.svg
@@ -2649,7 +2648,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-23T00:12:24.000Z
+              latest_tweet_date: 2019-10-24T02:03:09.000Z
           - item:
             name: Pluralsight (adopter)
             homepage_url: 'https://www.pluralsight.com/'
@@ -2671,7 +2670,7 @@ landscape:
               ticker: PS
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 2376071424
+              market_cap: 2434878208
               effective_ticker: PS
             image_data:
               fileName: pluralsight-adopter.svg
@@ -2680,7 +2679,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T22:45:08.000Z
+              latest_tweet_date: 2019-10-23T20:45:25.000Z
           - item:
             name: Rakuten
             homepage_url: 'https://www.rakuten.com/'
@@ -2703,7 +2702,7 @@ landscape:
               ticker: '4755'
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 13490339840
+              market_cap: 12547986432
               effective_ticker: RKUNY
             image_data:
               fileName: rakuten.svg
@@ -2712,7 +2711,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-23T03:48:33.000Z
+              latest_tweet_date: 2019-10-24T00:29:40.000Z
           - item:
             name: Satispay (adopter)
             homepage_url: 'https://www.satispay.com'
@@ -2739,7 +2738,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T16:05:27.000Z
+              latest_tweet_date: 2019-10-23T15:14:14.000Z
           - item:
             name: Serverless
             homepage_url: 'https://serverless.com/'
@@ -2767,7 +2766,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-23T01:52:29.000Z
+              latest_tweet_date: 2019-10-23T19:17:16.000Z
           - item:
             name: Shopify (adopter)
             homepage_url: 'https://www.shopify.com/'
@@ -2788,7 +2787,7 @@ landscape:
               ticker: SHOP
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 34420895744
+              market_cap: 34247763968
               effective_ticker: SHOP
             image_data:
               fileName: shopify-adopter.svg
@@ -2823,7 +2822,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-23T01:29:37.000Z
+              latest_tweet_date: 2019-10-24T00:51:01.000Z
           - item:
             name: Supply (adopter)
             homepage_url: 'https://www.supply.com'
@@ -2867,7 +2866,7 @@ landscape:
               ticker: NYT
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 5184895488
+              market_cap: 5255403008
               effective_ticker: NYT
             image_data:
               fileName: the-new-york-times-adopter.svg
@@ -2875,7 +2874,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-23T04:06:11.000Z
+              latest_tweet_date: 2019-10-24T06:20:07.000Z
           - item:
             name: Twitter
             homepage_url: 'https://twitter.com/'
@@ -2896,7 +2895,7 @@ landscape:
               ticker: TWTR
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 30000828416
+              market_cap: 30016288768
               effective_ticker: TWTR
             image_data:
               fileName: twitter.svg
@@ -2905,7 +2904,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T21:22:45.000Z
+              latest_tweet_date: 2019-10-23T22:16:57.000Z
           - item:
             name: Wayfair (adopter)
             homepage_url: 'https://wayfair.com/'
@@ -2926,7 +2925,7 @@ landscape:
               ticker: W
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 10489550848
+              market_cap: 10541260800
               effective_ticker: W
             image_data:
               fileName: wayfair-adopter.svg
@@ -2935,7 +2934,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T21:50:00.000Z
+              latest_tweet_date: 2019-10-23T22:35:33.000Z
           - item:
             name: Yelp
             homepage_url: 'https://www.yelp.com/'
@@ -2957,7 +2956,7 @@ landscape:
               ticker: YELP
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 2403570688
+              market_cap: 2381552128
               effective_ticker: YELP
             image_data:
               fileName: yelp.svg
@@ -2966,7 +2965,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-22T18:34:57.000Z
+              latest_tweet_date: 2019-10-23T23:15:24.000Z
 twitter_options:
   count: 1
   since_id: '1186259556587978758'
