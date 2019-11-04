@@ -57,6 +57,481 @@ landscape:
         name: Tools
         items:
           - item:
+            name: GraphQL CLI
+            homepage_url: 'https://github.com/urigo/graphql-cli'
+            repo_url: 'https://github.com/urigo/graphql-cli'
+            logo: graphql-cli.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+            crunchbase_data:
+              name: The Guild
+              description: Distributed Open source developer group
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://the-guild.dev'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/TheGuildDev'
+              linkedin: null
+              parents: []
+            github_data:
+              languages:
+                - name: TypeScript
+                  value: 52536
+                  color: '#2b7489'
+                - name: JavaScript
+                  value: 93
+                  color: '#f1e05a'
+              contributions: 0;1;0;0;0;16;4;2;2;3;8;4;9;4;6;6;3;2;4;3;3;2;2;3;2;1;4;4;3;4;5;4;2;2;1;3;1;1;1;1;3;3;3;0;0;0;0;0;2;0;3;126
+              firstWeek: 2018-11-11Z
+              stars: 1246
+              license: MIT License
+              description: "\U0001F4DF  Command line tool for common GraphQL development workflows"
+              latest_commit_date: '2019-11-04T09:24:06Z'
+              latest_commit_link: /Urigo/graphql-cli/commit/6d28df34bb9b6ecbe1b076a7b8a7d490e73ea83b
+              release_date: '2019-08-14T18:21:43Z'
+              release_link: 'https://github.com/urigo/graphql-cli/releases'
+              contributors_count: 34
+              contributors_link: 'https://github.com/urigo/graphql-cli/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /Urigo/graphql-cli/commit/5d02c5b26d620d86c6c15a589cfd69bce149dc3a
+              start_date: '2017-07-17T10:18:56Z'
+            image_data:
+              fileName: graph-ql-cli.svg
+              hash: vqfVHnwnZee2tlKMctqk7ktD9RXjEI/JODbR3l5k3go=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-04T11:03:55.000Z
+          - item:
+            name: GraphQL Inspector
+            homepage_url: 'https://graphql-inspector.com'
+            repo_url: 'https://github.com/kamilkisiela/graphql-inspector'
+            logo: graphql-Inspector.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+            crunchbase_data:
+              name: The Guild
+              description: Distributed Open source developer group
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://the-guild.dev'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/TheGuildDev'
+              linkedin: null
+              parents: []
+            github_data:
+              languages:
+                - name: TypeScript
+                  value: 237773
+                  color: '#2b7489'
+                - name: JavaScript
+                  value: 40327
+                  color: '#f1e05a'
+                - name: CSS
+                  value: 6495
+                  color: '#563d7c'
+                - name: HTML
+                  value: 2115
+                  color: '#e34c26'
+                - name: Dockerfile
+                  value: 936
+                  color: '#384d54'
+                - name: Shell
+                  value: 48
+                  color: '#89e051'
+              contributions: 0;35;25;0;2;4;0;3;25;5;6;8;9;1;5;0;2;1;2;0;56;9;19;32;12;0;13;14;20;20;4;13;17;5;0;0;27;19;21;39;8;6;0;30;10;1;37;24;25;17;28;43
+              firstWeek: 2018-11-11Z
+              stars: 523
+              license: MIT License
+              description: "\U0001F575️‍♀️ Tooling for GraphQL. Compare schemas, validate documents, find breaking changes, find similar types, schema coverage"
+              latest_commit_date: '2019-11-04T15:23:29Z'
+              latest_commit_link: /kamilkisiela/graphql-inspector/commit/166287d67e049564ab7151a3380fafa2d22797a8
+              release_date: '2019-10-08T09:57:41Z'
+              release_link: 'https://github.com/kamilkisiela/graphql-inspector/releases'
+              contributors_count: 25
+              contributors_link: 'https://github.com/kamilkisiela/graphql-inspector/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /kamilkisiela/graphql-inspector/commit/cf25bde91e3863131fa8ac80e0c8545862bd59aa
+              start_date: '2018-11-15T19:04:07Z'
+            image_data:
+              fileName: graph-ql-inspector.svg
+              hash: iVd6dZcOTqpMJ0NFqIBXBCVBL+jo9Nz3VA/ANs2XjgQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-04T11:03:55.000Z
+          - item:
+            name: GraphQL Code Generator
+            homepage_url: 'http://graphql-code-generator.com'
+            repo_url: 'https://github.com/dotansimha/graphql-code-generator'
+            logo: graphql-code-generator.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+            crunchbase_data:
+              name: The Guild
+              description: Distributed Open source developer group
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://the-guild.dev'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/TheGuildDev'
+              linkedin: null
+              parents: []
+            github_data:
+              languages:
+                - name: TypeScript
+                  value: 1496069
+                  color: '#2b7489'
+                - name: Java
+                  value: 212789
+                  color: '#b07219'
+                - name: JavaScript
+                  value: 50988
+                  color: '#f1e05a'
+                - name: CSS
+                  value: 19285
+                  color: '#563d7c'
+                - name: HTML
+                  value: 1899
+                  color: '#e34c26'
+                - name: Shell
+                  value: 391
+                  color: '#89e051'
+              contributions: >-
+                109;120;76;24;85;120;39;23;31;41;65;32;58;40;26;59;75;31;61;120;48;31;22;39;21;19;16;40;15;19;21;0;53;14;59;27;23;21;40;39;54;19;42;27;27;46;23;44;35;27;35;41
+              firstWeek: 2018-11-11Z
+              stars: 3447
+              license: MIT License
+              description: GraphQL code generator with flexible support for custom plugins and templates
+              latest_commit_date: '2019-11-03T06:55:46Z'
+              latest_commit_link: /dotansimha/graphql-code-generator/commit/0e142722a01b1f3396990b5a7b906d518deb9432
+              release_date: '2019-11-03T06:59:10Z'
+              release_link: 'https://github.com/dotansimha/graphql-code-generator/releases'
+              contributors_count: 142
+              contributors_link: 'https://github.com/dotansimha/graphql-code-generator/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /dotansimha/graphql-code-generator/commit/69240f01f84ce09769c9cae947bb4bb70964778d
+              start_date: '2016-12-06T10:46:14Z'
+            image_data:
+              fileName: graph-ql-code-generator.svg
+              hash: RdihUidVtf3zYTQLbYI3aUMYMXSSTvvH2VkBcEynInA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-04T11:03:55.000Z
+          - item:
+            name: GraphQL Config
+            homepage_url: 'https://graphql-config.com'
+            repo_url: 'https://github.com/kamilkisiela/graphql-config'
+            logo: graphql-config.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+            crunchbase_data:
+              name: The Guild
+              description: Distributed Open source developer group
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://the-guild.dev'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/TheGuildDev'
+              linkedin: null
+              parents: []
+            github_data:
+              languages:
+                - name: TypeScript
+                  value: 34846
+                  color: '#2b7489'
+                - name: JavaScript
+                  value: 6840
+                  color: '#f1e05a'
+                - name: CSS
+                  value: 920
+                  color: '#563d7c'
+                - name: HTML
+                  value: 381
+                  color: '#e34c26'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;0;1;1;20;0
+              firstWeek: 2018-11-11Z
+              stars: 629
+              license: MIT License
+              description: 'One configuration for all your GraphQL tools (supported by most tools, editors & IDEs)'
+              latest_commit_date: '2019-11-04T18:10:56Z'
+              latest_commit_link: /kamilkisiela/graphql-config/commit/460c95e59990abb43ff4d38170549dc92ed55c38
+              release_date: '2018-09-17T15:42:37Z'
+              release_link: 'https://github.com/kamilkisiela/graphql-config/releases'
+              contributors_count: 29
+              contributors_link: 'https://github.com/kamilkisiela/graphql-config/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /kamilkisiela/graphql-config/commit/b87d2449dee878f7e56b654eaf1c14f9cfd29994
+              start_date: '2016-07-29T09:54:26Z'
+            image_data:
+              fileName: graph-ql-config.svg
+              hash: AbNqbo70Dw9IGfACP4GQhw6YhzVCqxBOl3YC4gopZSg=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-04T11:03:55.000Z
+          - item:
+            name: GraphQL Modules
+            homepage_url: 'https://graphql-modules.com'
+            repo_url: 'https://github.com/Urigo/graphql-modules'
+            logo: graphql-modules.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+            crunchbase_data:
+              name: The Guild
+              description: Distributed Open source developer group
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://the-guild.dev'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/TheGuildDev'
+              linkedin: null
+              parents: []
+            github_data:
+              languages:
+                - name: TypeScript
+                  value: 146217
+                  color: '#2b7489'
+                - name: CSS
+                  value: 43174
+                  color: '#563d7c'
+                - name: JavaScript
+                  value: 28954
+                  color: '#f1e05a'
+                - name: Shell
+                  value: 472
+                  color: '#89e051'
+              contributions: 66;41;25;29;30;20;4;5;18;11;37;23;22;33;10;10;1;2;17;10;8;58;4;10;0;5;17;7;3;20;2;0;13;23;29;13;21;9;15;13;19;6;16;5;12;8;9;7;7;7;9;9
+              firstWeek: 2018-11-11Z
+              stars: 664
+              license: MIT License
+              description: Enterprise Grade Tooling For Your GraphQL Server
+              latest_commit_date: '2019-11-02T23:21:17Z'
+              latest_commit_link: /Urigo/graphql-modules/commit/5ae51e9c01e093ad15607cb321b8e08c6c39710c
+              release_date: '2019-10-01T06:17:35Z'
+              release_link: 'https://github.com/Urigo/graphql-modules/releases'
+              contributors_count: 25
+              contributors_link: 'https://github.com/Urigo/graphql-modules/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /Urigo/graphql-modules/commit/040896f1b1aea413f7fc70f2b0a9f6faad8ac4f6
+              start_date: '2018-05-13T20:19:37Z'
+            image_data:
+              fileName: graph-ql-modules.svg
+              hash: SxYRYq9n62x4m0xx5jKUKzFdDL1cjoDmoGCLpOpxmSw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-04T11:03:55.000Z
+          - item:
+            name: GraphQL Scalars
+            homepage_url: 'https://github.com/Urigo/graphql-scalars'
+            repo_url: 'https://github.com/Urigo/graphql-scalars'
+            logo: graphql-scalars.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+            crunchbase_data:
+              name: The Guild
+              description: Distributed Open source developer group
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://the-guild.dev'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/TheGuildDev'
+              linkedin: null
+              parents: []
+            github_data:
+              languages:
+                - name: TypeScript
+                  value: 185938
+                  color: '#2b7489'
+                - name: JavaScript
+                  value: 1026
+                  color: '#f1e05a'
+              contributions: 0;0;0;0;0;0;0;0;0;0;8;3;0;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17;1;0;2;0;19;6;7;8;9;1;6;4;5;6;11;4;13;5
+              firstWeek: 2018-11-11Z
+              stars: 402
+              license: MIT License
+              description: A library of custom GraphQL Scalars for creating precise type-safe GraphQL schemas.
+              latest_commit_date: '2019-10-31T23:10:10Z'
+              latest_commit_link: /Urigo/graphql-scalars/commit/a038812368dc2a2bdf10f50388ea2dd5947170f6
+              release_date: '2019-10-24T00:08:34Z'
+              release_link: 'https://github.com/Urigo/graphql-scalars/releases'
+              contributors_count: 21
+              contributors_link: 'https://github.com/Urigo/graphql-scalars/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /Urigo/graphql-scalars/commit/14fb859f0c77141980d06ed7afe36d17df7571ba
+              start_date: '2017-06-16T16:26:51Z'
+            image_data:
+              fileName: graph-ql-scalars.svg
+              hash: uYXDCzPgqSQEwYLW9a5IL7S1q1davWNvEhU6NsqUOQA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-04T11:03:55.000Z
+          - item:
+            name: SOFA
+            homepage_url: 'http://sofa-api.com'
+            repo_url: 'https://github.com/Urigo/sofa'
+            logo: sofa.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+            crunchbase_data:
+              name: The Guild
+              description: Distributed Open source developer group
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://the-guild.dev'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/TheGuildDev'
+              linkedin: null
+              parents: []
+            github_data:
+              languages:
+                - name: TypeScript
+                  value: 78728
+                  color: '#2b7489'
+                - name: JavaScript
+                  value: 10573
+                  color: '#f1e05a'
+                - name: CSS
+                  value: 6424
+                  color: '#563d7c'
+                - name: HTML
+                  value: 1617
+                  color: '#e34c26'
+              contributions: 0;0;0;0;30;0;1;0;0;6;4;11;2;1;0;2;2;0;1;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;3;3;3;1;2;0;0;0;38;2;12;8;7;9;7;6;9;9
+              firstWeek: 2018-11-11Z
+              stars: 312
+              license: MIT License
+              description: The best way to create REST APIs - Generate RESTful APIs from your GraphQL Server
+              latest_commit_date: '2019-11-04T07:01:52Z'
+              latest_commit_link: /Urigo/SOFA/commit/cbb14818a2eb46b4e38add19bcd9bb16c501493c
+              release_date: '2019-10-31T11:26:16Z'
+              release_link: 'https://github.com/Urigo/sofa/releases'
+              contributors_count: 13
+              contributors_link: 'https://github.com/Urigo/sofa/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /Urigo/SOFA/commit/1ae515496a92af3c60c239e98a580d5cd09d1db8
+              start_date: '2018-12-05T15:53:23Z'
+            image_data:
+              fileName: sofa.svg
+              hash: pg5rC5VaZP94Llns18iiutmEA9CZlZkVzhrBxwOtMUQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-04T11:03:55.000Z
+          - item:
+            name: merge-graphql-schemas
+            homepage_url: 'https://github.com/urigo/merge-graphql-schemas'
+            repo_url: 'https://github.com/urigo/merge-graphql-schemas'
+            logo: merge-graphql-schemas.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+            crunchbase_data:
+              name: The Guild
+              description: Distributed Open source developer group
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://the-guild.dev'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/TheGuildDev'
+              linkedin: null
+              parents: []
+            github_data:
+              languages:
+                - name: TypeScript
+                  value: 34453
+                  color: '#2b7489'
+                - name: JavaScript
+                  value: 8202
+                  color: '#f1e05a'
+              contributions: 1;6;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;1;2;2;1;7;6;8;5;6;3;6;3;8;5;4;3;6;6;8;5
+              firstWeek: 2018-11-11Z
+              stars: 798
+              license: MIT License
+              description: A utility library to facilitate merging of modularized GraphQL schemas and resolver objects.
+              latest_commit_date: '2019-11-01T06:50:47Z'
+              latest_commit_link: /Urigo/merge-graphql-schemas/commit/b2e744e7ddd40bab0b69d824aba9160352d17d45
+              release_date: '2019-07-31T09:57:58Z'
+              release_link: 'https://github.com/urigo/merge-graphql-schemas/releases'
+              contributors_count: 36
+              contributors_link: 'https://github.com/urigo/merge-graphql-schemas/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /Urigo/merge-graphql-schemas/commit/6becb7de8258a84e331a7ac4d3df5264ab6eeab2
+              start_date: '2015-12-11T10:54:01Z'
+            image_data:
+              fileName: merge-graphql-schemas.svg
+              hash: Bb93a2nssci1yle9sd9wNa1lmG55HHJY1iuYR3L3NlE=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-04T11:03:55.000Z
+          - item:
+            name: Apollo Angular
+            homepage_url: 'https://www.apollographql.com/docs/angular'
+            repo_url: 'https://github.com/apollographql/apollo-angular'
+            logo: apollo-angular.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+            crunchbase_data:
+              name: The Guild
+              description: Distributed Open source developer group
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://the-guild.dev'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/TheGuildDev'
+              linkedin: null
+              parents: []
+            github_data:
+              languages:
+                - name: TypeScript
+                  value: 184710
+                  color: '#2b7489'
+                - name: JavaScript
+                  value: 5244
+                  color: '#f1e05a'
+              contributions: 17;14;11;1;10;0;9;7;3;8;10;5;15;14;0;9;7;13;11;4;21;6;9;7;2;0;0;0;16;38;3;20;4;0;0;0;16;0;0;0;2;0;5;14;3;9;1;7;4;10;0;8
+              firstWeek: 2018-11-11Z
+              stars: 723
+              license: MIT License
+              description: "A fully-featured, production ready caching GraphQL client for Angular and every GraphQL server \U0001F381"
+              latest_commit_date: '2019-11-02T13:13:08Z'
+              latest_commit_link: /apollographql/apollo-angular/commit/5cb69c76c9f73e811b1659b421276fbb0708a88b
+              release_date: '2019-10-16T18:48:58Z'
+              release_link: 'https://github.com/apollographql/apollo-angular/releases'
+              contributors_count: 107
+              contributors_link: 'https://github.com/apollographql/apollo-angular/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /apollographql/apollo-angular/commit/0ae5e9085320c135ad0da421ed1a5fc1e3585a96
+              start_date: '2016-04-16T00:10:50Z'
+            image_data:
+              fileName: apollo-angular.svg
+              hash: q1bJx4Cxt+Qx26Mw2AhwmMsmO5z2TKrxiAqGw8r4ld4=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-04T11:03:55.000Z
+          - item:
             name: Apollo CLI
             homepage_url: 'https://www.apollographql.com/'
             repo_url: 'https://github.com/apollographql/apollo-tooling'
