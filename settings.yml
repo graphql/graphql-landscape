@@ -17,7 +17,6 @@ global:
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
   membership: GraphQL Foundation Member
   flags:
-    cncf_sandbox: false
     hide_license_for_categories:
       - GraphQL Adopter
       - GraphQL Foundation Member
@@ -92,7 +91,6 @@ big_picture:
     name: Landscape
     title: GraphQL Landscape
     fullscreen_header: See the interactive landscape at l.graphql.org
-    method: getGroupedItemsForCncfBigPicture
     size:
       width: 1020
       height: 840
