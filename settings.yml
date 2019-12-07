@@ -71,7 +71,7 @@ home:
 ads:
   - url: 'https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2020/?utm_source=graphql_landscape&utm_medium=web&utm_campaign=kccnceu20'
     image: /images/info1.jpg
-    title: 'Kubecon + CloudNativeCon Europe 2020'
+    title: Kubecon + CloudNativeCon Europe 2020
 presets:
   - url: /format=card-mode&grouping=no&license=open-source&sort=first-commit
     label: Open source cards by age
@@ -163,7 +163,7 @@ big_picture:
             left: 20
             width: 90
             height: 90
-            title: 'QR Code'	
+            title: QR Code
           - type: title
             title: l.graphql.org
             top: 140
@@ -174,13 +174,13 @@ big_picture:
             width: 110
             right: 190
             top: 10
-            title: 'Landscape Logo'
+            title: Landscape Logo
           - type: image
             image: right-logo.svg
             width: 109
             right: 10
             top: 10
-            title: 'GraphQL Foundation Logo'
+            title: GraphQL Foundation Logo
 test:
   header: GraphQL Landscape
   section: GraphQL Foundation Member
