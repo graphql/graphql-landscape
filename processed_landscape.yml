@@ -24,6 +24,12 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/GraphQL'
               linkedin: null
+              acquisitions:
+                - price:
+                  date: '2018-11-06'
+                  acquiree:
+                    name: GraphQL
+                    permalink: graphql
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
@@ -31,9 +37,9 @@ landscape:
                 - name: Shell
                   value: 3120
                   color: '#89e051'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;9;0;0;2;1;6;0;0;1;0;1;1;0;4;1;1;1;0;12;0;0;2;1;1;1;0;0;13;0;1;2;2;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;9;0;1;2;1;5;0;0;1;0;1;1;1;3;1;2;0;0;12;0;1;1;1;2;0;0;0;13;0;1;2;2;0;0
               firstWeek: 2019-03-03Z
-              stars: 12444
+              stars: 12448
               license: Unknown License
               description: GraphQL is a query language and execution engine tied to any backend service.
               latest_commit_date: '2020-02-06T19:07:22Z'
@@ -73,6 +79,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/TheGuildDev'
               linkedin: null
+              acquisitions: []
               parents: []
             github_data:
               languages:
@@ -82,9 +89,9 @@ landscape:
                 - name: JavaScript
                   value: 5244
                   color: '#f1e05a'
-              contributions: 7;14;12;5;19;7;7;7;2;0;0;0;16;38;3;20;4;0;0;16;0;0;0;0;2;0;5;14;3;9;1;7;5;9;0;8;10;3;1;1;0;0;0;0;7;12;0;7;0;0;0;0
+              contributions: 7;17;9;6;21;6;12;0;2;0;0;3;13;38;3;23;1;0;0;16;0;0;0;0;2;4;12;6;0;9;8;0;5;9;0;8;10;3;2;0;0;0;0;6;1;12;0;7;0;0;0;0
               firstWeek: 2019-03-03Z
-              stars: 780
+              stars: 781
               license: MIT License
               description: "A fully-featured, production ready caching GraphQL client for Angular and every GraphQL server \U0001F381"
               latest_commit_date: '2020-01-26T17:07:05Z'
@@ -121,6 +128,12 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/apollographql'
               linkedin: 'https://www.linkedin.com/company/apollo-graphql/'
+              acquisitions:
+                - price:
+                  date: '2014-10-07'
+                  acquiree:
+                    name: FathomDB
+                    permalink: fathomdb
               parents: []
               kind: funding
               funding: 53200000
@@ -135,9 +148,9 @@ landscape:
                 - name: Batchfile
                   value: 31
                   color: '#C1F12E'
-              contributions: 18;34;24;19;35;43;8;9;15;8;31;20;16;25;15;17;6;10;14;21;14;19;33;14;18;5;1;14;22;12;15;10;18;23;12;5;4;9;13;3;10;7;6;4;0;6;5;1;2;7;1;12
+              contributions: 19;28;20;24;32;41;9;8;14;13;31;23;8;28;13;16;11;5;16;23;12;28;25;15;14;6;0;16;20;14;16;7;19;27;12;0;6;8;12;3;10;7;6;4;0;6;5;1;2;7;1;12
               firstWeek: 2019-03-03Z
-              stars: 2344
+              stars: 2346
               license: MIT License
               description: ✏️ Tooling for development and production Apollo workflows
               latest_commit_date: '2020-02-24T16:44:53Z'
@@ -154,7 +167,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T21:15:48.000Z
+              latest_tweet_date: 2020-02-25T19:57:26.000Z
           - item:
             name: GraphiQL
             homepage_url: 'https://github.com/graphql/graphiql'
@@ -173,12 +186,18 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/GraphQL'
               linkedin: null
+              acquisitions:
+                - price:
+                  date: '2018-11-06'
+                  acquiree:
+                    name: GraphQL
+                    permalink: graphql
               parents:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
               languages:
                 - name: TypeScript
-                  value: 402588
+                  value: 402861
                   color: '#2b7489'
                 - name: JavaScript
                   value: 163116
@@ -192,13 +211,13 @@ landscape:
                 - name: HTML
                   value: 1340
                   color: '#e34c26'
-              contributions: 4;1;1;1;2;1;2;0;0;2;25;11;3;16;20;13;16;0;0;0;0;9;4;10;9;3;1;6;0;0;10;11;0;9;1;1;1;8;3;16;39;34;56;21;25;22;32;25;7;8;42;21
+              contributions: 4;1;1;1;3;0;2;0;2;0;31;5;8;11;22;20;7;0;0;0;0;10;3;13;6;3;1;6;0;1;9;11;2;7;1;1;1;8;4;29;33;36;48;23;32;13;31;30;2;8;41;22
               firstWeek: 2019-03-03Z
-              stars: 10096
+              stars: 10103
               license: MIT License
               description: GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
-              latest_commit_date: '2020-02-22T20:29:24Z'
-              latest_commit_link: /graphql/graphiql/commit/84d4821ee19030314666a46f11a4b69ffaddca45
+              latest_commit_date: '2020-02-25T18:43:04Z'
+              latest_commit_link: /graphql/graphiql/commit/84cc41ef1c5b56d26929edd9669c766cdf3628e8
               release_date: '2020-01-18T14:44:10Z'
               release_link: 'https://github.com/graphql/graphiql/releases'
               contributors_count: 127
@@ -231,6 +250,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/TheGuildDev'
               linkedin: null
+              acquisitions: []
               parents: []
             github_data:
               languages:
@@ -249,7 +269,7 @@ landscape:
                 - name: Dockerfile
                   value: 296
                   color: '#384d54'
-              contributions: 4;2;3;4;3;1;2;3;2;1;5;5;1;4;5;4;3;1;3;1;2;0;1;1;4;2;3;0;0;0;0;0;2;0;35;104;38;14;36;20;4;20;16;13;1;63;24;34;36;7;1;0
+              contributions: 4;4;1;4;3;2;2;3;1;2;6;3;1;5;5;3;3;1;3;1;2;0;1;1;6;1;2;0;0;0;0;0;2;0;70;80;36;8;40;13;19;9;18;7;24;43;25;49;18;6;1;0
               firstWeek: 2019-03-03Z
               stars: 1373
               license: MIT License
@@ -288,6 +308,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/TheGuildDev'
               linkedin: null
+              acquisitions: []
               parents: []
             github_data:
               languages:
@@ -310,13 +331,13 @@ landscape:
                   value: 373
                   color: '#89e051'
               contributions: >-
-                73;33;74;109;42;29;20;45;16;18;21;36;14;21;19;16;38;13;65;23;22;20;44;45;46;17;46;28;27;42;22;51;28;27;38;38;42;30;32;33;22;19;21;9;44;30;29;55;32;14;39;21
+                65;38;89;97;34;27;22;44;13;25;17;32;16;21;17;27;33;17;63;17;22;23;48;45;42;31;41;16;31;45;18;46;39;35;27;47;30;27;36;30;21;22;18;13;45;28;31;61;22;16;36;25
               firstWeek: 2019-03-03Z
-              stars: 4196
+              stars: 4200
               license: MIT License
               description: GraphQL code generator with flexible support for custom plugins and templates
-              latest_commit_date: '2020-02-24T20:04:36Z'
-              latest_commit_link: /dotansimha/graphql-code-generator/commit/0c5db49ba9e26407ffb74b45752c37ac2a14bc39
+              latest_commit_date: '2020-02-25T23:45:49Z'
+              latest_commit_link: /dotansimha/graphql-code-generator/commit/568e4e35dd1872fa06680dc4db6ad4c1761e7cd1
               release_date: '2020-02-07T07:42:00Z'
               release_link: 'https://github.com/dotansimha/graphql-code-generator/releases'
               contributors_count: 159
@@ -349,6 +370,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/TheGuildDev'
               linkedin: null
+              acquisitions: []
               parents: []
             github_data:
               languages:
@@ -364,13 +386,13 @@ landscape:
                 - name: HTML
                   value: 381
                   color: '#e34c26'
-              contributions: 0;0;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;0;1;1;20;9;16;2;0;0;0;0;0;0;0;0;18;20;25;3;10;8
+              contributions: 0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;0;1;1;20;16;11;0;0;0;0;0;0;0;0;0;20;28;15;5;9;10
               firstWeek: 2019-03-03Z
-              stars: 695
+              stars: 696
               license: MIT License
               description: 'One configuration for all your GraphQL tools (supported by most tools, editors & IDEs)'
-              latest_commit_date: '2020-02-25T00:23:17Z'
-              latest_commit_link: /kamilkisiela/graphql-config/commit/ddcd82ecd1f10d8dac6d41550d0a8402da20e37a
+              latest_commit_date: '2020-02-26T01:00:58Z'
+              latest_commit_link: /kamilkisiela/graphql-config/commit/c4ca8d918ef61469a2ad3caaef0324038c943d2d
               release_date: '2018-09-17T15:42:37Z'
               release_link: 'https://github.com/kamilkisiela/graphql-config/releases'
               contributors_count: 31
@@ -403,6 +425,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/TheGuildDev'
               linkedin: null
+              acquisitions: []
               parents: []
             github_data:
               languages:
@@ -424,13 +447,13 @@ landscape:
                 - name: Shell
                   value: 48
                   color: '#89e051'
-              contributions: 0;1;2;4;56;13;11;32;12;9;4;14;27;13;4;13;17;5;0;10;21;19;19;44;6;1;0;36;4;1;39;23;24;23;24;42;37;35;23;22;18;9;27;11;36;26;26;39;36;15;18;19
+              contributions: 0;1;2;6;59;8;19;29;7;9;4;27;16;11;4;22;13;0;0;11;23;24;14;42;6;0;18;22;0;1;44;29;19;27;17;53;23;39;20;24;16;15;21;23;27;26;26;49;25;19;13;24
               firstWeek: 2019-03-03Z
               stars: 647
               license: MIT License
               description: "\U0001F575️‍♀️ Tooling for GraphQL. Compare schemas, validate documents, find breaking changes, find similar types, schema coverage"
-              latest_commit_date: '2020-02-25T00:23:19Z'
-              latest_commit_link: /kamilkisiela/graphql-inspector/commit/8b9de8db1d7005908c0a5c319e00665a79331d79
+              latest_commit_date: '2020-02-26T01:03:33Z'
+              latest_commit_link: /kamilkisiela/graphql-inspector/commit/5a0057c5c270977dacf4b1b1786338c5f3ccfa32
               release_date: '2019-12-31T12:40:23Z'
               release_link: 'https://github.com/kamilkisiela/graphql-inspector/releases'
               contributors_count: 29
@@ -463,6 +486,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/TheGuildDev'
               linkedin: null
+              acquisitions: []
               parents: []
             github_data:
               languages:
@@ -478,13 +502,13 @@ landscape:
                 - name: Shell
                   value: 472
                   color: '#89e051'
-              contributions: 0;4;20;5;25;41;4;10;0;5;18;6;3;20;2;0;20;23;28;7;22;13;15;9;18;6;16;5;14;7;10;6;7;6;10;8;20;21;14;9;7;7;6;7;10;15;15;15;35;6;7;9
+              contributions: 0;7;17;6;36;29;4;10;2;18;3;6;7;16;2;0;20;34;20;12;16;12;17;7;19;11;11;4;16;4;14;2;10;7;6;18;19;16;10;11;6;6;6;9;10;17;14;37;11;9;3;10
               firstWeek: 2019-03-03Z
-              stars: 768
+              stars: 769
               license: MIT License
               description: Enterprise Grade Tooling For Your GraphQL Server
-              latest_commit_date: '2020-02-22T17:42:11Z'
-              latest_commit_link: /Urigo/graphql-modules/commit/ba4c209635669507982023e858cc11bd33d276e3
+              latest_commit_date: '2020-02-25T15:06:29Z'
+              latest_commit_link: /Urigo/graphql-modules/commit/8ce64f411eb24a4d76ef117f204539a33f5f0e8e
               release_date: '2020-01-01T18:48:39Z'
               release_link: 'https://github.com/Urigo/graphql-modules/releases'
               contributors_count: 32
@@ -517,6 +541,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/TheGuildDev'
               linkedin: null
+              acquisitions: []
               parents: []
             github_data:
               languages:
@@ -526,13 +551,13 @@ landscape:
                 - name: JavaScript
                   value: 1061
                   color: '#f1e05a'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;16;0;0;2;0;20;5;7;11;6;1;6;5;4;7;10;4;13;5;7;6;6;3;3;9;11;7;6;4;5;5;8;0;12;7
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13;5;0;0;2;0;22;5;6;13;3;2;8;2;7;6;10;5;11;7;7;5;4;3;4;12;7;8;6;3;5;8;5;12;1;8
               firstWeek: 2019-03-03Z
-              stars: 527
+              stars: 532
               license: MIT License
               description: A library of custom GraphQL Scalars for creating precise type-safe GraphQL schemas.
-              latest_commit_date: '2020-02-23T11:36:17Z'
-              latest_commit_link: /Urigo/graphql-scalars/commit/570f8c40cf988340af5179ca10ee0174c6ff7704
+              latest_commit_date: '2020-02-26T02:36:38Z'
+              latest_commit_link: /Urigo/graphql-scalars/commit/0d6a126fdfa4196ed01e57ba0d112b33402fe7e9
               release_date: '2020-01-06T00:20:40Z'
               release_link: 'https://github.com/Urigo/graphql-scalars/releases'
               contributors_count: 23
@@ -565,6 +590,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/TheGuildDev'
               linkedin: null
+              acquisitions: []
               parents: []
             github_data:
               languages:
@@ -574,7 +600,7 @@ landscape:
                 - name: JavaScript
                   value: 8195
                   color: '#f1e05a'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;1;3;1;4;4;7;8;4;6;3;6;3;10;4;3;4;8;4;7;5;6;8;2;1;1;2;7;2;7;2;4;10;8;2;1;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;2;0;4;0;6;2;8;9;3;6;3;6;2;11;4;4;2;10;6;3;8;9;2;2;1;1;2;7;6;4;1;4;15;3;3;0;0
               firstWeek: 2019-03-03Z
               stars: 873
               license: MIT License
@@ -613,6 +639,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/TheGuildDev'
               linkedin: null
+              acquisitions: []
               parents: []
             github_data:
               languages:
@@ -628,13 +655,13 @@ landscape:
                 - name: HTML
                   value: 1617
                   color: '#e34c26'
-              contributions: 0;0;1;0;0;0;0;5;0;0;0;0;0;0;0;0;0;1;2;3;3;2;1;0;0;1;37;3;13;7;6;9;10;3;9;10;7;5;1;4;8;4;7;1;4;6;12;8;13;2;8;7
+              contributions: 0;0;1;0;0;0;0;5;0;0;0;0;0;0;0;0;0;2;1;3;3;2;1;0;0;33;6;4;13;5;14;1;11;7;4;11;9;2;1;6;7;5;5;1;7;3;13;11;9;3;7;9
               firstWeek: 2019-03-03Z
-              stars: 412
+              stars: 415
               license: MIT License
               description: The best way to create REST APIs - Generate RESTful APIs from your GraphQL Server
-              latest_commit_date: '2020-02-24T11:44:46Z'
-              latest_commit_link: /Urigo/SOFA/commit/9c8d3e989ca5ff58a6a319155690104cdc640999
+              latest_commit_date: '2020-02-25T19:30:21Z'
+              latest_commit_link: /Urigo/SOFA/commit/c68d5561c3f5b22717e09d064568b01285f7239c
               release_date: '2020-02-12T15:55:44Z'
               release_link: 'https://github.com/Urigo/sofa/releases'
               contributors_count: 17
@@ -667,6 +694,12 @@ landscape:
               country: France
               twitter: 'http://twitter.com/dailymotionUSA'
               linkedin: 'https://www.linkedin.com/company/24411'
+              acquisitions:
+                - price:
+                  date: '2013-12-10'
+                  acquiree:
+                    name: Jilion
+                    permalink: jilion
               parents: []
               kind: funding
               funding: 68500000
@@ -684,9 +717,9 @@ landscape:
                 - name: Shell
                   value: 1695
                   color: '#89e051'
-              contributions: 24;34;51;17;23;32;18;17;3;3;7;18;5;8;4;18;9;25;12;1;10;17;4;4;3;5;11;7;17;16;4;24;5;2;2;5;0;2;5;2;0;1;3;0;0;2;2;1;1;10;5;18
+              contributions: 32;35;44;16;30;24;27;11;3;0;13;15;5;5;8;17;6;34;4;0;12;16;3;5;4;5;9;7;17;16;12;16;5;2;2;5;0;2;5;2;0;2;2;0;0;2;2;1;2;9;9;14
               firstWeek: 2019-03-03Z
-              stars: 546
+              stars: 548
               license: MIT License
               description: GraphQL Engine built with Python 3.6+ / asyncio
               latest_commit_date: '2020-02-21T07:03:39Z'
@@ -723,6 +756,7 @@ landscape:
               country: Poland
               twitter: 'https://twitter.com/TypeGraphQL'
               linkedin: null
+              acquisitions: []
               parents: []
             github_data:
               languages:
@@ -738,9 +772,9 @@ landscape:
                 - name: Shell
                   value: 374
                   color: '#89e051'
-              contributions: 6;11;2;5;6;12;0;7;10;6;3;0;0;1;0;0;0;0;2;6;0;1;0;0;5;0;0;11;2;4;0;5;0;2;0;5;2;4;9;7;6;2;2;4;5;1;1;0;2;0;1;0
+              contributions: 8;9;2;5;6;12;1;8;8;6;3;0;0;1;0;0;0;0;2;6;0;1;0;0;5;0;0;11;4;2;0;5;0;2;0;5;2;4;9;9;4;2;3;3;5;2;0;0;2;0;1;0
               firstWeek: 2019-03-03Z
-              stars: 3808
+              stars: 3816
               license: MIT License
               description: 'Create GraphQL schema and resolvers with TypeScript, using classes and decorators!'
               latest_commit_date: '2020-02-12T20:48:52Z'
@@ -783,16 +817,17 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/arangodb'
               linkedin: 'https://www.linkedin.com/company/5289249'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 19221424
             github_data:
               languages:
                 - name: C++
-                  value: 18543340
+                  value: 18543962
                   color: '#f34b7d'
                 - name: JavaScript
-                  value: 5402581
+                  value: 5403228
                   color: '#f1e05a'
                 - name: CSS
                   value: 451069
@@ -847,13 +882,13 @@ landscape:
                   value: 131
                   color: '#e69f56'
               contributions: >-
-                38;29;29;82;57;33;63;49;35;52;57;49;46;36;35;19;18;37;41;19;40;28;15;25;29;27;26;37;38;29;39;39;51;42;30;33;35;42;46;38;29;26;14;2;1;27;28;33;37;3;41;29
+                36;32;28;92;44;40;59;51;42;53;51;54;38;36;31;24;19;40;37;15;43;24;16;29;31;23;25;37;36;36;40;44;49;41;27;34;34;43;44;32;31;25;12;1;2;35;23;40;26;11;42;23
               firstWeek: 2019-03-03Z
-              stars: 9258
+              stars: 9261
               license: Apache License 2.0
               description: "\U0001F951 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions."
-              latest_commit_date: '2020-02-24T16:32:19Z'
-              latest_commit_link: /arangodb/arangodb/commit/a4f2a20b2e27e8a37a6216187b5563f994d554c4
+              latest_commit_date: '2020-02-25T15:00:27Z'
+              latest_commit_link: /arangodb/arangodb/commit/076e468a66b393c6fafa42e8bf0607b230de6c58
               contributors_count: 94
               contributors_link: 'https://github.com/arangodb/arangodb/graphs/contributors'
             github_start_commit_data:
@@ -865,7 +900,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T21:06:10.000Z
+              latest_tweet_date: 2020-02-25T21:08:19.000Z
           - item:
             name: Dgraph
             homepage_url: 'https://dgraph.io/'
@@ -883,16 +918,17 @@ landscape:
               country: United States
               twitter: 'https://www.twitter.com/dgraphlabs'
               linkedin: 'https://www.linkedin.com/company/dgraph-labs/'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 14450000
             github_data:
               languages:
                 - name: Go
-                  value: 3710523
+                  value: 3719517
                   color: '#00ADD8'
                 - name: Shell
-                  value: 64578
+                  value: 64709
                   color: '#89e051'
                 - name: TeX
                   value: 62368
@@ -906,13 +942,13 @@ landscape:
                   value: 790
                   color: '#384d54'
               contributions: >-
-                23;38;19;19;18;25;32;13;23;24;19;32;16;29;21;21;24;19;9;22;25;16;12;30;26;20;13;39;24;22;29;27;23;21;12;6;13;12;22;23;22;22;28;18;15;39;32;30;13;22;20;34
+                26;33;22;16;24;27;25;14;27;21;19;39;5;32;25;17;23;19;7;26;29;10;15;30;22;22;22;32;24;25;27;26;25;15;13;12;5;18;20;24;18;31;20;18;17;46;30;26;14;17;22;37
               firstWeek: 2019-03-03Z
-              stars: 12510
+              stars: 12520
               license: Other
               description: 'Fast, Distributed Graph DB'
-              latest_commit_date: '2020-02-24T23:25:26Z'
-              latest_commit_link: /dgraph-io/dgraph/commit/fbcf732d8941a177dd4e0a6e2c5a73bf833cc7c2
+              latest_commit_date: '2020-02-26T00:56:08Z'
+              latest_commit_link: /dgraph-io/dgraph/commit/51d579a3175bf9f058bde3b4423a8cd03b4319d7
               release_date: '2020-02-15T01:59:07Z'
               release_link: 'https://github.com/dgraph-io/dgraph/releases'
               contributors_count: 123
@@ -945,11 +981,12 @@ landscape:
               country: Canada
               twitter: null
               linkedin: null
+              acquisitions: []
               parents: []
             github_data:
               languages:
                 - name: Python
-                  value: 5879878
+                  value: 5879937
                   color: '#3572A5'
                 - name: JavaScript
                   value: 7481
@@ -957,13 +994,13 @@ landscape:
                 - name: Makefile
                   value: 655
                   color: '#427819'
-              contributions: 16;33;18;32;44;72;33;9;9;5;16;2;2;4;4;2;4;2;1;0;5;2;10;10;5;7;6;6;3;3;11;10;6;14;16;26;31;16;29;40;34;17;34;16;15;47;39;10;10;20;18;18
+              contributions: 7;36;25;25;58;57;34;7;8;8;13;2;3;3;4;2;4;2;1;1;5;1;13;7;5;8;7;4;5;5;8;12;5;17;12;29;30;15;37;32;34;19;32;17;12;52;36;9;13;21;18;14
               firstWeek: 2019-03-03Z
               stars: 3689
               license: Apache License 2.0
               description: The next generation relational database.
-              latest_commit_date: '2020-02-24T11:35:02Z'
-              latest_commit_link: /edgedb/edgedb/commit/f0c42e3a0e40c76f8a6318d0029800f52f5d7cb5
+              latest_commit_date: '2020-02-25T18:20:43Z'
+              latest_commit_link: /edgedb/edgedb/commit/1d0b9a475697cedeb14b09797811095eb1d0865f
               release_date: '2020-01-29T04:17:02Z'
               release_link: 'https://github.com/edgedb/edgedb/releases'
               contributors_count: 16
@@ -993,6 +1030,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/fauna'
               linkedin: 'https://www.linkedin.com/company/faunadb/'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 32609994
@@ -1003,7 +1041,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T17:39:02.000Z
+              latest_tweet_date: 2020-02-25T20:00:23.000Z
           - item:
             name: Hasura GraphQL Engine
             homepage_url: 'https://hasura.io'
@@ -1021,6 +1059,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/hasurahq'
               linkedin: 'https://www.linkedin.com/company/hasura/'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 1600000
@@ -1033,7 +1072,7 @@ landscape:
                   value: 1417664
                   color: '#5e5086'
                 - name: Go
-                  value: 535669
+                  value: 536398
                   color: '#00ADD8'
                 - name: Python
                   value: 294149
@@ -1042,7 +1081,7 @@ landscape:
                   value: 269928
                   color: '#563d7c'
                 - name: Shell
-                  value: 84283
+                  value: 84361
                   color: '#89e051'
                 - name: TypeScript
                   value: 74217
@@ -1058,10 +1097,10 @@ landscape:
                   value: 47995
                   color: '#2c3e50'
                 - name: Dockerfile
-                  value: 11274
+                  value: 11098
                   color: '#384d54'
                 - name: Makefile
-                  value: 8204
+                  value: 8358
                   color: '#427819'
                 - name: Java
                   value: 5245
@@ -1075,14 +1114,14 @@ landscape:
                   value: 183
                   color: '#012456'
               contributions: >-
-                22;13;20;25;18;23;25;10;14;12;20;28;22;14;10;11;9;12;20;25;8;20;18;20;8;19;17;18;13;16;8;16;16;16;17;6;14;26;14;15;12;31;14;23;12;18;12;7;12;13;6;12
+                23;12;27;21;18;23;20;12;15;14;19;27;22;15;9;11;7;18;15;25;15;15;18;18;11;20;12;18;18;13;6;19;14;17;14;8;14;27;13;18;12;34;10;20;14;18;11;5;15;11;7;16
               firstWeek: 2019-03-03Z
-              stars: 14777
+              stars: 14802
               license: Other
               description: 'Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.'
-              latest_commit_date: '2020-02-24T16:19:14Z'
-              latest_commit_link: /hasura/graphql-engine/commit/048c1de41461b307636fd271f797021b2484167f
-              release_date: '2020-02-19T10:49:15Z'
+              latest_commit_date: '2020-02-25T15:30:00Z'
+              latest_commit_link: /hasura/graphql-engine/commit/87706158b19c73fe2470ac22daa6103c5b2dce47
+              release_date: '2020-02-25T08:07:48Z'
               release_link: 'https://github.com/hasura/graphql-engine/releases'
               contributors_count: 224
               contributors_link: 'https://github.com/hasura/graphql-engine/graphs/contributors'
@@ -1095,7 +1134,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T15:24:14.000Z
+              latest_tweet_date: 2020-02-25T12:55:00.000Z
           - item:
             name: Neo4j
             homepage_url: 'https://neo4j.com/'
@@ -1113,6 +1152,7 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/neo4j'
               linkedin: 'https://www.linkedin.com/company/neo4j'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 160100000
@@ -1146,9 +1186,9 @@ landscape:
                   value: 146
                   color: '#e34c26'
               contributions: >-
-                174;172;136;108;118;137;154;83;132;111;136;181;212;128;91;110;91;90;88;55;63;57;61;104;122;150;166;154;145;163;140;125;111;128;172;108;122;141;33;41;12;29;7;1;5;13;5;9;10;10;10;7
+                168;155;135;103;135;139;147;75;132;113;142;200;190;128;92;100;88;89;82;49;69;52;70;113;122;158;165;157;150;157;142;106;109;147;162;107;141;105;35;39;8;31;4;1;7;11;6;10;9;12;8;6
               firstWeek: 2019-03-03Z
-              stars: 7458
+              stars: 7464
               license: Unknown License
               description: Graphs for Everyone
               latest_commit_date: '2020-02-21T15:34:51Z'
@@ -1167,7 +1207,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T03:07:00.000Z
+              latest_tweet_date: 2020-02-26T01:00:07.000Z
           - item:
             name: YugabyteDB
             homepage_url: 'https://www.yugabyte.com/'
@@ -1185,29 +1225,30 @@ landscape:
               country: United States
               twitter: 'https://www.twitter.com/yugabyte'
               linkedin: 'https://www.linkedin.com/company/yugabyte'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 24000000
             github_data:
               languages:
                 - name: C
-                  value: 35959607
+                  value: 35960319
                   color: '#555555'
                 - name: C++
-                  value: 24629433
+                  value: 24664886
                   color: '#f34b7d'
                 - name: Java
-                  value: 5851662
+                  value: 5851520
                   color: '#b07219'
                 - name: PLpgSQL
                   value: 2906515
                 - name: TSQL
                   value: 1014984
                 - name: JavaScript
-                  value: 1005809
+                  value: 1005913
                   color: '#f1e05a'
                 - name: Python
-                  value: 950954
+                  value: 955047
                   color: '#3572A5'
                 - name: Yacc
                   value: 898751
@@ -1216,10 +1257,10 @@ landscape:
                   value: 895023
                   color: '#0298c3'
                 - name: Shell
-                  value: 557927
+                  value: 558604
                   color: '#89e051'
                 - name: CMake
-                  value: 532260
+                  value: 532302
                 - name: SQLPL
                   value: 421813
                 - name: Objective-C
@@ -1249,7 +1290,7 @@ landscape:
                   value: 30385
                   color: '#ecdebe'
                 - name: Scala
-                  value: 20609
+                  value: 21094
                   color: '#c22d40'
                 - name: PLSQL
                   value: 10685
@@ -1277,16 +1318,16 @@ landscape:
                   value: 972
                   color: '#384d54'
               contributions: >-
-                41;68;77;38;51;38;31;40;36;48;36;29;29;38;48;37;38;47;37;57;55;45;44;46;34;37;29;39;61;57;44;38;56;43;48;53;31;47;44;22;41;44;42;16;12;32;30;40;47;43;35;37
+                48;68;63;43;52;35;36;31;46;41;39;24;36;37;52;28;43;46;42;64;45;42;46;46;35;30;32;48;68;44;44;40;52;48;45;49;36;45;46;20;42;42;36;17;18;32;27;46;45;45;34;45
               firstWeek: 2019-03-03Z
-              stars: 3587
+              stars: 3597
               license: Other
               description: 'The high-performance distributed SQL database for global, internet-scale apps.'
-              latest_commit_date: '2020-02-25T01:58:30Z'
-              latest_commit_link: /yugabyte/yugabyte-db/commit/5a4826ab0531003ac49496c3bdec331490eb6c11
-              release_date: '2020-01-29T02:24:31Z'
+              latest_commit_date: '2020-02-26T02:49:26Z'
+              latest_commit_link: /yugabyte/yugabyte-db/commit/62c05987cb8f49a39470183bbfc178163d9f8374
+              release_date: '2020-02-25T06:38:47Z'
               release_link: 'https://github.com/YugaByte/yugabyte-db/releases'
-              contributors_count: 86
+              contributors_count: 87
               contributors_link: 'https://github.com/YugaByte/yugabyte-db/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /yugabyte/yugabyte-db/commit/85d14f4bd6fcc502acd94ce7bc654cb802855de6
@@ -1298,7 +1339,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T02:00:12.000Z
+              latest_tweet_date: 2020-02-26T00:00:17.000Z
   - category:
     name: Services
     subcategories:
@@ -1322,6 +1363,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/8baseinc'
               linkedin: 'https://www.linkedin.com/company/8base/'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 2800000
@@ -1332,7 +1374,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-21T21:59:54.000Z
+              latest_tweet_date: 2020-02-25T17:53:36.000Z
           - item:
             name: Apollo Server
             homepage_url: 'https://www.apollographql.com/'
@@ -1350,6 +1392,12 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/apollographql'
               linkedin: 'https://www.linkedin.com/company/apollo-graphql/'
+              acquisitions:
+                - price:
+                  date: '2014-10-07'
+                  acquiree:
+                    name: FathomDB
+                    permalink: fathomdb
               parents: []
               kind: funding
               funding: 53200000
@@ -1365,9 +1413,9 @@ landscape:
                   value: 817
                   color: '#89e051'
               contributions: >-
-                58;22;27;12;25;45;18;24;34;20;23;18;51;84;32;53;27;86;36;31;43;60;20;15;33;31;60;17;19;17;17;22;38;13;7;2;26;23;29;9;9;12;15;22;2;14;10;15;16;33;27;20
+                28;25;21;22;14;48;27;15;39;17;18;21;59;75;40;48;46;67;40;49;32;53;14;15;34;47;41;17;18;21;14;30;30;12;7;15;16;20;30;8;10;17;9;22;3;13;12;14;19;30;36;20
               firstWeek: 2019-03-03Z
-              stars: 9034
+              stars: 9042
               license: MIT License
               description: "\U0001F30D GraphQL server for Express, Connect, Hapi, Koa and more"
               latest_commit_date: '2020-02-25T01:35:21Z'
@@ -1386,7 +1434,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T21:15:48.000Z
+              latest_tweet_date: 2020-02-25T19:57:26.000Z
           - item:
             name: AWS AppSync
             homepage_url: 'https://aws.amazon.com/appsync/'
@@ -1403,12 +1451,43 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/awscloud'
               linkedin: 'https://www.linkedin.com/company/amazon-web-services/'
+              acquisitions:
+                - price:
+                  date: '2019-01-14'
+                  acquiree:
+                    name: TSO Logic
+                    permalink: tso-logic
+                - price:
+                  date: '2018-01-23'
+                  acquiree:
+                    name: Sqrrl
+                    permalink: sqrrl
+                - price:
+                  date: '2017-03-08'
+                  acquiree:
+                    name: Do
+                    permalink: do
+                - price:
+                  date: '2017-03-06'
+                  acquiree:
+                    name: Thinkbox Software
+                    permalink: thinkbox-software
+                - price:
+                  date: '2016-02-11'
+                  acquiree:
+                    name: NICE
+                    permalink: nice-3
+                - price:
+                  date: '2015-07-14'
+                  acquiree:
+                    name: AppThwack
+                    permalink: appthwack
               parents:
                 - 'https://www.crunchbase.com/organization/amazon'
               ticker: AMZN
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1000244641792
+              market_cap: 982049685504
               effective_ticker: AMZN
             image_data:
               fileName: aws-app-sync.svg
@@ -1417,7 +1496,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T00:42:01.000Z
+              latest_tweet_date: 2020-02-25T21:38:06.000Z
   - category:
     name: GraphQL Foundation Member
     subcategories:
@@ -1441,6 +1520,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/8baseinc'
               linkedin: 'https://www.linkedin.com/company/8base/'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 2800000
@@ -1451,7 +1531,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-21T21:59:54.000Z
+              latest_tweet_date: 2020-02-25T17:53:36.000Z
           - item:
             name: Airbnb (member)
             homepage_url: 'https://www.airbnb.com'
@@ -1468,6 +1548,57 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/airbnb'
               linkedin: 'https://www.linkedin.com/company/airbnb'
+              acquisitions:
+                - price:
+                  date: '2019-08-05'
+                  acquiree:
+                    name: Urbandoor
+                    permalink: urbandoor
+                - price:
+                  date: '2019-03-07'
+                  acquiree:
+                    name: HotelTonight
+                    permalink: hoteltonight
+                - price:
+                  date: '2019-01-25'
+                  acquiree:
+                    name: Gaest.com
+                    permalink: gaest-com
+                - price:
+                  date: '2018-12-11'
+                  acquiree:
+                    name: Luckey
+                    permalink: luckey-homes
+                - price:
+                  date: '2017-11-16'
+                  acquiree:
+                    name: Accomable
+                    permalink: accomable
+                - price:
+                  date: '2017-11-16'
+                  acquiree:
+                    name: AdBasis
+                    permalink: adbasis
+                - price:
+                  date: '2017-06-16'
+                  acquiree:
+                    name: Trooly
+                    permalink: troo-ly
+                - price:
+                  date: '2017-05-02'
+                  acquiree:
+                    name: Deco Software
+                    permalink: deco-software
+                - price:
+                  date: '2017-02-23'
+                  acquiree:
+                    name: Tilt
+                    permalink: crowdtilt
+                - price: 200000000
+                  date: '2017-02-10'
+                  acquiree:
+                    name: Luxury Retreats
+                    permalink: luxury-retreats
               parents: []
               kind: funding
               funding: 4398082100
@@ -1478,7 +1609,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T23:18:00.000Z
+              latest_tweet_date: 2020-02-25T16:04:35.000Z
           - item:
             name: Amazon Web Services (member)
             homepage_url: 'https://aws.amazon.com/'
@@ -1495,12 +1626,43 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/awscloud'
               linkedin: 'https://www.linkedin.com/company/amazon-web-services/'
+              acquisitions:
+                - price:
+                  date: '2019-01-14'
+                  acquiree:
+                    name: TSO Logic
+                    permalink: tso-logic
+                - price:
+                  date: '2018-01-23'
+                  acquiree:
+                    name: Sqrrl
+                    permalink: sqrrl
+                - price:
+                  date: '2017-03-08'
+                  acquiree:
+                    name: Do
+                    permalink: do
+                - price:
+                  date: '2017-03-06'
+                  acquiree:
+                    name: Thinkbox Software
+                    permalink: thinkbox-software
+                - price:
+                  date: '2016-02-11'
+                  acquiree:
+                    name: NICE
+                    permalink: nice-3
+                - price:
+                  date: '2015-07-14'
+                  acquiree:
+                    name: AppThwack
+                    permalink: appthwack
               parents:
                 - 'https://www.crunchbase.com/organization/amazon'
               ticker: AMZN
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1000244641792
+              market_cap: 982049685504
               effective_ticker: AMZN
             image_data:
               fileName: amazon-web-services-member.svg
@@ -1509,7 +1671,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T00:42:01.000Z
+              latest_tweet_date: 2020-02-25T21:38:06.000Z
           - item:
             name: Apollo GraphQL (member)
             homepage_url: 'https://www.apollographql.com/'
@@ -1526,6 +1688,12 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/apollographql'
               linkedin: 'https://www.linkedin.com/company/apollo-graphql/'
+              acquisitions:
+                - price:
+                  date: '2014-10-07'
+                  acquiree:
+                    name: FathomDB
+                    permalink: fathomdb
               parents: []
               kind: funding
               funding: 53200000
@@ -1536,7 +1704,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T21:15:48.000Z
+              latest_tweet_date: 2020-02-25T19:57:26.000Z
           - item:
             name: Dgraph Labs (member)
             homepage_url: 'https://dgraph.io/'
@@ -1553,6 +1721,7 @@ landscape:
               country: United States
               twitter: 'https://www.twitter.com/dgraphlabs'
               linkedin: 'https://www.linkedin.com/company/dgraph-labs/'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 14450000
@@ -1580,6 +1749,7 @@ landscape:
               country: United States
               twitter: null
               linkedin: null
+              acquisitions: []
               parents: []
             image_data:
               fileName: elementl-member.svg
@@ -1603,11 +1773,62 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/facebook'
               linkedin: 'https://www.linkedin.com/company/facebook'
+              acquisitions:
+                - price:
+                  date: '2020-02-09'
+                  acquiree:
+                    name: Scape Technologies
+                    permalink: scape-technologies
+                - price:
+                  date: '2019-12-20'
+                  acquiree:
+                    name: Packagd
+                    permalink: packagd
+                - price:
+                  date: '2019-12-19'
+                  acquiree:
+                    name: PlayGiga
+                    permalink: playgiga
+                - price:
+                  date: '2019-12-13'
+                  acquiree:
+                    name: Atlas ML
+                    permalink: atlas-ml
+                - price:
+                  date: '2019-09-23'
+                  acquiree:
+                    name: CTRL-labs
+                    permalink: ctrl-labs
+                - price:
+                  date: '2019-09-22'
+                  acquiree:
+                    name: Servicefriend
+                    permalink: servicefriend
+                - price:
+                  date: '2019-02-08'
+                  acquiree:
+                    name: Grokstyle
+                    permalink: grokstyle
+                - price:
+                  date: '2018-11-28'
+                  acquiree:
+                    name: Dreambit
+                    permalink: dreambit
+                - price:
+                  date: '2018-10-01'
+                  acquiree:
+                    name: Refdash
+                    permalink: refdash
+                - price:
+                  date: '2018-08-14'
+                  acquiree:
+                    name: Vidpresso
+                    permalink: vidpresso
               parents: []
               ticker: FB
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 572142321664
+              market_cap: 560883040256
               effective_ticker: FB
             image_data:
               fileName: facebook-member.svg
@@ -1616,7 +1837,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T19:20:31.000Z
+              latest_tweet_date: 2020-02-26T00:09:34.000Z
           - item:
             name: Fauna (member)
             homepage_url: 'https://fauna.com/'
@@ -1633,6 +1854,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/fauna'
               linkedin: 'https://www.linkedin.com/company/faunadb/'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 32609994
@@ -1643,7 +1865,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T17:39:02.000Z
+              latest_tweet_date: 2020-02-25T20:00:23.000Z
           - item:
             name: Gatsby (member)
             homepage_url: 'https://www.gatsbyjs.org/'
@@ -1660,6 +1882,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/gatsbyjs'
               linkedin: 'https://www.linkedin.com/company/gatsbyjs/'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 18800000
@@ -1670,7 +1893,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-21T19:12:00.000Z
+              latest_tweet_date: 2020-02-25T13:51:12.000Z
           - item:
             name: Hasura (member)
             homepage_url: 'https://hasura.io'
@@ -1687,6 +1910,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/hasurahq'
               linkedin: 'https://www.linkedin.com/company/hasura/'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 1600000
@@ -1697,7 +1921,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T15:24:14.000Z
+              latest_tweet_date: 2020-02-25T12:55:00.000Z
           - item:
             name: HomeAway (member)
             homepage_url: 'https://homeaway.com'
@@ -1715,12 +1939,63 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/homeaway'
               linkedin: 'https://www.linkedin.com/company/homeaway.com'
+              acquisitions:
+                - price:
+                  date: '2016-09-19'
+                  acquiree:
+                    name: Turnspace
+                    permalink: turnspace
+                - price:
+                  date: '2015-10-07'
+                  acquiree:
+                    name: Dwellable
+                    permalink: dwellable-2
+                - price: 16800000
+                  date: '2014-03-05'
+                  acquiree:
+                    name: Glad to Have You
+                    permalink: glad-to-have-you
+                - price:
+                  date: '2013-12-04'
+                  acquiree:
+                    name: Stayz
+                    permalink: stayz-com
+                - price:
+                  date: '2013-07-17'
+                  acquiree:
+                    name: travelmob
+                    permalink: travelmob
+                - price:
+                  date: '2012-04-02'
+                  acquiree:
+                    name: Toprural
+                    permalink: toprural-com
+                - price: 3000000
+                  date: '2011-05-11'
+                  acquiree:
+                    name: Second Porch
+                    permalink: second-porch
+                - price:
+                  date: '2011-04-04'
+                  acquiree:
+                    name: Realholidays.com.au
+                    permalink: realholidays-com-au
+                - price:
+                  date: '2010-10-20'
+                  acquiree:
+                    name: Escapia
+                    permalink: escapia
+                - price:
+                  date: '2010-10-05'
+                  acquiree:
+                    name: Instant Software
+                    permalink: instant-software
               parents:
                 - 'https://www.crunchbase.com/organization/expedia'
               ticker: AWAY
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 18780184576
+              market_cap: 18052947968
               effective_ticker: IAC
             image_data:
               fileName: home-away-member.svg
@@ -1729,7 +2004,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T20:24:17.000Z
+              latest_tweet_date: 2020-02-25T20:08:17.000Z
           - item:
             name: IBM (member)
             homepage_url: 'https://www.ibm.com/'
@@ -1746,11 +2021,62 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/IBM'
               linkedin: 'https://www.linkedin.com/company/ibm/'
+              acquisitions:
+                - price:
+                  date: '2019-01-14'
+                  acquiree:
+                    name: T-Systems - Mainframe Services business
+                    permalink: t-systems-mainframe-services-business
+                - price: 34000000000
+                  date: '2018-10-28'
+                  acquiree:
+                    name: Red Hat
+                    permalink: red-hat
+                - price:
+                  date: '2018-06-15'
+                  acquiree:
+                    name: Oniqua Inc.
+                    permalink: oniqua-inc
+                - price:
+                  date: '2018-05-03'
+                  acquiree:
+                    name: Armanta
+                    permalink: armanta
+                - price:
+                  date: '2017-10-04'
+                  acquiree:
+                    name: Vivant
+                    permalink: vivant-2
+                - price:
+                  date: '2017-09-24'
+                  acquiree:
+                    name: Cloudigo
+                    permalink: cloudigo
+                - price:
+                  date: '2017-05-02'
+                  acquiree:
+                    name: Verizon - Cloud services
+                    permalink: verizon-cloud-services
+                - price:
+                  date: '2017-01-23'
+                  acquiree:
+                    name: Agile 3 Solutions
+                    permalink: agile-3-solutions
+                - price:
+                  date: '2016-11-01'
+                  acquiree:
+                    name: Expert Personal Shopper (XPS)
+                    permalink: expert-personal-shopper-xps
+                - price:
+                  date: '2016-10-27'
+                  acquiree:
+                    name: Sanovi Technologies
+                    permalink: sanovi-technologies
               parents: []
               ticker: IBM
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 126732517376
+              market_cap: 122647453696
               effective_ticker: IBM
             image_data:
               fileName: ibm-member.svg
@@ -1759,7 +2085,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T19:23:28.000Z
+              latest_tweet_date: 2020-02-25T17:46:31.000Z
           - item:
             name: Intuit (member)
             homepage_url: 'https://www.intuit.com/'
@@ -1776,11 +2102,62 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/Intuit'
               linkedin: 'https://www.linkedin.com/company/intuit'
+              acquisitions:
+                - price:
+                  date: '2019-11-18'
+                  acquiree:
+                    name: ChronoBooks
+                    permalink: chronobooks
+                - price:
+                  date: '2019-05-28'
+                  acquiree:
+                    name: Origami Logic
+                    permalink: origami-logic
+                - price:
+                  date: '2018-01-29'
+                  acquiree:
+                    name: Applatix
+                    permalink: applatix
+                - price: 340000000
+                  date: '2017-12-05'
+                  acquiree:
+                    name: TSheets
+                    permalink: tsheets
+                - price:
+                  date: '2017-10-26'
+                  acquiree:
+                    name: Exactor
+                    permalink: exactor
+                - price:
+                  date: '2015-03-24'
+                  acquiree:
+                    name: Playbook HR
+                    permalink: playbook-hr
+                - price:
+                  date: '2015-02-05'
+                  acquiree:
+                    name: Porticor Cloud Security
+                    permalink: porticor-cloud-security
+                - price:
+                  date: '2015-01-21'
+                  acquiree:
+                    name: ZeroPaper
+                    permalink: zeropaper
+                - price:
+                  date: '2014-12-10'
+                  acquiree:
+                    name: Acrede HR & Payroll Solutions
+                    permalink: acrede-hr-payroll-solutions
+                - price:
+                  date: '2014-08-13'
+                  acquiree:
+                    name: itDuzzit
+                    permalink: itduzzit
               parents: []
               ticker: INTU
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 74559733760
+              market_cap: 74135429120
               effective_ticker: INTU
             image_data:
               fileName: intuit-member.svg
@@ -1789,7 +2166,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T21:08:34.000Z
+              latest_tweet_date: 2020-02-26T01:42:13.000Z
           - item:
             name: Neo4j (member)
             homepage_url: 'https://neo4j.com/'
@@ -1806,6 +2183,7 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/neo4j'
               linkedin: 'https://www.linkedin.com/company/neo4j'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 160100000
@@ -1816,7 +2194,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T03:07:00.000Z
+              latest_tweet_date: 2020-02-26T01:00:07.000Z
           - item:
             name: Novvum (member)
             homepage_url: 'https://novvum.io/'
@@ -1833,6 +2211,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/novvumio'
               linkedin: 'https://www.linkedin.com/company/novvum-consulting-group-llc'
+              acquisitions: []
               parents: []
             image_data:
               fileName: novvum-member.svg
@@ -1858,11 +2237,62 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/paypal'
               linkedin: 'https://www.linkedin.com/company/paypal'
+              acquisitions:
+                - price: 4000000000
+                  date: '2019-11-20'
+                  acquiree:
+                    name: Honey
+                    permalink: honey-science
+                - price:
+                  date: '2019-10-01'
+                  acquiree:
+                    name: gopay
+                    permalink: gopay
+                - price: 120000000
+                  date: '2018-06-21'
+                  acquiree:
+                    name: Simility
+                    permalink: simility
+                - price: 400000000
+                  date: '2018-06-19'
+                  acquiree:
+                    name: Hyperwallet
+                    permalink: hyperwallet-systems
+                - price:
+                  date: '2018-05-29'
+                  acquiree:
+                    name: Jetlore
+                    permalink: jetlore
+                - price: 2200000000
+                  date: '2018-05-17'
+                  acquiree:
+                    name: iZettle
+                    permalink: izettle
+                - price:
+                  date: '2017-08-10'
+                  acquiree:
+                    name: Swift Financial
+                    permalink: swift-financial
+                - price: 238000000
+                  date: '2017-02-14'
+                  acquiree:
+                    name: TIO Networks
+                    permalink: tio-networks
+                - price:
+                  date: '2015-08-19'
+                  acquiree:
+                    name: Modest Inc
+                    permalink: modest
+                - price: 890000000
+                  date: '2015-07-02'
+                  acquiree:
+                    name: Xoom
+                    permalink: xoom
               parents: []
               ticker: PYPL
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 136579465216
+              market_cap: 128626794496
               effective_ticker: PYPL
             image_data:
               fileName: pay-pal-member.svg
@@ -1871,7 +2301,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-14T21:40:30.000Z
+              latest_tweet_date: 2020-02-26T02:44:58.000Z
           - item:
             name: Prisma (member)
             homepage_url: 'https://prisma.io/'
@@ -1888,6 +2318,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/prisma'
               linkedin: 'https://www.linkedin.com/company/prisma-io/'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 4500000
@@ -1915,6 +2346,17 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/Salsify'
               linkedin: 'https://www.linkedin.com/company/salsify'
+              acquisitions:
+                - price:
+                  date: '2019-10-01'
+                  acquiree:
+                    name: B2X Partners
+                    permalink: b2x-partners
+                - price:
+                  date: '2018-11-08'
+                  acquiree:
+                    name: Welcome
+                    permalink: chatid
               parents: []
               kind: funding
               funding: 97600000
@@ -1925,7 +2367,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T16:07:21.000Z
+              latest_tweet_date: 2020-02-25T19:09:30.000Z
           - item:
             name: Shopify (member)
             homepage_url: 'https://www.shopify.com'
@@ -1942,11 +2384,62 @@ landscape:
               country: Canada
               twitter: 'http://twitter.com/shopify'
               linkedin: 'https://www.linkedin.com/company/shopify'
+              acquisitions:
+                - price: 450000000
+                  date: '2019-09-10'
+                  acquiree:
+                    name: 6 River Systems
+                    permalink: 6-river-systems
+                - price:
+                  date: '2019-05-23'
+                  acquiree:
+                    name: Handshake
+                    permalink: handshake-5
+                - price:
+                  date: '2018-11-21'
+                  acquiree:
+                    name: Tictail
+                    permalink: tictail
+                - price:
+                  date: '2018-06-20'
+                  acquiree:
+                    name: Return Magic
+                    permalink: return-magic
+                - price: 15000000
+                  date: '2017-05-11'
+                  acquiree:
+                    name: Oberlo
+                    permalink: oberlo
+                - price:
+                  date: '2016-12-05'
+                  acquiree:
+                    name: Tiny Hearts
+                    permalink: tiny-hearts
+                - price:
+                  date: '2016-10-03'
+                  acquiree:
+                    name: Boltmade
+                    permalink: artbarn-labs
+                - price:
+                  date: '2016-04-13'
+                  acquiree:
+                    name: Kit
+                    permalink: kit
+                - price:
+                  date: '2013-08-01'
+                  acquiree:
+                    name: Jet Cooper
+                    permalink: jet-cooper
+                - price:
+                  date: '2012-02-01'
+                  acquiree:
+                    name: Select Start Studios
+                    permalink: select-start-studios
               parents: []
               ticker: SHOP
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 56839421952
+              market_cap: 54494187520
               effective_ticker: SHOP
             image_data:
               fileName: shopify-member.svg
@@ -1955,7 +2448,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T16:23:50.000Z
+              latest_tweet_date: 2020-02-25T16:03:27.000Z
           - item:
             name: Solo.io (member)
             homepage_url: 'https://www.solo.io'
@@ -1972,6 +2465,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/soloio_inc'
               linkedin: 'https://www.linkedin.com/company/solo.io/'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 13500000
@@ -1982,7 +2476,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T22:06:25.000Z
+              latest_tweet_date: 2020-02-26T02:54:01.000Z
           - item:
             name: Twitter (member)
             homepage_url: 'https://twitter.com/'
@@ -1999,11 +2493,62 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/twitter'
               linkedin: 'https://www.linkedin.com/company/twitter'
+              acquisitions:
+                - price:
+                  date: '2020-02-19'
+                  acquiree:
+                    name: Chroma Labs
+                    permalink: chroma-labs
+                - price:
+                  date: '2019-11-21'
+                  acquiree:
+                    name: Aiden
+                    permalink: aiden-2
+                - price:
+                  date: '2019-08-20'
+                  acquiree:
+                    name: Lightwell
+                    permalink: lightwell-b324
+                - price:
+                  date: '2019-06-03'
+                  acquiree:
+                    name: Fabula AI Limited
+                    permalink: fabula-ai-limited
+                - price:
+                  date: '2019-04-17'
+                  acquiree:
+                    name: Highly
+                    permalink: highly
+                - price: 65000000
+                  date: '2018-06-20'
+                  acquiree:
+                    name: Smyte
+                    permalink: smyte
+                - price:
+                  date: '2016-12-01'
+                  acquiree:
+                    name: 'Yes, Inc'
+                    permalink: yes-inc
+                - price: 150000000
+                  date: '2016-06-20'
+                  acquiree:
+                    name: Magic Pony Technology
+                    permalink: magic-pony-technology
+                - price:
+                  date: '2016-04-07'
+                  acquiree:
+                    name: Peer
+                    permalink: peer-4
+                - price:
+                  date: '2015-10-26'
+                  acquiree:
+                    name: ZeroPush
+                    permalink: zeropush
               parents: []
               ticker: TWTR
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 28076279808
+              market_cap: 27544324096
               effective_ticker: TWTR
             image_data:
               fileName: twitter-member.svg
@@ -2035,6 +2580,17 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/1stdibs'
               linkedin: 'https://www.linkedin.com/company/1stdibs-com/'
+              acquisitions:
+                - price:
+                  date: '2019-05-07'
+                  acquiree:
+                    name: Design Manager
+                    permalink: design-manager
+                - price:
+                  date: '2012-09-18'
+                  acquiree:
+                    name: Online Galleries
+                    permalink: online-galleries
               parents: []
               kind: funding
               funding: 253000000
@@ -2045,7 +2601,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T02:15:10.000Z
+              latest_tweet_date: 2020-02-25T18:17:08.000Z
           - item:
             name: 99designs (adopter)
             homepage_url: 'https://www.99designs.com'
@@ -2062,6 +2618,17 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/99designs'
               linkedin: 'https://www.linkedin.com/company/99designs'
+              acquisitions:
+                - price:
+                  date: '2013-08-27'
+                  acquiree:
+                    name: LogoChef
+                    permalink: logochef
+                - price:
+                  date: '2012-08-06'
+                  acquiree:
+                    name: 12designer
+                    permalink: 12designer
               parents: []
               kind: funding
               funding: 45000000
@@ -2072,7 +2639,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T17:39:03.000Z
+              latest_tweet_date: 2020-02-25T18:20:04.000Z
           - item:
             name: Adayroi (adopter)
             homepage_url: 'https://www.adayroi.com'
@@ -2089,6 +2656,7 @@ landscape:
               country: Vietnam
               twitter: null
               linkedin: null
+              acquisitions: []
               parents: []
             image_data:
               fileName: adayroi-adopter.svg
@@ -2111,6 +2679,57 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/airbnb'
               linkedin: 'https://www.linkedin.com/company/airbnb'
+              acquisitions:
+                - price:
+                  date: '2019-08-05'
+                  acquiree:
+                    name: Urbandoor
+                    permalink: urbandoor
+                - price:
+                  date: '2019-03-07'
+                  acquiree:
+                    name: HotelTonight
+                    permalink: hoteltonight
+                - price:
+                  date: '2019-01-25'
+                  acquiree:
+                    name: Gaest.com
+                    permalink: gaest-com
+                - price:
+                  date: '2018-12-11'
+                  acquiree:
+                    name: Luckey
+                    permalink: luckey-homes
+                - price:
+                  date: '2017-11-16'
+                  acquiree:
+                    name: Accomable
+                    permalink: accomable
+                - price:
+                  date: '2017-11-16'
+                  acquiree:
+                    name: AdBasis
+                    permalink: adbasis
+                - price:
+                  date: '2017-06-16'
+                  acquiree:
+                    name: Trooly
+                    permalink: troo-ly
+                - price:
+                  date: '2017-05-02'
+                  acquiree:
+                    name: Deco Software
+                    permalink: deco-software
+                - price:
+                  date: '2017-02-23'
+                  acquiree:
+                    name: Tilt
+                    permalink: crowdtilt
+                - price: 200000000
+                  date: '2017-02-10'
+                  acquiree:
+                    name: Luxury Retreats
+                    permalink: luxury-retreats
               parents: []
               kind: funding
               funding: 4398082100
@@ -2121,7 +2740,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T23:18:00.000Z
+              latest_tweet_date: 2020-02-25T16:04:35.000Z
           - item:
             name: Alembic (adopter)
             homepage_url: 'https://alembic.com.au'
@@ -2138,6 +2757,7 @@ landscape:
               country: Australia
               twitter: 'https://twitter.com/teamalembic'
               linkedin: 'https://www.linkedin.com/company/team-alembic'
+              acquisitions: []
               parents: []
             image_data:
               fileName: alembic-adopter.svg
@@ -2164,6 +2784,7 @@ landscape:
               country: France
               twitter: null
               linkedin: null
+              acquisitions: []
               parents: []
             image_data:
               fileName: allocine-adopter.svg
@@ -2171,7 +2792,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T21:00:00.000Z
+              latest_tweet_date: 2020-02-25T20:30:00.000Z
           - item:
             name: AlphaSights (adopter)
             homepage_url: 'https://www.alphasights.com/'
@@ -2189,6 +2810,7 @@ landscape:
               country: United Kingdom
               twitter: 'http://twitter.com/AlphaSights'
               linkedin: 'https://www.linkedin.com/company/alphasights/'
+              acquisitions: []
               parents: []
             image_data:
               fileName: alpha-sights-adopter.svg
@@ -2214,6 +2836,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/Amplitude_HQ'
               linkedin: 'https://www.linkedin.com/company/amplitude-analytics'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 136000000
@@ -2223,7 +2846,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T21:15:02.000Z
+              latest_tweet_date: 2020-02-25T17:01:14.000Z
           - item:
             name: Ants (adopter)
             homepage_url: 'https://ants.vn/'
@@ -2240,6 +2863,7 @@ landscape:
               country: Vietnam
               twitter: 'https://www.twitter.com/antscorporation'
               linkedin: 'https://www.linkedin.com/company/ants-jsc'
+              acquisitions: []
               parents: []
             image_data:
               fileName: ants-adopter.svg
@@ -2265,6 +2889,17 @@ landscape:
               country: Taiwan
               twitter: 'http://twitter.com/GoAppier'
               linkedin: 'https://www.linkedin.com/company/appier'
+              acquisitions:
+                - price:
+                  date: '2019-10-16'
+                  acquiree:
+                    name: Emotion Intelligence
+                    permalink: emotion-intelligence
+                - price:
+                  date: '2018-08-07'
+                  acquiree:
+                    name: QGraph
+                    permalink: quantumgraph
               parents: []
               kind: funding
               funding: 161500000
@@ -2292,6 +2927,7 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/arangodb'
               linkedin: 'https://www.linkedin.com/company/5289249'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 19221424
@@ -2301,7 +2937,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T21:06:10.000Z
+              latest_tweet_date: 2020-02-25T21:08:19.000Z
           - item:
             name: Artsy (adopter)
             homepage_url: 'https://artsy.github.io/'
@@ -2319,6 +2955,12 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/artsy'
               linkedin: 'https://www.linkedin.com/company/artsyinc'
+              acquisitions:
+                - price:
+                  date: '2017-04-17'
+                  acquiree:
+                    name: ArtAdvisor Inc.
+                    permalink: artadvisor-inc
               parents: []
               kind: funding
               funding: 100912389
@@ -2347,6 +2989,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/AssertibleApp'
               linkedin: 'https://www.linkedin.com/company/assertible'
+              acquisitions: []
               parents: []
             image_data:
               fileName: assertible-adopter.svg
@@ -2372,11 +3015,62 @@ landscape:
               country: Australia
               twitter: 'http://twitter.com/atlassian'
               linkedin: 'https://www.linkedin.com/company/atlassian/'
+              acquisitions:
+                - price:
+                  date: '2019-10-17'
+                  acquiree:
+                    name: Code Barrel
+                    permalink: code-barrel
+                - price:
+                  date: '2019-04-10'
+                  acquiree:
+                    name: Good Software
+                    permalink: good-software
+                - price: 166000000
+                  date: '2019-03-19'
+                  acquiree:
+                    name: AgileCraft
+                    permalink: agilecraft
+                - price: 295000000
+                  date: '2018-09-04'
+                  acquiree:
+                    name: OpsGenie
+                    permalink: opsgenie
+                - price: 425000000
+                  date: '2017-01-09'
+                  acquiree:
+                    name: Trello
+                    permalink: trello
+                - price:
+                  date: '2016-07-14'
+                  acquiree:
+                    name: StatusPage
+                    permalink: statuspage
+                - price: 20000000
+                  date: '2015-05-06'
+                  acquiree:
+                    name: Hall
+                    permalink: hall-com
+                - price:
+                  date: '2015-04-21'
+                  acquiree:
+                    name: BlueJimp
+                    permalink: bluejimp
+                - price: 7500000
+                  date: '2014-09-12'
+                  acquiree:
+                    name: doctape
+                    permalink: doctape
+                - price:
+                  date: '2014-09-11'
+                  acquiree:
+                    name: Wikidocs
+                    permalink: wikidocs
               parents: []
               ticker: TEAM
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 36104765440
+              market_cap: 35459293184
               effective_ticker: TEAM
             image_data:
               fileName: atlassian-adopter.svg
@@ -2385,7 +3079,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T23:13:48.000Z
+              latest_tweet_date: 2020-02-26T00:42:06.000Z
           - item:
             name: Attendify (adopter)
             homepage_url: 'https://attendify.com/'
@@ -2403,6 +3097,7 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/attendifyapp'
               linkedin: 'https://www.linkedin.com/company/attendify'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 2100000
@@ -2412,7 +3107,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T19:05:32.000Z
+              latest_tweet_date: 2020-02-25T14:59:59.000Z
           - item:
             name: Audi (adopter)
             homepage_url: 'https://audi.com/'
@@ -2430,6 +3125,12 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/Audi'
               linkedin: 'https://www.linkedin.com/company/audi-of-america'
+              acquisitions:
+                - price:
+                  date: '2017-03-30'
+                  acquiree:
+                    name: Silvercar
+                    permalink: silvercar
               parents: []
             image_data:
               fileName: audi-adopter.svg
@@ -2438,7 +3139,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T23:50:15.000Z
+              latest_tweet_date: 2020-02-25T18:15:17.000Z
           - item:
             name: Bazinga! (adopter)
             homepage_url: 'https://mybazinga.com/'
@@ -2456,6 +3157,7 @@ landscape:
               country: Canada
               twitter: 'http://twitter.com/bazingahome'
               linkedin: 'https://www.linkedin.com/company/bazinga-technologies'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 4894446
@@ -2482,6 +3184,7 @@ landscape:
               country: United States
               twitter: 'https://www.twitter.com/betterptapp'
               linkedin: null
+              acquisitions: []
               parents: []
               kind: funding
               funding: 8000000
@@ -2510,10 +3213,16 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/braintree'
               linkedin: 'https://www.linkedin.com/company/braintree'
+              acquisitions:
+                - price: 26200000
+                  date: '2012-08-16'
+                  acquiree:
+                    name: Venmo
+                    permalink: venmo
               parents: []
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 136579465216
+              market_cap: 128626794496
               effective_ticker: PYPL
             image_data:
               fileName: braintree-adopter.svg
@@ -2539,6 +3248,7 @@ landscape:
               country: Australia
               twitter: 'https://twitter.com/buildkite'
               linkedin: null
+              acquisitions: []
               parents: []
             image_data:
               fileName: buildkite-adopter.svg
@@ -2564,6 +3274,17 @@ landscape:
               country: The Netherlands
               twitter: 'http://twitter.com/bynder'
               linkedin: 'https://linkedin.com/company/bynder'
+              acquisitions:
+                - price: 49100000
+                  date: '2018-02-16'
+                  acquiree:
+                    name: WebDAM
+                    permalink: webdam
+                - price:
+                  date: '2015-04-15'
+                  acquiree:
+                    name: SocialExpress
+                    permalink: socialexpress
               parents: []
               kind: funding
               funding: 22200000
@@ -2574,7 +3295,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T22:06:42.000Z
+              latest_tweet_date: 2020-02-25T18:06:00.000Z
           - item:
             name: Cheddar (adopter)
             homepage_url: 'https://cheddar.com'
@@ -2591,6 +3312,22 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/cheddar'
               linkedin: 'https://www.linkedin.com/company/cheddar-inc-'
+              acquisitions:
+                - price:
+                  date: '2018-10-25'
+                  acquiree:
+                    name: RateMyProfessors.com
+                    permalink: ratemyprofessors
+                - price:
+                  date: '2018-06-19'
+                  acquiree:
+                    name: Need2Know
+                    permalink: need2know
+                - price:
+                  date: '2017-07-10'
+                  acquiree:
+                    name: StockStreams
+                    permalink: stockstreams
               parents: []
               kind: funding
               funding: 54000000
@@ -2601,7 +3338,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T03:53:00.000Z
+              latest_tweet_date: 2020-02-26T03:28:00.000Z
           - item:
             name: Cherre (adopter)
             homepage_url: 'https://cherre.com'
@@ -2618,6 +3355,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/cherrecore'
               linkedin: 'https://www.linkedin.com/company/cherre-co'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 25000000
@@ -2628,7 +3366,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-21T21:52:35.000Z
+              latest_tweet_date: 2020-02-25T19:09:55.000Z
           - item:
             name: CircleHD (adopter)
             homepage_url: 'https://www.circlehd.com/'
@@ -2645,6 +3383,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/circlehdteam'
               linkedin: 'https://www.linkedin.com/company/circlehd/'
+              acquisitions: []
               parents: []
             image_data:
               fileName: circle-hd-adopter.svg
@@ -2669,6 +3408,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/cloverleafme'
               linkedin: 'https://www.linkedin.com/company/cloverleaf-me/'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 1800000
@@ -2679,7 +3419,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T21:15:34.000Z
+              latest_tweet_date: 2020-02-25T22:29:18.000Z
           - item:
             name: ClubMed (adopter)
             homepage_url: 'http://www.clubmed.com/'
@@ -2696,6 +3436,7 @@ landscape:
               country: France
               twitter: 'https://www.twitter.com/clubmedofficial'
               linkedin: 'https://www.linkedin.com/company/163115/'
+              acquisitions: []
               parents: []
             image_data:
               fileName: club-med-adopter.svg
@@ -2704,7 +3445,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T23:45:03.000Z
+              latest_tweet_date: 2020-02-25T21:09:02.000Z
           - item:
             name: Colectica (adopter)
             homepage_url: 'https://www.colectica.com/'
@@ -2721,6 +3462,7 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/Colectica'
               linkedin: 'https://www.linkedin.com/company/Colectica'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 350000
@@ -2748,6 +3490,7 @@ landscape:
               country: Germany
               twitter: 'https://twitter.com/commercetools'
               linkedin: 'https://www.linkedin.com/company/commercetools/'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 167674186
@@ -2757,7 +3500,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T15:16:03.000Z
+              latest_tweet_date: 2020-02-25T19:12:29.000Z
           - item:
             name: Compara (adopter)
             homepage_url: 'https://www.comparaonline.com/'
@@ -2775,6 +3518,12 @@ landscape:
               country: Chile
               twitter: null
               linkedin: 'https://www.linkedin.com/company/compara/'
+              acquisitions:
+                - price:
+                  date: '2013-03-01'
+                  acquiree:
+                    name: CortaContas
+                    permalink: cortacontas
               parents: []
               kind: funding
               funding: 33050000
@@ -2800,6 +3549,7 @@ landscape:
               country: United States
               twitter: null
               linkedin: null
+              acquisitions: []
               parents: []
             image_data:
               fileName: conduit-adopter.svg
@@ -2823,6 +3573,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/ConfigureOne'
               linkedin: 'https://www.linkedin.com/company/configure-one/'
+              acquisitions: []
               parents: []
             image_data:
               fileName: configure-one-adopter.svg
@@ -2831,7 +3582,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-10T16:52:11.000Z
+              latest_tweet_date: 2020-02-25T18:18:18.000Z
           - item:
             name: Coursera (adopter)
             homepage_url: 'https://www.coursera.org'
@@ -2848,6 +3599,12 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/coursera'
               linkedin: 'https://www.linkedin.com/company/coursera'
+              acquisitions:
+                - price:
+                  date: '2019-08-28'
+                  acquiree:
+                    name: Rhyme.com
+                    permalink: rhyme-com
               parents: []
               kind: funding
               funding: 313100000
@@ -2875,6 +3632,42 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/CreditKarma'
               linkedin: 'https://www.linkedin.com/company/credit-karma'
+              acquisitions:
+                - price:
+                  date: '2019-12-16'
+                  acquiree:
+                    name: Haven Money
+                    permalink: haven-money
+                - price:
+                  date: '2018-11-04'
+                  acquiree:
+                    name: Noddle
+                    permalink: noddle
+                - price:
+                  date: '2018-08-16'
+                  acquiree:
+                    name: Approved
+                    permalink: approved
+                - price:
+                  date: '2018-03-14'
+                  acquiree:
+                    name: Penny
+                    permalink: penny-2
+                - price:
+                  date: '2017-05-09'
+                  acquiree:
+                    name: Claimdog
+                    permalink: claimdog
+                - price:
+                  date: '2016-12-07'
+                  acquiree:
+                    name: OnePriceTaxes
+                    permalink: onepricetaxes
+                - price:
+                  date: '2015-12-30'
+                  acquiree:
+                    name: Snowball
+                    permalink: snowball
               parents: []
               kind: funding
               funding: 868000000
@@ -2884,7 +3677,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T21:49:03.000Z
+              latest_tweet_date: 2020-02-26T01:03:03.000Z
           - item:
             name: Curio (adopter)
             homepage_url: 'https://curio.org/'
@@ -2902,6 +3695,7 @@ landscape:
               country: United Kingdom
               twitter: 'https://twitter.com/curioio'
               linkedin: 'https://www.linkedin.com/company/curio-labs'
+              acquisitions: []
               parents: []
             image_data:
               fileName: curio-adopter.svg
@@ -2928,6 +3722,12 @@ landscape:
               country: France
               twitter: 'http://twitter.com/dailymotionUSA'
               linkedin: 'https://www.linkedin.com/company/24411'
+              acquisitions:
+                - price:
+                  date: '2013-12-10'
+                  acquiree:
+                    name: Jilion
+                    permalink: jilion
               parents: []
               kind: funding
               funding: 68500000
@@ -2955,6 +3755,7 @@ landscape:
               country: The Netherlands
               twitter: 'http://twitter.com/directlyrics'
               linkedin: null
+              acquisitions: []
               parents: []
             image_data:
               fileName: directlyrics-adopter.svg
@@ -2980,6 +3781,22 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/drift'
               linkedin: 'https://www.linkedin.com/company/drift/'
+              acquisitions:
+                - price:
+                  date: '2019-09-03'
+                  acquiree:
+                    name: Giant Otter Technologies
+                    permalink: giant-otter-technologies
+                - price:
+                  date: '2018-09-04'
+                  acquiree:
+                    name: Siftrock
+                    permalink: siftrock
+                - price:
+                  date: '2015-04-21'
+                  acquiree:
+                    name: Fetchnotes
+                    permalink: fetchnotes
               parents: []
               kind: funding
               funding: 107000000
@@ -2990,7 +3807,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T19:22:01.000Z
+              latest_tweet_date: 2020-02-26T02:24:36.000Z
           - item:
             name: DueDil (adopter)
             homepage_url: 'https://www.duedil.com'
@@ -3007,6 +3824,7 @@ landscape:
               country: United Kingdom
               twitter: 'https://twitter.com/duedil'
               linkedin: 'https://www.linkedin.com/company/duedil/'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 53381935
@@ -3034,6 +3852,7 @@ landscape:
               country: Brazil
               twitter: 'https://twitter.com/easycarros'
               linkedin: 'https://www.linkedin.com/company/easy-carros/'
+              acquisitions: []
               parents:
                 - 'https://www.crunchbase.com/organization/egenius-founders'
               kind: funding
@@ -3061,6 +3880,7 @@ landscape:
               country: South Korea
               twitter: 'https://twitter.com/Ediketeer'
               linkedin: 'https://www.linkedin.com/company/ediket'
+              acquisitions: []
               parents: []
             image_data:
               fileName: ediket-adopter.svg
@@ -3086,6 +3906,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/eventOneHQ'
               linkedin: 'https://www.linkedin.com/company/eventonehq/'
+              acquisitions: []
               parents: []
             image_data:
               fileName: event-one-adopter.svg
@@ -3111,6 +3932,7 @@ landscape:
               country: Australia
               twitter: 'http://twitter.com/expert_360'
               linkedin: 'https://www.linkedin.com/company/expert-360'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 24926350
@@ -3138,11 +3960,62 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/facebook'
               linkedin: 'https://www.linkedin.com/company/facebook'
+              acquisitions:
+                - price:
+                  date: '2020-02-09'
+                  acquiree:
+                    name: Scape Technologies
+                    permalink: scape-technologies
+                - price:
+                  date: '2019-12-20'
+                  acquiree:
+                    name: Packagd
+                    permalink: packagd
+                - price:
+                  date: '2019-12-19'
+                  acquiree:
+                    name: PlayGiga
+                    permalink: playgiga
+                - price:
+                  date: '2019-12-13'
+                  acquiree:
+                    name: Atlas ML
+                    permalink: atlas-ml
+                - price:
+                  date: '2019-09-23'
+                  acquiree:
+                    name: CTRL-labs
+                    permalink: ctrl-labs
+                - price:
+                  date: '2019-09-22'
+                  acquiree:
+                    name: Servicefriend
+                    permalink: servicefriend
+                - price:
+                  date: '2019-02-08'
+                  acquiree:
+                    name: Grokstyle
+                    permalink: grokstyle
+                - price:
+                  date: '2018-11-28'
+                  acquiree:
+                    name: Dreambit
+                    permalink: dreambit
+                - price:
+                  date: '2018-10-01'
+                  acquiree:
+                    name: Refdash
+                    permalink: refdash
+                - price:
+                  date: '2018-08-14'
+                  acquiree:
+                    name: Vidpresso
+                    permalink: vidpresso
               parents: []
               ticker: FB
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 572142321664
+              market_cap: 560883040256
               effective_ticker: FB
             image_data:
               fileName: facebook-adopter.svg
@@ -3151,7 +4024,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T19:20:31.000Z
+              latest_tweet_date: 2020-02-26T00:09:34.000Z
           - item:
             name: FAIR Consulting Group (adopter)
             homepage_url: 'https://faircg.com/'
@@ -3168,6 +4041,7 @@ landscape:
               country: Australia
               twitter: 'https://twitter.com/tweetfaircg'
               linkedin: 'https://www.linkedin.com/company/fair-consulting-group-pty-ltd/'
+              acquisitions: []
               parents: []
             image_data:
               fileName: fair-consulting-group-adopter.svg
@@ -3176,7 +4050,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T00:00:39.000Z
+              latest_tweet_date: 2020-02-26T01:00:31.000Z
           - item:
             name: Fairfax Media (adopter)
             homepage_url: 'https://www.fairfaxmedia.com.au/'
@@ -3193,6 +4067,22 @@ landscape:
               country: Australia
               twitter: 'http://twitter.com/smh'
               linkedin: 'https://www.linkedin.com/company/fairfax-media'
+              acquisitions:
+                - price:
+                  date: '2012-12-01'
+                  acquiree:
+                    name: Netus
+                    permalink: netus
+                - price:
+                  date: '2011-03-01'
+                  acquiree:
+                    name: OMG
+                    permalink: omg
+                - price: 2200934297
+                  date: '2006-12-06'
+                  acquiree:
+                    name: Rural Press
+                    permalink: rural-press
               parents: []
             image_data:
               fileName: fairfax-media-adopter.svg
@@ -3201,7 +4091,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T03:34:13.000Z
+              latest_tweet_date: 2020-02-26T03:34:28.000Z
           - item:
             name: FileJet (adopter)
             homepage_url: 'https://filejet.io/'
@@ -3218,6 +4108,7 @@ landscape:
               country: Slovakia (Slovak Republic)
               twitter: null
               linkedin: 'https://www.linkedin.com/company/filejet'
+              acquisitions: []
               parents: []
             image_data:
               fileName: file-jet-adopter.svg
@@ -3240,6 +4131,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/FwdNetworks'
               linkedin: 'https://www.linkedin.com/company/forward-networks'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 62149993
@@ -3250,7 +4142,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-21T00:04:45.000Z
+              latest_tweet_date: 2020-02-25T23:42:51.000Z
           - item:
             name: Gentux (adopter)
             homepage_url: 'https://www.generationtux.com/'
@@ -3267,6 +4159,12 @@ landscape:
               country: United States
               twitter: 'https://www.twitter.com/generationtux'
               linkedin: null
+              acquisitions:
+                - price: 25000000
+                  date: '2017-09-19'
+                  acquiree:
+                    name: Menguin
+                    permalink: menguin
               parents: []
               kind: funding
               funding: 25000000
@@ -3294,6 +4192,7 @@ landscape:
               country: Brazil
               twitter: 'https://twitter.com/getninjas'
               linkedin: 'https://www.linkedin.com/company/getninjas/'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 16786267
@@ -3321,12 +4220,43 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/github'
               linkedin: 'https://www.linkedin.com/company/1418841'
+              acquisitions:
+                - price:
+                  date: '2019-09-18'
+                  acquiree:
+                    name: Semmle
+                    permalink: semmle
+                - price:
+                  date: '2019-06-17'
+                  acquiree:
+                    name: Pull Panda
+                    permalink: pull-panda
+                - price:
+                  date: '2019-05-23'
+                  acquiree:
+                    name: Dependabot
+                    permalink: dependabot
+                - price:
+                  date: '2018-11-30'
+                  acquiree:
+                    name: Spectrum
+                    permalink: spectrum-a286
+                - price:
+                  date: '2014-01-09'
+                  acquiree:
+                    name: Easel
+                    permalink: easel
+                - price:
+                  date: '2011-12-05'
+                  acquiree:
+                    name: Ordered List
+                    permalink: ordered-list
               parents:
                 - 'https://www.crunchbase.com/organization/microsoft'
               ticker: MSFT
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1243756232704
+              market_cap: 1278348886016
               effective_ticker: MSFT
             image_data:
               fileName: git-hub-adopter.svg
@@ -3335,7 +4265,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T18:51:05.000Z
+              latest_tweet_date: 2020-02-25T22:27:40.000Z
           - item:
             name: Goalify (adopter)
             homepage_url: 'https://goalify.plus/'
@@ -3353,6 +4283,7 @@ landscape:
               country: Vietnam
               twitter: 'https://twitter.com/Goalifyplus'
               linkedin: 'https://www.linkedin.com/in/goalify-jsc-746788141/'
+              acquisitions: []
               parents: []
             image_data:
               fileName: goalify-adopter.svg
@@ -3378,6 +4309,7 @@ landscape:
               country: Germany
               twitter: 'https://twitter.com/graphcms'
               linkedin: 'https://www.linkedin.com/company/graphcms'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 1000000
@@ -3387,7 +4319,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-19T14:48:05.000Z
+              latest_tweet_date: 2020-02-25T19:51:35.000Z
           - item:
             name: GraphCool (adopter)
             homepage_url: 'https://www.graph.cool'
@@ -3405,6 +4337,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/prisma'
               linkedin: 'https://www.linkedin.com/company/prisma-io/'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 4500000
@@ -3432,6 +4365,7 @@ landscape:
               country: Belgium
               twitter: 'https://twitter.com/hackages'
               linkedin: 'https://www.linkedin.com/company/hackages/about/'
+              acquisitions: []
               parents: []
             image_data:
               fileName: hackages-adopter.svg
@@ -3456,6 +4390,12 @@ landscape:
               country: Indonesia
               twitter: 'http://twitter.com/hijup'
               linkedin: 'https://www.linkedin.com/company/hijup-com'
+              acquisitions:
+                - price:
+                  date: '2018-02-20'
+                  acquiree:
+                    name: Haute Elan
+                    permalink: haute-elan
               parents: []
               kind: funding
               funding: 50000
@@ -3466,7 +4406,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T01:00:00.000Z
+              latest_tweet_date: 2020-02-26T01:00:00.000Z
           - item:
             name: Housing Anywhere (adopter)
             homepage_url: 'https://housinganywhere.com/'
@@ -3484,6 +4424,17 @@ landscape:
               country: The Netherlands
               twitter: 'https://www.twitter.com/housinganywhere'
               linkedin: 'https://www.linkedin.com/company/housinganywhere-com/'
+              acquisitions:
+                - price:
+                  date: '2020-01-15'
+                  acquiree:
+                    name: studenten Wg
+                    permalink: studenten-wg
+                - price:
+                  date: '2014-01-01'
+                  acquiree:
+                    name: CasaSwap.com
+                    permalink: casaswap
               parents: []
               kind: funding
               funding: 13610675
@@ -3510,6 +4461,27 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/hudl'
               linkedin: 'https://www.linkedin.com/company/hudl'
+              acquisitions:
+                - price:
+                  date: '2019-08-15'
+                  acquiree:
+                    name: Wyscout
+                    permalink: wyscout
+                - price:
+                  date: '2019-05-09'
+                  acquiree:
+                    name: Krossover
+                    permalink: krossover-intelligence
+                - price:
+                  date: '2017-12-13'
+                  acquiree:
+                    name: VolleyMetrics
+                    permalink: volleymetrics
+                - price:
+                  date: '2014-09-17'
+                  acquiree:
+                    name: Ubersense
+                    permalink: ubersense
               parents: []
               kind: funding
               funding: 108850000
@@ -3520,7 +4492,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T21:37:00.000Z
+              latest_tweet_date: 2020-02-26T00:13:06.000Z
           - item:
             name: Instana (adopter)
             homepage_url: 'https://www.instana.com/'
@@ -3537,6 +4509,22 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/InstanaHQ'
               linkedin: 'https://www.linkedin.com/company/10082535'
+              acquisitions:
+                - price:
+                  date: '2019-12-17'
+                  acquiree:
+                    name: Beeinstant
+                    permalink: beeinstant
+                - price:
+                  date: '2019-12-17'
+                  acquiree:
+                    name: Unknown
+                    permalink: eltima-software
+                - price:
+                  date: '2019-12-17'
+                  acquiree:
+                    name: StackImpact
+                    permalink: stackimpact
               parents: []
               kind: funding
               funding: 57000000
@@ -3565,11 +4553,62 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/Intuit'
               linkedin: 'https://www.linkedin.com/company/intuit'
+              acquisitions:
+                - price:
+                  date: '2019-11-18'
+                  acquiree:
+                    name: ChronoBooks
+                    permalink: chronobooks
+                - price:
+                  date: '2019-05-28'
+                  acquiree:
+                    name: Origami Logic
+                    permalink: origami-logic
+                - price:
+                  date: '2018-01-29'
+                  acquiree:
+                    name: Applatix
+                    permalink: applatix
+                - price: 340000000
+                  date: '2017-12-05'
+                  acquiree:
+                    name: TSheets
+                    permalink: tsheets
+                - price:
+                  date: '2017-10-26'
+                  acquiree:
+                    name: Exactor
+                    permalink: exactor
+                - price:
+                  date: '2015-03-24'
+                  acquiree:
+                    name: Playbook HR
+                    permalink: playbook-hr
+                - price:
+                  date: '2015-02-05'
+                  acquiree:
+                    name: Porticor Cloud Security
+                    permalink: porticor-cloud-security
+                - price:
+                  date: '2015-01-21'
+                  acquiree:
+                    name: ZeroPaper
+                    permalink: zeropaper
+                - price:
+                  date: '2014-12-10'
+                  acquiree:
+                    name: Acrede HR & Payroll Solutions
+                    permalink: acrede-hr-payroll-solutions
+                - price:
+                  date: '2014-08-13'
+                  acquiree:
+                    name: itDuzzit
+                    permalink: itduzzit
               parents: []
               ticker: INTU
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 74559733760
+              market_cap: 74135429120
               effective_ticker: INTU
             image_data:
               fileName: intuit-adopter.svg
@@ -3578,7 +4617,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T21:08:34.000Z
+              latest_tweet_date: 2020-02-26T01:42:13.000Z
           - item:
             name: KLM (adopter)
             homepage_url: 'https://www.klm.com/home/us/en'
@@ -3595,6 +4634,7 @@ landscape:
               country: The Netherlands
               twitter: 'https://twitter.com/klm'
               linkedin: 'https://www.linkedin.com/company-beta/2441/'
+              acquisitions: []
               parents: []
             image_data:
               fileName: klm-adopter.svg
@@ -3603,7 +4643,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T03:58:06.000Z
+              latest_tweet_date: 2020-02-26T03:59:03.000Z
           - item:
             name: Kyma (adopter)
             homepage_url: 'https://kyma-project.io/'
@@ -3622,13 +4662,64 @@ landscape:
               country: Germany
               twitter: 'http://twitter.com/SAP'
               linkedin: 'https://www.linkedin.com/company/sap'
+              acquisitions:
+                - price:
+                  date: '2018-11-19'
+                  acquiree:
+                    name: Contextor
+                    permalink: contextor
+                - price: 8000000000
+                  date: '2018-11-10'
+                  acquiree:
+                    name: Qualtrics
+                    permalink: qualtrics
+                - price:
+                  date: '2018-06-05'
+                  acquiree:
+                    name: Coresystems
+                    permalink: coresystems
+                - price: 2400000000
+                  date: '2018-01-29'
+                  acquiree:
+                    name: CallidusCloud
+                    permalink: callidus-software
+                - price:
+                  date: '2018-01-22'
+                  acquiree:
+                    name: Recast.AI
+                    permalink: recast-ai
+                - price: 350000000
+                  date: '2017-09-24'
+                  acquiree:
+                    name: Gigya
+                    permalink: gigya
+                - price:
+                  date: '2016-12-14'
+                  acquiree:
+                    name: Abakus
+                    permalink: abakus
+                - price:
+                  date: '2016-09-28'
+                  acquiree:
+                    name: PLAT.ONE
+                    permalink: abo-data
+                - price: 125000000
+                  date: '2016-08-25'
+                  acquiree:
+                    name: Altiscale
+                    permalink: altiscale
+                - price:
+                  date: '2016-02-17'
+                  acquiree:
+                    name: Roambi
+                    permalink: mellmo
               parents: []
               ticker: SAP
               kind: market_cap
             github_data:
               languages:
                 - name: Go
-                  value: 6592017
+                  value: 6618380
                   color: '#00ADD8'
                 - name: Shell
                   value: 197819
@@ -3639,7 +4730,7 @@ landscape:
                   value: 54871
                   color: '#427819'
                 - name: Dockerfile
-                  value: 43757
+                  value: 43886
                   color: '#384d54'
                 - name: JavaScript
                   value: 17773
@@ -3648,13 +4739,13 @@ landscape:
                   value: 3664
                   color: '#e34c26'
               contributions: >-
-                41;69;55;59;62;97;41;50;46;23;51;38;58;39;57;31;45;49;73;24;33;52;65;27;29;55;40;33;25;33;77;22;48;37;45;24;19;24;43;36;46;47;72;10;11;16;44;53;45;36;44;49
+                46;62;62;58;76;76;49;43;45;26;51;37;57;49;50;34;34;58;66;24;35;56;55;37;26;51;41;32;28;36;69;26;49;34;44;27;17;24;47;38;42;49;67;8;12;16;52;48;51;33;44;52
               firstWeek: 2019-03-03Z
-              stars: 851
+              stars: 852
               license: Apache License 2.0
               description: A flexible and easy way to connect and extend enterprise applications in a cloud-native world
-              latest_commit_date: '2020-02-24T22:28:04Z'
-              latest_commit_link: /kyma-project/kyma/commit/724ed8e5d143b0a5d1fe38cd8cebfab67303715e
+              latest_commit_date: '2020-02-25T18:39:40Z'
+              latest_commit_link: /kyma-project/kyma/commit/ed9dd0d206ae617ebe5dc91cbe2813031fa8b792
               release_date: '2020-02-11T13:30:32Z'
               release_link: 'https://github.com/kyma-project/kyma/releases'
               contributors_count: 94
@@ -3663,7 +4754,7 @@ landscape:
               start_commit_link: /kyma-project/kyma/commit/c4e06fbb6c180bffec61adf3c296d826c1465cd9
               start_date: '2018-07-24T13:22:03Z'
             yahoo_finance_data:
-              market_cap: 160205488128
+              market_cap: 157548904448
               effective_ticker: SAP
             image_data:
               fileName: kyma-adopter.svg
@@ -3690,6 +4781,12 @@ landscape:
               country: Brazil
               twitter: 'http://twitter.com/loggibrasil'
               linkedin: 'https://www.linkedin.com/company/loggi'
+              acquisitions:
+                - price:
+                  date: '2018-10-10'
+                  acquiree:
+                    name: WorldSense
+                    permalink: worldsense
               parents: []
               kind: funding
               funding: 295001000
@@ -3717,11 +4814,62 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/lyft'
               linkedin: 'https://www.linkedin.com/company/lyft/'
+              acquisitions:
+                - price:
+                  date: '2020-02-22'
+                  acquiree:
+                    name: Halo Cars
+                    permalink: halo-2e0a
+                - price:
+                  date: '2018-10-23'
+                  acquiree:
+                    name: Blue Vision Labs
+                    permalink: blue-vision-labs
+                - price:
+                  date: '2018-06-01'
+                  acquiree:
+                    name: Motivate
+                    permalink: motivate-3
+                - price:
+                  date: '2017-11-17'
+                  acquiree:
+                    name: Kamcord
+                    permalink: kamcord
+                - price:
+                  date: '2017-08-10'
+                  acquiree:
+                    name: YesGraph
+                    permalink: yesgraph
+                - price:
+                  date: '2017-08-10'
+                  acquiree:
+                    name: DataScore
+                    permalink: datascore
+                - price:
+                  date: '2017-03-20'
+                  acquiree:
+                    name: FinitePaths Inc.
+                    permalink: finitepaths-inc
+                - price:
+                  date: '2015-06-26'
+                  acquiree:
+                    name: Leo
+                    permalink: leo-app
+                - price:
+                  date: '2014-09-22'
+                  acquiree:
+                    name: Hitch
+                    permalink: corral
+                - price:
+                  date: '2014-04-01'
+                  acquiree:
+                    name: Rover
+                    permalink: rover-2
               parents: []
               ticker: LYFT
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 12866381824
+              market_cap: 12654564352
               effective_ticker: LYFT
             image_data:
               fileName: lyft-adopter.svg
@@ -3730,7 +4878,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T00:31:36.000Z
+              latest_tweet_date: 2020-02-26T00:07:53.000Z
           - item:
             name: Magento (adopter)
             homepage_url: 'https://www.magento.com'
@@ -3748,10 +4896,21 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/magento'
               linkedin: 'https://www.linkedin.com/company/magento'
+              acquisitions:
+                - price:
+                  date: '2017-04-18'
+                  acquiree:
+                    name: Shopial
+                    permalink: easy-social-shop
+                - price:
+                  date: '2016-08-01'
+                  acquiree:
+                    name: RJMetrics
+                    permalink: rjmetrics
               parents: []
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 174318157824
+              market_cap: 169631105024
               effective_ticker: ADBE
             image_data:
               fileName: magento-adopter.svg
@@ -3760,7 +4919,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T22:07:03.000Z
+              latest_tweet_date: 2020-02-25T22:07:00.000Z
           - item:
             name: NBC News Digital (adopter)
             homepage_url: 'https://www.nbc.com'
@@ -3778,12 +4937,58 @@ landscape:
               country: United States
               twitter: 'http://www.twitter.com/nbcuniversal'
               linkedin: 'https://www.linkedin.com/company/nbcuniversal-inc-'
+              acquisitions:
+                - price:
+                  date: '2019-06-19'
+                  acquiree:
+                    name: Cineo Lighting
+                    permalink: cineo-lighting
+                - price:
+                  date: '2017-05-10'
+                  acquiree:
+                    name: Craftsy
+                    permalink: sympoz
+                - price: 3800000000
+                  date: '2016-04-28'
+                  acquiree:
+                    name: DreamWorks Animation
+                    permalink: dreamworks-animation
+                - price: 1500000000
+                  date: '2015-09-28'
+                  acquiree:
+                    name: Universal Studios Japan
+                    permalink: universal-studios-japan
+                - price:
+                  date: '2008-08-21'
+                  acquiree:
+                    name: Carnival Films
+                    permalink: carnival-films
+                - price:
+                  date: '2008-07-07'
+                  acquiree:
+                    name: The Weather Channel
+                    permalink: the-weather-channel
+                - price: 925000000
+                  date: '2007-10-09'
+                  acquiree:
+                    name: Oxygen Media
+                    permalink: oxygen-media
+                - price:
+                  date: '2006-03-01'
+                  acquiree:
+                    name: iVillage
+                    permalink: ivillage
+                - price: 1980000000
+                  date: '2001-10-11'
+                  acquiree:
+                    name: Telemundo
+                    permalink: telemundo
               parents:
                 - 'https://www.crunchbase.com/organization/comcast'
               ticker: CMCSA
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 203065131008
+              market_cap: 196554309632
               effective_ticker: CMCSA
             image_data:
               fileName: nbc-news-digital-adopter.svg
@@ -3792,7 +4997,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T01:42:15.000Z
+              latest_tweet_date: 2020-02-25T22:35:37.000Z
           - item:
             name: New Relic (adopter)
             homepage_url: 'https://www.newrelic.com/'
@@ -3809,11 +5014,42 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/newrelic'
               linkedin: 'https://www.linkedin.com/company/new-relic-inc-'
+              acquisitions:
+                - price:
+                  date: '2019-11-01'
+                  acquiree:
+                    name: IOpipe
+                    permalink: iopipe
+                - price:
+                  date: '2019-02-06'
+                  acquiree:
+                    name: SignifAI
+                    permalink: signifai
+                - price:
+                  date: '2018-10-11'
+                  acquiree:
+                    name: CoScale
+                    permalink: co-scale
+                - price:
+                  date: '2016-07-15'
+                  acquiree:
+                    name: Immediately
+                    permalink: immediately
+                - price:
+                  date: '2015-11-06'
+                  acquiree:
+                    name: Opsmatic
+                    permalink: opsmatic
+                - price: 2300000
+                  date: '2014-10-08'
+                  acquiree:
+                    name: Ducksboard
+                    permalink: ducksboard
               parents: []
               ticker: NEWR
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 3471040768
+              market_cap: 3367940608
               effective_ticker: NEWR
             image_data:
               fileName: new-relic-adopter.svg
@@ -3822,7 +5058,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T00:57:06.000Z
+              latest_tweet_date: 2020-02-25T21:20:43.000Z
           - item:
             name: PayPal (adopter)
             homepage_url: 'https://paypal.com/'
@@ -3839,11 +5075,62 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/paypal'
               linkedin: 'https://www.linkedin.com/company/paypal'
+              acquisitions:
+                - price: 4000000000
+                  date: '2019-11-20'
+                  acquiree:
+                    name: Honey
+                    permalink: honey-science
+                - price:
+                  date: '2019-10-01'
+                  acquiree:
+                    name: gopay
+                    permalink: gopay
+                - price: 120000000
+                  date: '2018-06-21'
+                  acquiree:
+                    name: Simility
+                    permalink: simility
+                - price: 400000000
+                  date: '2018-06-19'
+                  acquiree:
+                    name: Hyperwallet
+                    permalink: hyperwallet-systems
+                - price:
+                  date: '2018-05-29'
+                  acquiree:
+                    name: Jetlore
+                    permalink: jetlore
+                - price: 2200000000
+                  date: '2018-05-17'
+                  acquiree:
+                    name: iZettle
+                    permalink: izettle
+                - price:
+                  date: '2017-08-10'
+                  acquiree:
+                    name: Swift Financial
+                    permalink: swift-financial
+                - price: 238000000
+                  date: '2017-02-14'
+                  acquiree:
+                    name: TIO Networks
+                    permalink: tio-networks
+                - price:
+                  date: '2015-08-19'
+                  acquiree:
+                    name: Modest Inc
+                    permalink: modest
+                - price: 890000000
+                  date: '2015-07-02'
+                  acquiree:
+                    name: Xoom
+                    permalink: xoom
               parents: []
               ticker: PYPL
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 136579465216
+              market_cap: 128626794496
               effective_ticker: PYPL
             image_data:
               fileName: pay-pal-adopter.svg
@@ -3852,7 +5139,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-14T21:40:30.000Z
+              latest_tweet_date: 2020-02-26T02:44:58.000Z
           - item:
             name: Pinterest (adopter)
             homepage_url: 'https://www.pinterest.com/'
@@ -3870,11 +5157,62 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/Pinterest'
               linkedin: 'https://www.linkedin.com/company/pinterest'
+              acquisitions:
+                - price:
+                  date: '2017-03-09'
+                  acquiree:
+                    name: Jelly
+                    permalink: jelly
+                - price:
+                  date: '2017-03-08'
+                  acquiree:
+                    name: Jelly HQ
+                    permalink: jellyhq
+                - price:
+                  date: '2016-08-23'
+                  acquiree:
+                    name: Instapaper
+                    permalink: instapaper
+                - price:
+                  date: '2016-07-15'
+                  acquiree:
+                    name: Math Camp
+                    permalink: math-camp-dba-trio
+                - price:
+                  date: '2016-06-22'
+                  acquiree:
+                    name: tote
+                    permalink: tote-3
+                - price:
+                  date: '2016-06-15'
+                  acquiree:
+                    name: Fleksy Keyboard
+                    permalink: thingthing-keyboard
+                - price:
+                  date: '2016-05-03'
+                  acquiree:
+                    name: URX
+                    permalink: urx
+                - price:
+                  date: '2016-04-21'
+                  acquiree:
+                    name: Curator & Co
+                    permalink: curator-and-co
+                - price:
+                  date: '2015-12-08'
+                  acquiree:
+                    name: Pext
+                    permalink: pext
+                - price:
+                  date: '2015-04-03'
+                  acquiree:
+                    name: Hike Labs
+                    permalink: hike-labs
               parents: []
               ticker: PINS
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 13512739840
+              market_cap: 13082079232
               effective_ticker: PINS
             image_data:
               fileName: pinterest-adopter.svg
@@ -3883,7 +5221,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T00:48:22.000Z
+              latest_tweet_date: 2020-02-25T17:49:43.000Z
           - item:
             name: Pluralsight (adopter)
             homepage_url: 'https://www.pluralsight.com/'
@@ -3901,11 +5239,57 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/PluralSight'
               linkedin: 'https://www.linkedin.com/company/pluralsight'
+              acquisitions:
+                - price: 170000000
+                  date: '2019-05-01'
+                  acquiree:
+                    name: GitPrime
+                    permalink: gitprime
+                - price:
+                  date: '2016-07-19'
+                  acquiree:
+                    name: Train Simple
+                    permalink: train-simple
+                - price:
+                  date: '2015-07-09'
+                  acquiree:
+                    name: HackHands
+                    permalink: hackhands
+                - price: 36000000
+                  date: '2015-01-26'
+                  acquiree:
+                    name: Code School
+                    permalink: code-school
+                - price: 75000000
+                  date: '2014-11-19'
+                  acquiree:
+                    name: Smarterer
+                    permalink: smarterer
+                - price:
+                  date: '2014-04-09'
+                  acquiree:
+                    name: Digital-Tutors
+                    permalink: digital-tutors-pl-studios
+                - price:
+                  date: '2013-10-31'
+                  acquiree:
+                    name: Tekpub
+                    permalink: tekpub
+                - price:
+                  date: '2013-08-06'
+                  acquiree:
+                    name: TrainSignal
+                    permalink: train-signal
+                - price:
+                  date: '2013-07-01'
+                  acquiree:
+                    name: PeepCode
+                    permalink: peepcode-screencasts
               parents: []
               ticker: PS
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 2629805312
+              market_cap: 2560417280
               effective_ticker: PS
             image_data:
               fileName: pluralsight-adopter.svg
@@ -3914,7 +5298,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T23:11:44.000Z
+              latest_tweet_date: 2020-02-25T23:02:50.000Z
           - item:
             name: Rakuten
             homepage_url: 'https://www.rakuten.com/'
@@ -3933,11 +5317,62 @@ landscape:
               country: Japan
               twitter: 'http://twitter.com/RakutenGlobal'
               linkedin: 'https://www.linkedin.com/company/rakuten'
+              acquisitions:
+                - price:
+                  date: '2018-07-05'
+                  acquiree:
+                    name: LOB Inc.
+                    permalink: lob-inc
+                - price:
+                  date: '2018-06-08'
+                  acquiree:
+                    name: Curbside
+                    permalink: curbside
+                - price:
+                  date: '2018-01-29'
+                  acquiree:
+                    name: Asahi Fire & Marine Insurance Co.
+                    permalink: asahi-fire-marine-insurance-co
+                - price:
+                  date: '2016-10-28'
+                  acquiree:
+                    name: Soukai Drug
+                    permalink: soukai-drug
+                - price:
+                  date: '2016-09-05'
+                  acquiree:
+                    name: Fablic
+                    permalink: fablic
+                - price:
+                  date: '2015-09-16'
+                  acquiree:
+                    name: World Travel System
+                    permalink: world-travel-system
+                - price:
+                  date: '2015-07-13'
+                  acquiree:
+                    name: Rakuten Fits Me
+                    permalink: fits-me
+                - price:
+                  date: '2015-07-01'
+                  acquiree:
+                    name: Voyagin
+                    permalink: voyagin
+                - price: 410000000
+                  date: '2015-03-19'
+                  acquiree:
+                    name: Overdrive
+                    permalink: overdrive
+                - price:
+                  date: '2014-12-08'
+                  acquiree:
+                    name: 'Crimson Football Club, Inc.'
+                    permalink: crimson-football-club-inc
               parents: []
               ticker: '4755'
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 11681612800
+              market_cap: 11875665920
               effective_ticker: RKUNY
             image_data:
               fileName: rakuten.svg
@@ -3946,7 +5381,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T19:15:18.000Z
+              latest_tweet_date: 2020-02-25T23:18:20.000Z
           - item:
             name: Salsify (adopter)
             homepage_url: 'https://www.salsify.com/'
@@ -3963,6 +5398,17 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/Salsify'
               linkedin: 'https://www.linkedin.com/company/salsify'
+              acquisitions:
+                - price:
+                  date: '2019-10-01'
+                  acquiree:
+                    name: B2X Partners
+                    permalink: b2x-partners
+                - price:
+                  date: '2018-11-08'
+                  acquiree:
+                    name: Welcome
+                    permalink: chatid
               parents: []
               kind: funding
               funding: 97600000
@@ -3973,7 +5419,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T16:07:21.000Z
+              latest_tweet_date: 2020-02-25T19:09:30.000Z
           - item:
             name: Satispay (adopter)
             homepage_url: 'https://www.satispay.com'
@@ -3990,6 +5436,7 @@ landscape:
               country: Italy
               twitter: 'http://twitter.com/satispay'
               linkedin: 'https://www.linkedin.com/company/satispay'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 50588286
@@ -4017,6 +5464,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/goserverless'
               linkedin: 'https://www.linkedin.com/company/serverless/'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 13000000
@@ -4044,11 +5492,62 @@ landscape:
               country: Canada
               twitter: 'http://twitter.com/shopify'
               linkedin: 'https://www.linkedin.com/company/shopify'
+              acquisitions:
+                - price: 450000000
+                  date: '2019-09-10'
+                  acquiree:
+                    name: 6 River Systems
+                    permalink: 6-river-systems
+                - price:
+                  date: '2019-05-23'
+                  acquiree:
+                    name: Handshake
+                    permalink: handshake-5
+                - price:
+                  date: '2018-11-21'
+                  acquiree:
+                    name: Tictail
+                    permalink: tictail
+                - price:
+                  date: '2018-06-20'
+                  acquiree:
+                    name: Return Magic
+                    permalink: return-magic
+                - price: 15000000
+                  date: '2017-05-11'
+                  acquiree:
+                    name: Oberlo
+                    permalink: oberlo
+                - price:
+                  date: '2016-12-05'
+                  acquiree:
+                    name: Tiny Hearts
+                    permalink: tiny-hearts
+                - price:
+                  date: '2016-10-03'
+                  acquiree:
+                    name: Boltmade
+                    permalink: artbarn-labs
+                - price:
+                  date: '2016-04-13'
+                  acquiree:
+                    name: Kit
+                    permalink: kit
+                - price:
+                  date: '2013-08-01'
+                  acquiree:
+                    name: Jet Cooper
+                    permalink: jet-cooper
+                - price:
+                  date: '2012-02-01'
+                  acquiree:
+                    name: Select Start Studios
+                    permalink: select-start-studios
               parents: []
               ticker: SHOP
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 56839421952
+              market_cap: 54494187520
               effective_ticker: SHOP
             image_data:
               fileName: shopify-adopter.svg
@@ -4057,7 +5556,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T16:23:50.000Z
+              latest_tweet_date: 2020-02-25T16:03:27.000Z
           - item:
             name: Stackshare (adopter)
             homepage_url: 'https://stackshare.io'
@@ -4074,6 +5573,7 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/stackshareio'
               linkedin: 'https://www.linkedin.com/company/stackshare'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 7000000
@@ -4083,7 +5583,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T22:39:00.000Z
+              latest_tweet_date: 2020-02-26T01:51:00.000Z
           - item:
             name: Starbucks (adopter)
             homepage_url: 'https://www.starbucks.com'
@@ -4100,11 +5600,27 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/Starbucks'
               linkedin: 'https://www.linkedin.com/company/starbucks/'
+              acquisitions:
+                - price: 620000000
+                  date: '2012-12-31'
+                  acquiree:
+                    name: Teavana
+                    permalink: teavana
+                - price:
+                  date: '2012-06-04'
+                  acquiree:
+                    name: La Boulange
+                    permalink: la-boulange
+                - price:
+                  date: '2011-11-10'
+                  acquiree:
+                    name: Evolution Fresh
+                    permalink: evolution-fresh
               parents: []
               ticker: SBUX
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 97603690496
+              market_cap: 94913011712
               effective_ticker: SBUX
             image_data:
               fileName: starbucks-adopter.svg
@@ -4113,7 +5629,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T02:57:39.000Z
+              latest_tweet_date: 2020-02-26T03:05:52.000Z
           - item:
             name: Supply (adopter)
             homepage_url: 'https://www.supply.com'
@@ -4130,6 +5646,7 @@ landscape:
               country: United States
               twitter: null
               linkedin: null
+              acquisitions: []
               parents: []
             image_data:
               fileName: supply-adopter.svg
@@ -4153,6 +5670,7 @@ landscape:
               country: France
               twitter: 'http://twitter.com/Swapcard'
               linkedin: 'https://www.linkedin.com/company/3177729'
+              acquisitions: []
               parents: []
               kind: funding
               funding: 5247247
@@ -4163,7 +5681,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T17:15:55.000Z
+              latest_tweet_date: 2020-02-25T13:39:28.000Z
           - item:
             name: The New York Times (adopter)
             homepage_url: 'https://www.nytco.com/'
@@ -4180,11 +5698,62 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/nytimes'
               linkedin: 'https://www.linkedin.com/company/the-new-york-times'
+              acquisitions:
+                - price:
+                  date: '2016-10-24'
+                  acquiree:
+                    name: The Sweethome
+                    permalink: the-sweethome
+                - price:
+                  date: '2016-10-24'
+                  acquiree:
+                    name: pureproductreview
+                    permalink: the-wirecutter
+                - price:
+                  date: '2016-08-12'
+                  acquiree:
+                    name: Fake Love
+                    permalink: fake-love
+                - price:
+                  date: '2016-03-11'
+                  acquiree:
+                    name: HelloSociety
+                    permalink: hellosociety
+                - price:
+                  date: '2007-03-27'
+                  acquiree:
+                    name: ucomparehealthcare.com
+                    permalink: ucomparehealthcare-com
+                - price: 35000000
+                  date: '2006-08-28'
+                  acquiree:
+                    name: Baseline
+                    permalink: baseline
+                - price:
+                  date: '2006-02-06'
+                  acquiree:
+                    name: blogrunner
+                    permalink: blogrunner
+                - price:
+                  date: '2005-02-18'
+                  acquiree:
+                    name: 'About, Inc'
+                    permalink: about-inc
+                - price: 410000000
+                  date: '2005-02-17'
+                  acquiree:
+                    name: Dotdash
+                    permalink: about-com
+                - price:
+                  date: '1999-06-01'
+                  acquiree:
+                    name: Abuzz Technologies
+                    permalink: abuzz-technologies
               parents: []
               ticker: NYT
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 6343371776
+              market_cap: 6168223232
               effective_ticker: NYT
             image_data:
               fileName: the-new-york-times-adopter.svg
@@ -4192,7 +5761,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-25T04:00:08.000Z
+              latest_tweet_date: 2020-02-26T04:00:06.000Z
           - item:
             name: Twitter
             homepage_url: 'https://twitter.com/'
@@ -4209,11 +5778,62 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/twitter'
               linkedin: 'https://www.linkedin.com/company/twitter'
+              acquisitions:
+                - price:
+                  date: '2020-02-19'
+                  acquiree:
+                    name: Chroma Labs
+                    permalink: chroma-labs
+                - price:
+                  date: '2019-11-21'
+                  acquiree:
+                    name: Aiden
+                    permalink: aiden-2
+                - price:
+                  date: '2019-08-20'
+                  acquiree:
+                    name: Lightwell
+                    permalink: lightwell-b324
+                - price:
+                  date: '2019-06-03'
+                  acquiree:
+                    name: Fabula AI Limited
+                    permalink: fabula-ai-limited
+                - price:
+                  date: '2019-04-17'
+                  acquiree:
+                    name: Highly
+                    permalink: highly
+                - price: 65000000
+                  date: '2018-06-20'
+                  acquiree:
+                    name: Smyte
+                    permalink: smyte
+                - price:
+                  date: '2016-12-01'
+                  acquiree:
+                    name: 'Yes, Inc'
+                    permalink: yes-inc
+                - price: 150000000
+                  date: '2016-06-20'
+                  acquiree:
+                    name: Magic Pony Technology
+                    permalink: magic-pony-technology
+                - price:
+                  date: '2016-04-07'
+                  acquiree:
+                    name: Peer
+                    permalink: peer-4
+                - price:
+                  date: '2015-10-26'
+                  acquiree:
+                    name: ZeroPush
+                    permalink: zeropush
               parents: []
               ticker: TWTR
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 28076279808
+              market_cap: 27544324096
               effective_ticker: TWTR
             image_data:
               fileName: twitter.svg
@@ -4239,6 +5859,7 @@ landscape:
               country: Poland
               twitter: null
               linkedin: 'https://www.linkedin.com/company/vazco/'
+              acquisitions: []
               parents: []
             image_data:
               fileName: vazco-adopter.svg
@@ -4262,11 +5883,32 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/wayfair'
               linkedin: 'https://www.linkedin.com/company/wayfair/'
+              acquisitions:
+                - price:
+                  date: '2016-08-30'
+                  acquiree:
+                    name: TrumpIt
+                    permalink: walle
+                - price:
+                  date: '2015-05-21'
+                  acquiree:
+                    name: CustomMade
+                    permalink: custommade-ventures
+                - price:
+                  date: '2013-08-02'
+                  acquiree:
+                    name: DwellStudio
+                    permalink: dwellstudio
+                - price:
+                  date: '2011-09-20'
+                  acquiree:
+                    name: buyster
+                    permalink: buyster
               parents: []
               ticker: W
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 7035085824
+              market_cap: 6672807424
               effective_ticker: W
             image_data:
               fileName: wayfair-adopter.svg
@@ -4275,7 +5917,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T22:27:04.000Z
+              latest_tweet_date: 2020-02-25T21:29:50.000Z
           - item:
             name: Yelp
             homepage_url: 'https://www.yelp.com/'
@@ -4293,11 +5935,47 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/Yelp'
               linkedin: 'https://www.linkedin.com/company/yelp-com/'
+              acquisitions:
+                - price: 20000000
+                  date: '2017-04-04'
+                  acquiree:
+                    name: Turnstyle Solutions
+                    permalink: turnstyle-analytics
+                - price: 40000000
+                  date: '2017-03-02'
+                  acquiree:
+                    name: Nowait
+                    permalink: nowait
+                - price: 134000000
+                  date: '2015-02-10'
+                  acquiree:
+                    name: Eat24
+                    permalink: eat24hours
+                - price:
+                  date: '2014-10-28'
+                  acquiree:
+                    name: Cityvox
+                    permalink: cityvox
+                - price:
+                  date: '2014-10-24'
+                  acquiree:
+                    name: Restaurant-Kritik
+                    permalink: restaurant-kritik
+                - price: 12700000
+                  date: '2013-07-18'
+                  acquiree:
+                    name: Yelp Reservations
+                    permalink: seatme
+                - price: 50000000
+                  date: '2012-10-25'
+                  acquiree:
+                    name: Qype
+                    permalink: qype
               parents: []
               ticker: YELP
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 2240481280
+              market_cap: 2315809024
               effective_ticker: YELP
             image_data:
               fileName: yelp.svg
@@ -4306,7 +5984,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-02-24T22:47:39.000Z
+              latest_tweet_date: 2020-02-25T17:57:02.000Z
 twitter_options:
   count: 14
   since_id: '1229557213536169992'
