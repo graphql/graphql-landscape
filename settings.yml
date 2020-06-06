@@ -96,7 +96,7 @@ big_picture:
       - type: HorizontalCategory
         category: Projects
         rows: 4
-        width: 325
+        width: 475
         height: 160
         top: 0
         left: 0
@@ -105,26 +105,26 @@ big_picture:
       - type: HorizontalCategory
         category: Services
         rows: 3
-        width: 280
+        width: 180
         height: 160
         top: 0
-        left: 345
+        left: 495
         color: 'rgb(7,136,62)'
         fit_width: true
       - type: HorizontalCategory
         category: Databases
         rows: 3
-        width: 325
+        width: 275
         height: 160
         top: 0
-        left: 645
+        left: 695
         color: 'rgb(79,121,13)'
         fit_width: true
       - type: HorizontalCategory
         category: GraphQL Adopter
         rows: 6
         width: 970
-        height: 320
+        height: 195
         top: 180
         left: 0
         color: 'rgb(126,115,14)'
@@ -133,45 +133,45 @@ big_picture:
         category: GraphQL Foundation Member
         rows: 4
         width: 650
-        height: 200
-        top: 540
+        height: 150
+        top: 390
         left: 0
         color: 'rgb(103,66,18)'
         fit_width: true
       - type: LandscapeInfo
         width: 310
-        height: 200
-        top: 540
+        height: 150
+        top: 390
         left: 665
         children:
           - type: text
             text: |
               This landscape is intended as a map to explore the GraphQL community, and also shows the member organizations of the GraphQL Foundation.
-            top: 55
+            top: 45
             left: 140
             right: 10
             font_size: 10
           - type: image
             image: qr.svg
-            top: 55
+            top: 10
             left: 20
             width: 90
             height: 90
             title: QR Code
           - type: title
             title: l.graphql.org
-            top: 140
-            left: 5
+            top: 95
+            left: 10
             font_size: 21
           - type: image
             image: left-logo.svg
-            width: 110
-            right: 190
+            width: 90
+            right: 105
             top: 10
             title: Landscape Logo
           - type: image
             image: right-logo.svg
-            width: 109
+            width: 90
             right: 10
             top: 10
             title: GraphQL Foundation Logo
