@@ -39,20 +39,20 @@ landscape:
                 - name: Shell
                   value: 3394
                   color: '#89e051'
-              contributions: 2;0;1;0;1;7;3;2;2;1;0;1;0;0;1;0;5;0;5;0;0;0;1;0;0;0;0;1;0;2;0;0;0;0;0;0;1;4;1;0;2;0;0;0;0;1;0;0;2;19;12;3
+              contributions: 2;1;0;0;1;7;5;0;2;1;0;1;0;0;1;0;5;0;5;0;0;0;1;0;0;0;0;1;0;2;0;0;0;0;0;0;1;4;1;0;2;0;0;0;0;1;0;0;2;24;10;2
               firstWeek: 2020-04-26Z
-              stars: 13258
+              stars: 13261
               license: Unknown License
               description: GraphQL is a query language and execution engine tied to any backend service.
-              latest_commit_date: '2021-04-16T23:01:56Z'
-              latest_commit_link: /graphql/graphql-spec/commit/086bb1f1a7f273b6d0787de525f1c23742374ae0
+              latest_commit_date: '2021-04-23T19:15:34Z'
+              latest_commit_link: /graphql/graphql-spec/commit/6c81ed81a31f8e6ad23a03641ff686b76efba334
               release_date: '2018-06-11T02:45:19Z'
               release_link: https://github.com/graphql/graphql-spec/releases
               contributors_count: 118
               contributors_link: https://github.com/graphql/graphql-spec/graphs/contributors
             repos:
               - url: https://github.com/graphql/graphql-spec
-                stars: 13258
+                stars: 13261
             github_start_commit_data:
               start_commit_link: /graphql/graphql-spec/commit/7c0398803c94826957be307e1d3c4a5ffc3c5b5e
               start_date: '2015-07-01T00:41:15Z'
@@ -106,9 +106,9 @@ landscape:
                 - name: CSS
                   value: 2633
                   color: '#563d7c'
-              contributions: 0;0;0;0;0;0;0;0;0;0;3;0;0;1;15;4;0;1;4;0;0;0;0;0;0;0;7;4;0;2;0;0;0;2;1;0;2;0;7;0;1;0;1;0;9;8;1;4;8;4;1;2
+              contributions: 0;0;0;0;0;0;0;0;0;0;3;0;1;0;15;4;0;1;4;0;0;0;0;0;0;0;7;4;1;1;0;0;2;0;1;0;2;0;7;0;1;0;1;0;9;9;0;4;8;4;1;2
               firstWeek: 2020-04-26Z
-              stars: 1087
+              stars: 1088
               license: MIT License
               description: A fully-featured, production ready caching GraphQL client for Angular and every GraphQL server 🎁
               latest_commit_date: '2021-04-20T13:14:59Z'
@@ -119,7 +119,7 @@ landscape:
               contributors_link: https://github.com/kamilkisiela/apollo-angular/graphs/contributors
             repos:
               - url: https://github.com/kamilkisiela/apollo-angular
-                stars: 1087
+                stars: 1088
             github_start_commit_data:
               start_commit_link: /apollographql/apollo-angular/commit/0ae5e9085320c135ad0da421ed1a5fc1e3585a96
               start_date: '2016-04-16T00:10:50Z'
@@ -175,20 +175,20 @@ landscape:
                 - name: Batchfile
                   value: 31
                   color: '#C1F12E'
-              contributions: 6;8;7;13;6;10;10;5;2;18;13;19;3;5;4;7;0;2;15;8;1;8;4;1;5;2;3;6;2;4;1;8;8;6;8;0;3;3;0;1;0;3;11;23;7;4;0;0;0;0;0;12
+              contributions: 6;8;8;12;6;10;10;5;2;18;22;11;3;4;4;7;0;12;5;8;2;7;4;1;5;2;3;6;2;5;0;8;8;9;5;0;3;3;1;0;0;3;19;15;8;3;0;0;0;0;0;19
               firstWeek: 2020-04-26Z
-              stars: 2803
+              stars: 2805
               license: MIT License
               description: ✏️ Tooling for development and production Apollo workflows
-              latest_commit_date: '2021-04-21T09:34:36Z'
-              latest_commit_link: /apollographql/apollo-tooling/commit/9b8f34ca0aeb7ec1355eb4af6bdbc47802935609
+              latest_commit_date: '2021-04-23T19:14:15Z'
+              latest_commit_link: /apollographql/apollo-tooling/commit/75784a6c2b5b8be6e9e1d9dfcdffd4ef3d1541b9
               release_date: '2021-02-19T10:32:53Z'
               release_link: https://github.com/apollographql/apollo-tooling/releases
               contributors_count: 169
               contributors_link: https://github.com/apollographql/apollo-tooling/graphs/contributors
             repos:
               - url: https://github.com/apollographql/apollo-tooling
-                stars: 2803
+                stars: 2805
             github_start_commit_data:
               start_commit_link: /apollographql/apollo-tooling/commit/547c70194c31f292200c409974cab4cd22e9bc48
               start_date: '2016-08-12T15:29:21Z'
@@ -199,7 +199,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T18:17:06.000Z
+              latest_tweet_date: 2021-04-23T14:45:12.000Z
           - item:
             name: GraphiQL
             homepage_url: https://github.com/graphql/graphiql
@@ -244,9 +244,9 @@ landscape:
                   color: '#89e051'
                 - name: EJS
                   value: 2641
-              contributions: 0;3;3;9;11;6;12;1;7;7;0;0;0;3;3;8;0;5;0;10;4;12;0;0;0;8;1;4;0;2;2;8;6;2;5;4;10;3;6;0;9;8;5;3;0;0;3;0;4;4;0;6
+              contributions: 0;3;3;10;11;9;8;3;8;4;0;0;0;3;3;8;0;5;0;14;3;9;0;0;0;8;4;1;1;1;4;6;8;0;5;4;10;7;2;0;9;11;3;2;0;0;3;0;4;4;0;6
               firstWeek: 2020-04-26Z
-              stars: 12033
+              stars: 12034
               license: MIT License
               description: GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
               latest_commit_date: '2021-04-21T22:59:11Z'
@@ -257,7 +257,7 @@ landscape:
               contributors_link: https://github.com/graphql/graphiql/graphs/contributors
             repos:
               - url: https://github.com/graphql/graphiql
-                stars: 12033
+                stars: 12034
             github_start_commit_data:
               start_commit_link: /graphql/graphiql/commit/b9dec272d89d9c590727fd10d62e4a47e0317fc7
               start_date: '2015-08-24T08:59:14Z'
@@ -308,7 +308,7 @@ landscape:
                 - name: Dockerfile
                   value: 148
                   color: '#384d54'
-              contributions: 30;11;11;22;10;14;27;6;13;11;20;19;19;15;16;11;8;21;31;19;17;8;25;25;9;19;24;11;12;11;15;14;21;13;12;4;9;9;5;4;8;17;15;21;6;8;0;0;0;0;0;2
+              contributions: 31;12;10;23;8;13;27;7;12;11;26;16;21;15;12;10;12;19;33;18;14;13;20;27;14;13;24;11;13;14;11;14;24;10;11;6;7;9;5;4;12;17;16;17;6;7;0;0;0;0;2;0
               firstWeek: 2020-04-26Z
               stars: 1692
               license: MIT License
@@ -361,31 +361,31 @@ landscape:
                   value: 2328375
                   color: '#2b7489'
                 - name: JavaScript
-                  value: 75030
+                  value: 75341
                   color: '#f1e05a'
                 - name: CSS
-                  value: 11429
+                  value: 11544
                   color: '#563d7c'
                 - name: Shell
                   value: 702
                   color: '#89e051'
               contributions: >-
-                33;18;5;50;50;34;48;23;27;19;25;22;35;28;63;33;8;39;18;16;28;1;53;16;26;29;23;35;13;19;20;41;35;17;32;10;23;11;26;25;19;32;33;25;19;41;19;17;21;16;24;18
+                33;18;11;46;50;32;52;21;25;19;26;21;35;31;60;33;30;17;18;16;28;1;58;12;29;26;25;33;16;17;18;48;33;16;29;12;22;13;26;23;21;36;27;23;26;37;21;16;20;13;27;19
               firstWeek: 2020-04-26Z
-              stars: 6724
+              stars: 6728
               license: MIT License
               description: >-
                 A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom
                 plugins. 
-              latest_commit_date: '2021-04-22T19:33:39Z'
-              latest_commit_link: /dotansimha/graphql-code-generator/commit/2f620ce2f9f7346d507f6c7d80e3b7e22071cade
+              latest_commit_date: '2021-04-23T19:28:04Z'
+              latest_commit_link: /dotansimha/graphql-code-generator/commit/5f77ec547980fa205b7394815d465cb430679312
               release_date: '2021-04-19T15:41:55Z'
               release_link: https://github.com/dotansimha/graphql-code-generator/releases
               contributors_count: 320
               contributors_link: https://github.com/dotansimha/graphql-code-generator/graphs/contributors
             repos:
               - url: https://github.com/dotansimha/graphql-code-generator
-                stars: 6724
+                stars: 6728
             github_start_commit_data:
               start_commit_link: /dotansimha/graphql-code-generator/commit/69240f01f84ce09769c9cae947bb4bb70964778d
               start_date: '2016-12-06T10:46:14Z'
@@ -430,9 +430,9 @@ landscape:
                 - name: CSS
                   value: 1681
                   color: '#563d7c'
-              contributions: 7;0;2;2;2;4;9;0;0;7;0;0;13;2;0;0;2;0;0;0;0;0;2;8;1;4;2;2;0;8;4;0;0;0;0;0;0;0;0;0;0;2;25;4;4;1;0;2;0;13;2;7
+              contributions: 7;0;2;3;1;4;9;0;0;7;0;0;13;2;0;0;2;0;0;0;0;0;2;8;1;5;1;2;0;9;3;0;0;0;0;0;0;0;0;0;0;13;14;4;4;1;1;1;0;14;7;1
               firstWeek: 2020-04-26Z
-              stars: 893
+              stars: 895
               license: MIT License
               description: One configuration for all your GraphQL tools (supported by most tools, editors & IDEs)
               latest_commit_date: '2021-04-20T09:48:04Z'
@@ -443,7 +443,7 @@ landscape:
               contributors_link: https://github.com/kamilkisiela/graphql-config/graphs/contributors
             repos:
               - url: https://github.com/kamilkisiela/graphql-config
-                stars: 893
+                stars: 895
             github_start_commit_data:
               start_commit_link: /kamilkisiela/graphql-config/commit/b87d2449dee878f7e56b654eaf1c14f9cfd29994
               start_date: '2016-07-29T09:54:26Z'
@@ -483,7 +483,7 @@ landscape:
                   value: 339891
                   color: '#2b7489'
                 - name: JavaScript
-                  value: 48419
+                  value: 48048
                   color: '#f1e05a'
                 - name: CSS
                   value: 13694
@@ -491,20 +491,20 @@ landscape:
                 - name: Shell
                   value: 48
                   color: '#89e051'
-              contributions: 27;12;16;21;11;15;9;6;7;8;8;9;7;11;9;14;7;11;14;9;16;9;7;16;5;16;11;10;18;8;1;4;0;0;2;0;6;0;0;0;1;9;7;1;1;6;2;33;5;20;8;11
+              contributions: 27;11;16;23;10;14;11;5;7;7;11;7;11;9;6;14;10;11;12;16;10;7;10;14;8;16;7;18;12;6;1;4;0;0;2;0;6;0;0;0;1;12;4;1;1;6;2;38;0;20;10;14
               firstWeek: 2020-04-26Z
-              stars: 1096
+              stars: 1097
               license: MIT License
               description: 🕵️‍♀️ Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage
-              latest_commit_date: '2021-04-22T13:55:21Z'
-              latest_commit_link: /kamilkisiela/graphql-inspector/commit/7b0dfd937b8e1b8c9dc54f26dafb82cafa87e6f8
+              latest_commit_date: '2021-04-23T21:00:53Z'
+              latest_commit_link: /kamilkisiela/graphql-inspector/commit/0b7e06439a9465bc0d149a9cda172ba48485dad1
               release_date: '2021-03-22T09:48:42Z'
               release_link: https://github.com/kamilkisiela/graphql-inspector/releases
               contributors_count: 46
               contributors_link: https://github.com/kamilkisiela/graphql-inspector/graphs/contributors
             repos:
               - url: https://github.com/kamilkisiela/graphql-inspector
-                stars: 1096
+                stars: 1097
             github_start_commit_data:
               start_commit_link: /kamilkisiela/graphql-inspector/commit/cf25bde91e3863131fa8ac80e0c8545862bd59aa
               start_date: '2018-11-15T19:04:07Z'
@@ -556,20 +556,20 @@ landscape:
                   value: 59
                   color: '#89e051'
               contributions: >-
-                40;12;36;58;45;44;57;25;20;12;23;21;55;46;11;27;30;24;22;30;31;17;44;32;16;17;16;11;8;19;16;47;61;32;24;29;35;27;40;40;32;54;44;53;30;24;18;43;41;30;37;24
+                39;14;41;54;49;41;55;28;16;14;20;34;49;40;9;30;29;24;23;28;30;22;43;34;12;19;15;8;8;21;19;64;48;25;24;29;35;25;43;46;28;54;41;56;27;22;31;37;37;32;35;25
               firstWeek: 2020-04-26Z
-              stars: 1696
+              stars: 1698
               license: MIT License
               description: GraphQL Mesh — Query anything, run anywhere
-              latest_commit_date: '2021-04-23T02:45:23Z'
-              latest_commit_link: /Urigo/graphql-mesh/commit/cf277f65e69a6473ef8aab95d3e869ce6f8c5c77
+              latest_commit_date: '2021-04-24T04:16:35Z'
+              latest_commit_link: /Urigo/graphql-mesh/commit/f560f6907ff0e1a5b5ea330b01e6bc77585f6862
               release_date: '2021-04-22T13:01:17Z'
               release_link: https://github.com/Urigo/graphql-mesh/releases
               contributors_count: 46
               contributors_link: https://github.com/Urigo/graphql-mesh/graphs/contributors
             repos:
               - url: https://github.com/Urigo/graphql-mesh
-                stars: 1696
+                stars: 1698
             github_start_commit_data:
               start_commit_link: /Urigo/graphql-mesh/commit/c7aeac37d33459247e40f191481fe3a98e9228dc
               start_date: '2020-01-09T08:17:54Z'
@@ -620,13 +620,13 @@ landscape:
                 - name: Dockerfile
                   value: 2898
                   color: '#384d54'
-              contributions: 15;9;23;17;6;15;13;6;3;4;6;8;5;8;6;4;6;7;8;8;14;41;5;11;10;11;16;16;12;2;13;11;11;10;16;2;12;9;7;3;6;11;9;6;15;9;8;8;9;5;12;7
+              contributions: 15;8;25;16;8;13;13;5;3;4;8;7;6;8;4;4;6;10;5;10;25;28;6;13;11;10;16;13;12;4;11;12;11;9;16;3;13;7;7;4;6;14;7;4;15;11;6;11;6;7;10;8
               firstWeek: 2020-04-26Z
               stars: 980
               license: MIT License
               description: Enterprise Grade Tooling For Your GraphQL Server
-              latest_commit_date: '2021-04-23T00:11:31Z'
-              latest_commit_link: /Urigo/graphql-modules/commit/51c836a9238ef7f1340e3ca25224c3066f0cfe7a
+              latest_commit_date: '2021-04-24T03:10:01Z'
+              latest_commit_link: /Urigo/graphql-modules/commit/debbc618bf4b7ea151c4de07e7dfa0941e366698
               release_date: '2021-03-22T09:31:45Z'
               release_link: https://github.com/Urigo/graphql-modules/releases
               contributors_count: 48
@@ -681,13 +681,13 @@ landscape:
                 - name: Shell
                   value: 40
                   color: '#89e051'
-              contributions: 10;5;4;10;7;12;11;7;20;6;5;9;6;15;6;6;7;9;11;7;9;7;6;14;8;20;17;6;6;10;12;10;20;8;7;4;6;8;7;6;11;12;11;12;13;10;15;22;11;10;13;5
+              contributions: 11;4;4;11;11;8;11;9;18;6;5;9;8;14;4;7;6;9;12;7;10;6;5;16;11;18;14;8;4;13;9;12;20;6;8;3;8;7;7;7;12;10;12;14;10;10;15;23;10;10;12;6
               firstWeek: 2020-04-26Z
               stars: 1094
               license: MIT License
               description: A library of custom GraphQL Scalars for creating precise type-safe GraphQL schemas.
-              latest_commit_date: '2021-04-21T10:33:11Z'
-              latest_commit_link: /Urigo/graphql-scalars/commit/c56c634b532b776cbcdbfe9cef678d5a4d131a55
+              latest_commit_date: '2021-04-23T22:24:19Z'
+              latest_commit_link: /Urigo/graphql-scalars/commit/654cb96274e5bc011314b76c7705398fb05704ec
               release_date: '2021-03-08T14:19:10Z'
               release_link: https://github.com/Urigo/graphql-scalars/releases
               contributors_count: 39
@@ -740,20 +740,20 @@ landscape:
                   value: 2683
                   color: '#563d7c'
               contributions: >-
-                43;8;13;27;46;26;47;10;31;22;24;35;24;29;26;19;16;17;31;23;8;21;23;3;6;4;42;25;11;14;40;40;31;24;20;10;35;14;26;13;25;20;33;31;28;25;16;25;18;23;27;10
+                26;9;16;30;45;29;38;13;30;20;24;38;24;33;19;19;16;20;38;14;10;18;23;3;6;6;41;28;12;14;37;44;30;20;19;14;32;14;29;10;29;19;31;34;24;28;19;22;16;21;27;11
               firstWeek: 2020-04-26Z
-              stars: 4041
+              stars: 4044
               license: MIT License
               description: ':wrench: Build, mock, and stitch a GraphQL schema using the schema language'
-              latest_commit_date: '2021-04-21T10:26:38Z'
-              latest_commit_link: /ardatan/graphql-tools/commit/f46695413f230d01e938bb83d2fa80598f3e9c28
+              latest_commit_date: '2021-04-24T05:07:14Z'
+              latest_commit_link: /ardatan/graphql-tools/commit/0b0348b3bfe887383cc524c8b1809fc73b9b074d
               release_date: '2021-04-21T10:29:03Z'
               release_link: https://github.com/ardatan/graphql-tools/releases
               contributors_count: 269
               contributors_link: https://github.com/ardatan/graphql-tools/graphs/contributors
             repos:
               - url: https://github.com/ardatan/graphql-tools
-                stars: 4041
+                stars: 4044
             github_start_commit_data:
               start_commit_link: /ardatan/graphql-tools/commit/fe17783a6a166278195d172beb5670b045fb300d
               start_date: '2016-03-22T01:00:21Z'
@@ -853,13 +853,13 @@ landscape:
                 - name: Shell
                   value: 25
                   color: '#89e051'
-              contributions: 9;8;7;22;7;11;9;3;11;5;8;9;7;6;9;8;3;14;6;4;9;3;3;7;5;10;12;7;3;5;5;9;11;5;7;0;8;4;6;3;5;15;9;8;2;7;4;5;2;3;6;3
+              contributions: 10;6;8;22;8;9;10;2;11;5;10;8;8;6;7;8;4;13;7;4;9;2;3;9;5;11;9;7;3;6;4;10;11;4;7;0;8;6;4;4;5;18;7;6;3;7;3;5;2;3;7;3
               firstWeek: 2020-04-26Z
               stars: 688
               license: MIT License
               description: The best way to create REST APIs - Generate RESTful APIs from your GraphQL Server
-              latest_commit_date: '2021-04-21T11:44:02Z'
-              latest_commit_link: /Urigo/SOFA/commit/940d92b18761293fa82837872253fe1b41afff94
+              latest_commit_date: '2021-04-23T18:04:37Z'
+              latest_commit_link: /Urigo/SOFA/commit/e34a09434b3c58d0a651467da07f1c633b97abf6
               release_date: '2021-02-12T10:52:05Z'
               release_link: https://github.com/Urigo/sofa/releases
               contributors_count: 25
@@ -922,7 +922,7 @@ landscape:
                 - name: Shell
                   value: 1695
                   color: '#89e051'
-              contributions: 9;18;2;3;2;3;2;0;0;0;1;4;0;0;7;0;0;4;3;5;4;4;6;0;0;2;1;6;2;0;1;0;5;0;1;0;7;0;0;13;2;0;1;1;6;0;0;0;3;1;3;0
+              contributions: 9;18;2;4;1;3;2;0;0;0;1;4;0;0;7;0;0;4;3;5;4;4;6;0;0;2;1;6;2;0;1;0;5;0;1;0;7;0;0;13;2;0;1;1;6;0;0;0;3;4;0;0
               firstWeek: 2020-04-26Z
               stars: 738
               license: MIT License
@@ -983,9 +983,9 @@ landscape:
                 - name: Shell
                   value: 374
                   color: '#89e051'
-              contributions: 0;9;4;2;4;1;5;1;0;4;3;1;0;0;3;0;5;2;3;2;0;8;4;7;2;8;4;3;1;0;1;0;3;0;0;0;3;1;0;0;1;1;0;0;11;12;5;0;0;0;0;1
+              contributions: 0;9;4;2;5;2;3;1;1;3;3;1;0;0;3;0;5;4;1;2;0;10;2;7;2;10;2;3;1;0;1;0;3;0;0;0;3;1;0;0;1;1;0;0;11;12;5;0;0;0;0;1
               firstWeek: 2020-04-26Z
-              stars: 6170
+              stars: 6175
               license: MIT License
               description: Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
               latest_commit_date: '2021-04-20T17:30:28Z'
@@ -996,7 +996,7 @@ landscape:
               contributors_link: https://github.com/MichalLytek/type-graphql/graphs/contributors
             repos:
               - url: https://github.com/MichalLytek/type-graphql
-                stars: 6170
+                stars: 6175
             github_start_commit_data:
               start_commit_link: /MichalLytek/type-graphql/commit/cbeb93aa5456cf2abd61b637ef9578233422cd3b
               start_date: '2018-01-09T15:58:39Z'
@@ -1046,10 +1046,10 @@ landscape:
             github_data:
               languages:
                 - name: JavaScript
-                  value: 30601559
+                  value: 30604184
                   color: '#f1e05a'
                 - name: C++
-                  value: 29225932
+                  value: 29229974
                   color: '#f34b7d'
                 - name: Ruby
                   value: 1041531
@@ -1113,20 +1113,20 @@ landscape:
                   value: 526
                   color: '#427819'
               contributions: >-
-                20;20;36;32;34;45;50;35;28;38;40;19;26;13;16;22;17;34;21;7;17;22;16;18;19;14;28;25;11;14;13;15;18;28;24;3;20;24;32;33;22;29;14;28;27;13;50;39;36;14;33;23
+                16;30;37;23;38;59;30;37;29;49;29;22;21;13;19;21;19;32;19;13;13;19;18;18;20;12;34;19;13;12;13;14;28;24;18;3;23;24;35;27;29;24;15;33;21;28;39;48;23;17;32;26
               firstWeek: 2020-04-26Z
-              stars: 11093
+              stars: 11096
               license: Apache License 2.0
               description: >-
                 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance
                 applications using a convenient SQL-like query language or JavaScript extensions.
-              latest_commit_date: '2021-04-22T16:44:56Z'
-              latest_commit_link: /arangodb/arangodb/commit/3cdbf6ec9d02a21b0586fbf802a5bbb0da9b17b3
+              latest_commit_date: '2021-04-23T20:57:44Z'
+              latest_commit_link: /arangodb/arangodb/commit/1950268198aff1a27eca737e7cca9ec45d189ff4
               contributors_count: 135
               contributors_link: https://github.com/arangodb/arangodb/graphs/contributors
             repos:
               - url: https://github.com/arangodb/arangodb
-                stars: 11093
+                stars: 11096
             github_start_commit_data:
               start_commit_link: /arangodb/arangodb/commit/6577d5417a000c29c9ee7666cbcc3cefae6eee21
               start_date: '2011-10-26T06:42:49Z'
@@ -1136,7 +1136,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-23T00:38:59.000Z
+              latest_tweet_date: 2021-04-24T00:31:00.000Z
           - item:
             name: Dgraph
             homepage_url: https://dgraph.io/
@@ -1167,7 +1167,7 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 5832301
+                  value: 5862946
                   color: '#00ADD8'
                 - name: Shell
                   value: 135959
@@ -1192,20 +1192,20 @@ landscape:
                 - name: Smarty
                   value: 644
               contributions: >-
-                27;23;25;25;21;22;13;20;13;19;30;49;10;23;11;10;26;24;40;19;31;16;51;32;24;21;20;23;24;26;54;27;49;31;30;13;10;20;20;17;10;26;22;27;29;21;46;28;25;11;19;9
+                23;30;22;23;22;19;13;19;15;20;33;41;15;20;13;16;21;22;41;15;32;23;44;34;24;22;18;26;21;28;55;34;45;27;28;11;15;20;16;17;13;26;25;22;28;24;48;27;21;13;18;10
               firstWeek: 2020-04-26Z
-              stars: 15879
+              stars: 15888
               license: Other
               description: Native GraphQL Database with graph backend
-              latest_commit_date: '2021-04-23T03:22:29Z'
-              latest_commit_link: /dgraph-io/dgraph/commit/f896081ad6cb0d6b744f8ab067d22bb231724e98
+              latest_commit_date: '2021-04-23T15:16:03Z'
+              latest_commit_link: /dgraph-io/dgraph/commit/8b1cfdc6f3371436625a1d40c31260233b6aad3e
               release_date: '2021-04-07T17:44:38Z'
               release_link: https://github.com/dgraph-io/dgraph/releases
               contributors_count: 189
               contributors_link: https://github.com/dgraph-io/dgraph/graphs/contributors
             repos:
               - url: https://github.com/dgraph-io/dgraph
-                stars: 15879
+                stars: 15888
             github_start_commit_data:
               start_commit_link: /dgraph-io/dgraph/commit/a1ca14d187254ef331cf5fa664aa11eaec139e44
               start_date: '2015-08-25T07:15:56Z'
@@ -1216,7 +1216,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T19:42:02.000Z
+              latest_tweet_date: 2021-04-23T19:39:01.000Z
           - item:
             name: EdgeDB
             homepage_url: https://edgedb.com/
@@ -1246,7 +1246,7 @@ landscape:
             github_data:
               languages:
                 - name: Python
-                  value: 7602380
+                  value: 7638301
                   color: '#3572A5'
                 - name: Rust
                   value: 226266
@@ -1259,20 +1259,20 @@ landscape:
                 - name: Makefile
                   value: 1062
                   color: '#427819'
-              contributions: 13;7;17;1;28;18;6;5;17;7;22;19;17;13;14;9;9;18;19;15;10;9;24;16;9;21;20;25;14;18;4;12;22;18;13;6;7;13;14;19;21;53;35;20;20;18;17;11;9;8;6;17
+              contributions: 14;10;13;0;29;19;6;5;18;4;23;22;16;14;12;9;9;22;17;13;10;9;24;16;15;18;17;24;19;12;4;20;18;14;13;6;8;12;15;24;32;47;25;22;19;17;21;8;9;7;8;19
               firstWeek: 2020-04-26Z
-              stars: 4687
+              stars: 4688
               license: Apache License 2.0
               description: The next generation relational database.
-              latest_commit_date: '2021-04-23T03:56:40Z'
-              latest_commit_link: /edgedb/edgedb/commit/34bac5578414c61029138f2a6953373d7e3be1be
+              latest_commit_date: '2021-04-24T04:43:21Z'
+              latest_commit_link: /edgedb/edgedb/commit/1c68c02430a92464839f03f43c4e5ad6f7ede4e0
               release_date: '2021-03-18T19:45:56Z'
               release_link: https://github.com/edgedb/edgedb/releases
               contributors_count: 33
               contributors_link: https://github.com/edgedb/edgedb/graphs/contributors
             repos:
               - url: https://github.com/edgedb/edgedb
-                stars: 4687
+                stars: 4688
             github_start_commit_data:
               start_commit_link: /edgedb/edgedb/commit/0288121f3d64582b1b7bccbfebb5fca2b6091723
               start_date: '2008-10-01T00:16:16Z'
@@ -1316,7 +1316,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T14:54:32.000Z
+              latest_tweet_date: 2021-04-23T18:07:47.000Z
           - item:
             name: Hasura GraphQL Engine
             homepage_url: https://hasura.io
@@ -1355,7 +1355,7 @@ landscape:
                   value: 1803121
                   color: '#f1e05a'
                 - name: TypeScript
-                  value: 1603772
+                  value: 1603774
                   color: '#2b7489'
                 - name: Go
                   value: 884548
@@ -1404,20 +1404,20 @@ landscape:
                 - name: Less
                   value: 98
               contributions: >-
-                39;17;30;24;16;30;47;29;27;27;27;15;22;29;30;18;27;21;18;58;12;10;10;13;11;13;17;26;20;9;17;9;11;5;14;2;9;21;22;12;23;13;35;55;35;43;29;33;20;29;20;26
+                36;16;29;25;25;26;44;29;27;27;24;18;18;37;22;21;33;14;24;50;14;8;10;13;12;12;21;27;15;10;18;11;8;4;14;2;13;19;24;14;17;19;40;44;43;36;36;30;15;30;26;21
               firstWeek: 2020-04-26Z
-              stars: 21410
+              stars: 21426
               license: Other
               description: Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
-              latest_commit_date: '2021-04-22T11:32:55Z'
-              latest_commit_link: /hasura/graphql-engine/commit/53fc5617cfb97ce44661454e16d01bc6796677d9
+              latest_commit_date: '2021-04-23T15:02:29Z'
+              latest_commit_link: /hasura/graphql-engine/commit/3fbc4c3b630060afb3498f773acd5ce90a7d3eff
               release_date: '2021-04-21T08:54:16Z'
               release_link: https://github.com/hasura/graphql-engine/releases
               contributors_count: 335
               contributors_link: https://github.com/hasura/graphql-engine/graphs/contributors
             repos:
               - url: https://github.com/hasura/graphql-engine
-                stars: 21410
+                stars: 21426
             github_start_commit_data:
               start_commit_link: /hasura/graphql-engine/commit/f7409ef2eb21bc73f6e9e8a1dbcdda878f0d6db1
               start_date: '2018-06-24T13:40:48Z'
@@ -1427,7 +1427,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T19:39:00.000Z
+              latest_tweet_date: 2021-04-23T19:30:00.000Z
           - item:
             name: Neo4j
             homepage_url: https://neo4j.com/
@@ -1488,9 +1488,9 @@ landscape:
                 - name: HTML
                   value: 146
                   color: '#e34c26'
-              contributions: 97;88;93;65;69;89;64;64;31;74;47;50;42;22;36;38;50;39;62;49;40;36;72;54;70;48;25;9;6;8;9;10;13;11;9;0;4;9;10;11;5;3;11;8;6;11;7;7;10;6;3;0
+              contributions: 86;99;99;58;75;79;73;48;43;76;47;45;38;21;36;45;52;37;58;46;38;49;63;71;52;50;20;8;6;7;11;10;14;10;7;0;5;11;10;10;3;6;9;7;9;9;7;7;9;7;2;0
               firstWeek: 2020-04-26Z
-              stars: 8826
+              stars: 8828
               license: Other
               description: Graphs for Everyone
               latest_commit_date: '2021-04-15T15:05:48Z'
@@ -1501,7 +1501,7 @@ landscape:
               contributors_link: https://github.com/neo4j/neo4j/graphs/contributors
             repos:
               - url: https://github.com/neo4j/neo4j
-                stars: 8826
+                stars: 8828
             github_start_commit_data:
               start_commit_link: /neo4j/neo4j/commit/6a945ab06a928bbd0f93dc56af279ee35107d7c3
               start_date: '2007-05-24T01:34:45Z'
@@ -1512,7 +1512,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-23T01:04:01.000Z
+              latest_tweet_date: 2021-04-24T05:09:01.000Z
           - item:
             name: Weaviate
             homepage_url: https://www.semi.technology/developers/weaviate/current/
@@ -1559,20 +1559,20 @@ landscape:
                   value: 861
                   color: '#f1e05a'
               contributions: >-
-                12;5;0;0;52;16;31;66;23;16;19;47;18;17;8;7;19;14;21;14;51;14;21;32;27;12;8;12;29;31;30;33;28;39;17;13;103;52;28;9;32;15;26;45;21;21;10;18;9;6;19;20
+                11;5;0;0;64;4;31;72;24;15;29;34;20;16;5;8;17;21;18;10;53;13;20;33;29;9;10;13;31;36;31;25;25;46;10;13;115;48;22;13;26;29;16;47;24;13;9;18;9;10;21;15
               firstWeek: 2020-04-26Z
-              stars: 1160
+              stars: 1164
               license: BSD 3-Clause "New" or "Revised" License
               description: Weaviate is a cloud-native, modular, real-time vector search engine
-              latest_commit_date: '2021-04-22T15:12:04Z'
-              latest_commit_link: /semi-technologies/weaviate/commit/d797ce56a13c8ec8624c9c1601d0aebb02f1d5af
-              release_date: '2021-03-25T09:52:35Z'
+              latest_commit_date: '2021-04-23T09:02:39Z'
+              latest_commit_link: /semi-technologies/weaviate/commit/2d1e78006dae7d007099712323d1ef5169a55c0e
+              release_date: '2021-04-23T09:13:05Z'
               release_link: https://github.com/semi-technologies/weaviate/releases
               contributors_count: 20
               contributors_link: https://github.com/semi-technologies/weaviate/graphs/contributors
             repos:
               - url: https://github.com/semi-technologies/weaviate
-                stars: 1160
+                stars: 1164
             github_start_commit_data:
               start_commit_link: /semi-technologies/weaviate/commit/4d94274315f28433aa9bf2abe7f75be1f4cdbca3
               start_date: '2016-03-30T15:03:18Z'
@@ -1615,21 +1615,21 @@ landscape:
             github_data:
               languages:
                 - name: C
-                  value: 38094485
+                  value: 38095412
                   color: '#555555'
                 - name: C++
-                  value: 26128152
+                  value: 26128261
                   color: '#f34b7d'
                 - name: Java
-                  value: 7636148
+                  value: 7661592
                   color: '#b07219'
                 - name: PLpgSQL
                   value: 3412983
                 - name: JavaScript
-                  value: 1344054
+                  value: 1348123
                   color: '#f1e05a'
                 - name: Python
-                  value: 1270296
+                  value: 1272323
                   color: '#3572A5'
                 - name: Yacc
                   value: 917656
@@ -1644,7 +1644,7 @@ landscape:
                   value: 335794
                   color: '#427819'
                 - name: TypeScript
-                  value: 266526
+                  value: 268566
                   color: '#2b7489'
                 - name: CMake
                   value: 248847
@@ -1662,7 +1662,7 @@ landscape:
                   value: 60459
                   color: '#EB8CEB'
                 - name: Scala
-                  value: 41511
+                  value: 41565
                   color: '#c22d40'
                 - name: HTML
                   value: 36581
@@ -1698,16 +1698,16 @@ landscape:
                   value: 972
                   color: '#384d54'
               contributions: >-
-                48;38;35;36;53;46;35;34;37;40;39;54;44;49;45;36;22;49;26;25;44;58;59;61;57;58;50;32;48;37;29;31;39;44;34;15;20;32;59;65;45;51;32;48;62;71;67;44;40;49;41;36
+                50;34;34;37;61;37;34;37;37;38;46;48;46;51;46;28;28;43;27;28;46;59;66;53;56;59;49;32;51;37;21;32;45;43;27;14;21;42;74;52;43;43;37;55;66;65;62;44;47;46;34;35
               firstWeek: 2020-04-26Z
               stars: 5105
               license: Other
               description: The high-performance distributed SQL database for global, internet-scale apps.
-              latest_commit_date: '2021-04-23T01:52:24Z'
-              latest_commit_link: /yugabyte/yugabyte-db/commit/d3289fce610f89872610dadbc15233f404718fe3
+              latest_commit_date: '2021-04-24T03:45:42Z'
+              latest_commit_link: /yugabyte/yugabyte-db/commit/9a962aff2deccd2c765b47584e9cfce49fb4c96e
               release_date: '2021-03-17T05:19:24Z'
               release_link: https://github.com/YugaByte/yugabyte-db/releases
-              contributors_count: 212
+              contributors_count: 213
               contributors_link: https://github.com/YugaByte/yugabyte-db/graphs/contributors
             repos:
               - url: https://github.com/YugaByte/yugabyte-db
@@ -1722,7 +1722,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T22:20:48.000Z
+              latest_tweet_date: 2021-04-24T02:00:04.000Z
   - category:
     name: Services
     subcategories:
@@ -1766,7 +1766,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T12:59:59.000Z
+              latest_tweet_date: 2021-04-23T13:01:05.000Z
           - item:
             name: Apollo Server
             homepage_url: https://www.apollographql.com/
@@ -1811,9 +1811,9 @@ landscape:
                 - name: Shell
                   value: 817
                   color: '#89e051'
-              contributions: 33;50;74;52;21;17;35;50;22;40;13;19;14;13;10;15;7;11;28;5;38;37;3;27;7;9;12;10;11;3;10;5;42;7;6;12;2;16;6;7;9;31;8;14;25;33;12;16;15;12;14;12
+              contributions: 34;77;50;48;21;19;44;41;21;39;16;20;12;12;17;7;10;14;22;17;36;27;6;24;7;9;14;8;11;8;5;5;42;7;6;12;2;16;7;9;13;28;8;14;23;32;15;19;8;19;8;11
               firstWeek: 2020-04-26Z
-              stars: 11310
+              stars: 11316
               license: MIT License
               description: 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
               latest_commit_date: '2021-04-21T18:11:42Z'
@@ -1824,7 +1824,7 @@ landscape:
               contributors_link: https://github.com/apollographql/apollo-server/graphs/contributors
             repos:
               - url: https://github.com/apollographql/apollo-server
-                stars: 11310
+                stars: 11316
             github_start_commit_data:
               start_commit_link: /apollographql/apollo-server/commit/a850c95c7c077c9dd5bafc056d16e7681b01a6f9
               start_date: '2016-04-21T09:26:01Z'
@@ -1835,7 +1835,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T18:17:06.000Z
+              latest_tweet_date: 2021-04-23T14:45:12.000Z
           - item:
             name: AWS AppSync
             homepage_url: https://aws.amazon.com/appsync/
@@ -1880,7 +1880,7 @@ landscape:
                 - Web Development
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1668143251456
+              market_cap: 1711158591488
               effective_ticker: AMZN
             image_data:
               fileName: aws-app-sync.svg
@@ -1889,7 +1889,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-23T00:16:19.000Z
+              latest_tweet_date: 2021-04-23T17:12:42.000Z
           - item:
             name: GraphQL Inspector Service
             homepage_url: https://graphql-inspector.com
@@ -2002,7 +2002,7 @@ landscape:
                 - Travel Accommodations
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 103865942016
+              market_cap: 103759077376
               effective_ticker: ABNB
             image_data:
               fileName: airbnb-member.svg
@@ -2011,7 +2011,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-21T20:07:15.000Z
+              latest_tweet_date: 2021-04-23T19:27:40.000Z
           - item:
             name: Amazon Web Services (member)
             homepage_url: https://aws.amazon.com/
@@ -2056,7 +2056,7 @@ landscape:
                 - Web Development
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1668143251456
+              market_cap: 1711158591488
               effective_ticker: AMZN
             image_data:
               fileName: amazon-web-services-member.svg
@@ -2065,7 +2065,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-23T00:16:19.000Z
+              latest_tweet_date: 2021-04-23T17:12:42.000Z
           - item:
             name: Apollo GraphQL (member)
             homepage_url: https://www.apollographql.com/
@@ -2105,7 +2105,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T18:17:06.000Z
+              latest_tweet_date: 2021-04-23T14:45:12.000Z
           - item:
             name: Dgraph Labs (member)
             homepage_url: https://dgraph.io/
@@ -2139,7 +2139,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T19:42:02.000Z
+              latest_tweet_date: 2021-04-23T19:39:01.000Z
           - item:
             name: Elementl (member)
             homepage_url: https://www.elementl.com/
@@ -2264,7 +2264,7 @@ landscape:
                 - Travel
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 26370895720
+              market_cap: 25048200694
               effective_ticker: EXPE.VI
             image_data:
               fileName: expedia-group-member.svg
@@ -2498,7 +2498,7 @@ landscape:
                 - Social Network
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 842490380288
+              market_cap: 869871190016
               effective_ticker: FB
             image_data:
               fileName: facebook-member.svg
@@ -2507,7 +2507,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T22:13:47.000Z
+              latest_tweet_date: 2021-04-23T21:12:23.000Z
           - item:
             name: Fauna (member)
             homepage_url: https://fauna.com/
@@ -2542,7 +2542,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T14:54:32.000Z
+              latest_tweet_date: 2021-04-23T18:07:47.000Z
           - item:
             name: Gatsby (member)
             homepage_url: https://www.gatsbyjs.com
@@ -2577,7 +2577,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T18:45:12.000Z
+              latest_tweet_date: 2021-04-23T20:29:02.000Z
           - item:
             name: Goldman Sachs (member)
             homepage_url: https://www.goldmansachs.com/
@@ -2662,7 +2662,7 @@ landscape:
                 - Venture Capital
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 114064179200
+              market_cap: 114064367616
               effective_ticker: GS
             image_data:
               fileName: goldman-sachs-member.svg
@@ -2671,7 +2671,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T21:00:39.000Z
+              latest_tweet_date: 2021-04-23T20:00:00.000Z
           - item:
             name: Hasura (member)
             homepage_url: https://hasura.io
@@ -2707,7 +2707,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T19:39:00.000Z
+              latest_tweet_date: 2021-04-23T19:30:00.000Z
           - item:
             name: IBM (member)
             homepage_url: https://www.ibm.com/us-en
@@ -3147,7 +3147,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 126246952960
+              market_cap: 129319600128
               effective_ticker: IBM
             image_data:
               fileName: ibm-member.svg
@@ -3156,7 +3156,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T16:45:56.000Z
+              latest_tweet_date: 2021-04-24T00:46:21.000Z
           - item:
             name: Intuit (member)
             homepage_url: https://www.intuit.com/
@@ -3259,7 +3259,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 112319683983
+              market_cap: 112984274089
               effective_ticker: INTU.VI
             image_data:
               fileName: intuit-member.svg
@@ -3268,7 +3268,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T22:41:58.000Z
+              latest_tweet_date: 2021-04-23T18:25:27.000Z
           - item:
             name: Neo4j (member)
             homepage_url: https://neo4j.com/
@@ -3303,7 +3303,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-23T01:04:01.000Z
+              latest_tweet_date: 2021-04-24T05:09:01.000Z
           - item:
             name: PayPal (member)
             homepage_url: https://www.paypal.com/us/home
@@ -3384,7 +3384,7 @@ landscape:
                 - Transaction Processing
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 307973160960
+              market_cap: 315508916224
               effective_ticker: PYPL
             image_data:
               fileName: pay-pal-member.svg
@@ -3427,7 +3427,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T20:41:20.000Z
+              latest_tweet_date: 2021-04-23T16:36:25.000Z
           - item:
             name: Salsify (member)
             homepage_url: https://www.salsify.com
@@ -3521,7 +3521,7 @@ landscape:
                 - SaaS
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 133224218624
+              market_cap: 139044880384
               effective_ticker: SHOP
             image_data:
               fileName: shopify-member.svg
@@ -3530,7 +3530,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T22:29:20.000Z
+              latest_tweet_date: 2021-04-24T00:29:23.000Z
           - item:
             name: The Guild (member)
             homepage_url: https://the-guild.dev/
@@ -3772,7 +3772,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T23:15:03.000Z
+              latest_tweet_date: 2021-04-24T01:47:59.000Z
           - item:
             name: 99designs (adopter)
             homepage_url: https://99designs.hk
@@ -3812,7 +3812,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-21T16:39:03.000Z
+              latest_tweet_date: 2021-04-23T17:21:04.000Z
           - item:
             name: Adayroi (adopter)
             homepage_url: https://www.adayroi.com
@@ -3952,7 +3952,7 @@ landscape:
                 - Travel Accommodations
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 103865942016
+              market_cap: 103759077376
               effective_ticker: ABNB
             image_data:
               fileName: airbnb-adopter.svg
@@ -3961,7 +3961,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-21T20:07:15.000Z
+              latest_tweet_date: 2021-04-23T19:27:40.000Z
           - item:
             name: Alembic (adopter)
             homepage_url: https://alembic.com.au
@@ -4032,7 +4032,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T20:00:01.000Z
+              latest_tweet_date: 2021-04-23T21:26:35.000Z
           - item:
             name: AlphaSights (adopter)
             homepage_url: https://www.alphasights.com/
@@ -4101,7 +4101,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T21:40:02.000Z
+              latest_tweet_date: 2021-04-24T05:00:05.000Z
           - item:
             name: Ants (adopter)
             homepage_url: https://ants.vn/
@@ -4167,7 +4167,7 @@ landscape:
                 - SaaS
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1833108908
+              market_cap: 1833210870
               effective_ticker: 4180.T
             image_data:
               fileName: appier-adopter.svg
@@ -4211,7 +4211,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-23T00:38:59.000Z
+              latest_tweet_date: 2021-04-24T00:31:00.000Z
           - item:
             name: Artsy (adopter)
             homepage_url: https://artsy.github.io/
@@ -4352,7 +4352,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 57126662144
+              market_cap: 57246826496
               effective_ticker: TEAM
             image_data:
               fileName: atlassian-adopter.svg
@@ -4361,7 +4361,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T21:31:43.000Z
+              latest_tweet_date: 2021-04-23T22:30:52.000Z
           - item:
             name: Attendify (adopter)
             homepage_url: https://attendify.com/
@@ -4438,7 +4438,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T19:08:54.000Z
+              latest_tweet_date: 2021-04-23T22:19:22.000Z
           - item:
             name: AutoGuru (adopter)
             homepage_url: https://www.autoguru.com.au/
@@ -4569,7 +4569,7 @@ landscape:
                 - Payments
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 307973160960
+              market_cap: 315508916224
               effective_ticker: PYPL
             image_data:
               fileName: braintree-adopter.svg
@@ -4660,7 +4660,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T19:20:04.000Z
+              latest_tweet_date: 2021-04-23T18:02:12.000Z
           - item:
             name: Cheddar (adopter)
             homepage_url: https://cheddar.com
@@ -4700,7 +4700,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-23T02:49:00.000Z
+              latest_tweet_date: 2021-04-24T02:08:00.000Z
           - item:
             name: Cherre (adopter)
             homepage_url: https://cherre.com
@@ -4736,7 +4736,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T20:42:01.000Z
+              latest_tweet_date: 2021-04-23T19:07:58.000Z
           - item:
             name: CircleHD (adopter)
             homepage_url: https://www.circlehd.com/
@@ -4834,7 +4834,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-21T18:09:36.000Z
+              latest_tweet_date: 2021-04-23T14:01:05.000Z
           - item:
             name: Colectica (adopter)
             homepage_url: https://www.colectica.com/
@@ -4903,7 +4903,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T13:01:13.000Z
+              latest_tweet_date: 2021-04-23T13:00:14.000Z
           - item:
             name: Compara (adopter)
             homepage_url: https://www.comparaonline.com/
@@ -5033,7 +5033,7 @@ landscape:
                 - Internet
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 5752767488
+              market_cap: 5726045696
               effective_ticker: COUR
             image_data:
               fileName: coursera-adopter.svg
@@ -5042,7 +5042,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T16:15:34.000Z
+              latest_tweet_date: 2021-04-23T18:05:49.000Z
           - item:
             name: Craft CMS (adopter)
             homepage_url: https://craftcms.com/
@@ -5070,7 +5070,7 @@ landscape:
             github_data:
               languages:
                 - name: PHP
-                  value: 8170399
+                  value: 8170543
                   color: '#4F5D95'
                 - name: JavaScript
                   value: 1363628
@@ -5096,13 +5096,13 @@ landscape:
                   value: 305
                   color: '#89e051'
               contributions: >-
-                89;83;58;107;80;58;52;48;48;55;50;132;102;97;152;265;119;86;90;147;218;109;76;228;116;46;40;78;23;101;56;121;153;134;94;21;99;126;119;527;95;191;141;100;129;64;33;59;22;11;33;15
+                72;69;63;100;92;47;59;48;38;70;43;134;98;103;220;244;73;79;150;116;195;96;86;233;120;31;48;65;30;106;48;151;144;120;82;28;99;143;119;517;166;122;132;118;115;57;30;62;22;13;31;15
               firstWeek: 2020-04-26Z
               stars: 2549
               license: Other
               description: Craft is a flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
-              latest_commit_date: '2021-04-22T19:36:32Z'
-              latest_commit_link: /craftcms/cms/commit/77fc1c8471b732143ce58565ee500e52033995bb
+              latest_commit_date: '2021-04-23T21:45:07Z'
+              latest_commit_link: /craftcms/cms/commit/d5b77de43eab00e953134c81565e235e8b939486
               contributors_count: 220
               contributors_link: https://github.com/craftcms/cms/graphs/contributors
             repos:
@@ -5170,7 +5170,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T22:02:41.000Z
+              latest_tweet_date: 2021-04-23T23:20:35.000Z
           - item:
             name: Curio (adopter)
             homepage_url: https://curio.org/
@@ -5347,7 +5347,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T14:56:14.000Z
+              latest_tweet_date: 2021-04-23T18:32:08.000Z
           - item:
             name: DueDil (adopter)
             homepage_url: https://www.duedil.com
@@ -5382,7 +5382,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T14:45:00.000Z
+              latest_tweet_date: 2021-04-23T14:05:00.000Z
           - item:
             name: Easy Carros (adopter)
             homepage_url: http://www.easycarros.com/
@@ -5742,7 +5742,7 @@ landscape:
                 - Social Network
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 842490380288
+              market_cap: 869871190016
               effective_ticker: FB
             image_data:
               fileName: facebook-adopter.svg
@@ -5751,7 +5751,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T22:13:47.000Z
+              latest_tweet_date: 2021-04-23T21:12:23.000Z
           - item:
             name: FAIR Consulting Group (adopter)
             homepage_url: https://faircg.com/
@@ -5885,7 +5885,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-20T23:32:45.000Z
+              latest_tweet_date: 2021-04-23T18:53:12.000Z
           - item:
             name: Gentux (adopter)
             homepage_url: https://www.generationtux.com/
@@ -6006,7 +6006,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1939632816128
+              market_cap: 1995765710848
               effective_ticker: MSFT
             image_data:
               fileName: git-hub-adopter.svg
@@ -6015,7 +6015,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-23T04:00:11.000Z
+              latest_tweet_date: 2021-04-23T18:11:42.000Z
           - item:
             name: Goalify (adopter)
             homepage_url: https://goalify.plus/
@@ -6081,7 +6081,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T15:50:59.000Z
+              latest_tweet_date: 2021-04-23T13:00:35.000Z
           - item:
             name: GraphCool (adopter)
             homepage_url: https://www.graph.cool
@@ -6269,7 +6269,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T22:44:55.000Z
+              latest_tweet_date: 2021-04-23T16:51:50.000Z
           - item:
             name: Instana (adopter)
             homepage_url: https://www.instana.com/
@@ -6310,7 +6310,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T19:43:34.000Z
+              latest_tweet_date: 2021-04-23T16:07:58.000Z
           - item:
             name: Intuit (adopter)
             homepage_url: https://www.intuit.com/
@@ -6414,7 +6414,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 112319683983
+              market_cap: 112984274089
               effective_ticker: INTU.VI
             image_data:
               fileName: intuit-adopter.svg
@@ -6423,7 +6423,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T22:41:58.000Z
+              latest_tweet_date: 2021-04-23T18:25:27.000Z
           - item:
             name: KLM (adopter)
             homepage_url: https://www.klm.us
@@ -6455,7 +6455,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-23T04:29:28.000Z
+              latest_tweet_date: 2021-04-24T02:01:07.000Z
           - item:
             name: Kyma (adopter)
             homepage_url: https://kyma-project.io/
@@ -6598,7 +6598,7 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 6462829
+                  value: 6503855
                   color: '#00ADD8'
                 - name: Shell
                   value: 223504
@@ -6611,28 +6611,28 @@ landscape:
                 - name: Smarty
                   value: 69640
                 - name: Dockerfile
-                  value: 55211
+                  value: 54591
                   color: '#384d54'
                 - name: Makefile
                   value: 45857
                   color: '#427819'
+                - name: HTML
+                  value: 7774
+                  color: '#e34c26'
                 - name: Python
                   value: 6862
                   color: '#3572A5'
-                - name: HTML
-                  value: 5878
-                  color: '#e34c26'
                 - name: CSS
-                  value: 1100
+                  value: 1152
                   color: '#563d7c'
               contributions: >-
-                69;53;45;45;50;55;39;55;40;26;27;26;26;28;21;29;24;23;23;29;28;30;27;35;27;25;22;50;32;29;33;45;35;31;12;10;12;29;46;26;22;35;62;50;28;36;36;29;17;13;33;19
+                55;61;49;33;54;59;42;55;30;30;22;29;25;29;18;28;27;21;23;37;19;39;22;32;29;27;31;42;28;36;27;50;36;25;8;10;15;43;30;29;21;50;60;39;26;40;38;21;18;18;27;24
               firstWeek: 2020-04-26Z
               stars: 1138
               license: Apache License 2.0
               description: A flexible and easy way to connect and extend enterprise applications in a cloud-native world
-              latest_commit_date: '2021-04-22T12:41:41Z'
-              latest_commit_link: /kyma-project/kyma/commit/42aded7dd8c671577fb5c0aee322e6e9630896da
+              latest_commit_date: '2021-04-23T14:21:58Z'
+              latest_commit_link: /kyma-project/kyma/commit/3cfaf33c2c0b8f45268762ba6fe2e5521e5863b3
               release_date: '2021-04-20T11:59:15Z'
               release_link: https://github.com/kyma-project/kyma/releases
               contributors_count: 145
@@ -6644,7 +6644,7 @@ landscape:
               start_commit_link: /kyma-project/kyma/commit/c4e06fbb6c180bffec61adf3c296d826c1465cd9
               start_date: '2018-07-24T13:22:03Z'
             yahoo_finance_data:
-              market_cap: 167793623040
+              market_cap: 165853429760
               effective_ticker: SAP
             image_data:
               fileName: kyma-adopter.svg
@@ -6692,7 +6692,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T20:44:58.000Z
+              latest_tweet_date: 2021-04-23T21:39:34.000Z
           - item:
             name: Lyft (adopter)
             homepage_url: https://www.lyft.com
@@ -6744,7 +6744,7 @@ landscape:
                 - Transportation
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 20064790528
+              market_cap: 20863596544
               effective_ticker: LYFT
             image_data:
               fileName: lyft-adopter.svg
@@ -6753,7 +6753,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-23T05:16:44.000Z
+              latest_tweet_date: 2021-04-23T16:45:16.000Z
           - item:
             name: Magento (adopter)
             homepage_url: https://www.magento.com
@@ -6787,7 +6787,7 @@ landscape:
                 - Open Source
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 242484625408
+              market_cap: 249025904640
               effective_ticker: ADBE
             image_data:
               fileName: magento-adopter.svg
@@ -6881,7 +6881,7 @@ landscape:
                 - News
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 249187926016
+              market_cap: 250309836800
               effective_ticker: CMCSA
             image_data:
               fileName: nbc-news-digital-adopter.svg
@@ -6890,7 +6890,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-23T02:01:58.000Z
+              latest_tweet_date: 2021-04-23T16:44:41.000Z
           - item:
             name: New Relic (adopter)
             homepage_url: https://www.newrelic.com/
@@ -6938,7 +6938,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 4041275904
+              market_cap: 3949720320
               effective_ticker: NEWR
             image_data:
               fileName: new-relic-adopter.svg
@@ -6947,7 +6947,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T23:27:09.000Z
+              latest_tweet_date: 2021-04-23T22:17:01.000Z
           - item:
             name: PayPal (adopter)
             homepage_url: https://www.paypal.com/us/home
@@ -7028,7 +7028,7 @@ landscape:
                 - Transaction Processing
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 307973160960
+              market_cap: 315508916224
               effective_ticker: PYPL
             image_data:
               fileName: pay-pal-adopter.svg
@@ -7101,7 +7101,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 46067695616
+              market_cap: 46067707904
               effective_ticker: PINS
             image_data:
               fileName: pinterest-adopter.svg
@@ -7176,7 +7176,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T19:11:49.000Z
+              latest_tweet_date: 2021-04-23T21:53:25.000Z
           - item:
             name: Rakuten
             homepage_url: https://www.rakuten.com/
@@ -7283,7 +7283,7 @@ landscape:
                 - Payments
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 18655055033
+              market_cap: 18656050150
               effective_ticker: 4755.T
             image_data:
               fileName: rakuten.svg
@@ -7292,7 +7292,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T23:26:40.000Z
+              latest_tweet_date: 2021-04-24T04:34:37.000Z
           - item:
             name: ResearchGate (adopter)
             homepage_url: https://www.researchgate.net/
@@ -7532,7 +7532,7 @@ landscape:
                 - SaaS
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 133224218624
+              market_cap: 139044880384
               effective_ticker: SHOP
             image_data:
               fileName: shopify-adopter.svg
@@ -7541,7 +7541,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T22:29:20.000Z
+              latest_tweet_date: 2021-04-24T00:29:23.000Z
           - item:
             name: Stackshare (adopter)
             homepage_url: https://stackshare.io
@@ -7621,7 +7621,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-23T00:57:40.000Z
+              latest_tweet_date: 2021-04-23T20:14:07.000Z
           - item:
             name: Supply (adopter)
             homepage_url: https://www.ferguson.com/content/industry-solutions/residential-plumbing/supply-transition
@@ -7686,7 +7686,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T16:00:48.000Z
+              latest_tweet_date: 2021-04-23T09:13:10.000Z
           - item:
             name: The Guild (adopter)
             homepage_url: https://the-guild.dev/
@@ -7775,7 +7775,7 @@ landscape:
                 - Publishing
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 8016492544
+              market_cap: 8016486400
               effective_ticker: NYT
             image_data:
               fileName: the-new-york-times-adopter.svg
@@ -7783,7 +7783,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-23T05:27:02.000Z
+              latest_tweet_date: 2021-04-24T05:30:08.000Z
           - item:
             name: Travaux.com (adopter)
             homepage_url: https://www.travaux.com/
@@ -8048,7 +8048,7 @@ landscape:
                 - Retail
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 31920672768
+              market_cap: 33077575680
               effective_ticker: W
             image_data:
               fileName: wayfair-adopter.svg
@@ -8057,7 +8057,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T21:41:40.000Z
+              latest_tweet_date: 2021-04-23T21:25:45.000Z
           - item:
             name: Werkspot (adopter)
             homepage_url: https://www.werkspot.nl/
@@ -8176,7 +8176,7 @@ landscape:
                 - Real Estate
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 2070651392
+              market_cap: 2136723200
               effective_ticker: INT
             image_data:
               fileName: world-fuel-services.svg
@@ -8233,7 +8233,7 @@ landscape:
                 - Search Engine
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 2932781568
+              market_cap: 2932781056
               effective_ticker: YELP
             image_data:
               fileName: yelp.svg
@@ -8242,8 +8242,8 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-22T21:21:07.000Z
+              latest_tweet_date: 2021-04-23T22:30:38.000Z
 twitter_options:
   count: 30
   since_id: '1382792180322988035'
-updated_at: 2021-04-23T05:38:59.764Z
+updated_at: 2021-04-24T05:37:57.811Z
