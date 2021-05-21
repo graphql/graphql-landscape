@@ -2114,6 +2114,84 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-05-19T21:36:44.000Z
           - item:
+            name: Atlassian (member)
+            homepage_url: https://www.atlassian.com/
+            logo: atlassian.svg
+            crunchbase: https://www.crunchbase.com/organization/atlassian
+            crunchbase_data:
+              name: Atlassian
+              description: Atlassian provides collaboration, development, and issue tracking software for teams.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://www.atlassian.com/
+              city: Sydney
+              region: New South Wales
+              country: Australia
+              twitter: http://twitter.com/atlassian
+              linkedin: https://www.linkedin.com/company/atlassian/
+              acquisitions:
+                - date: '2010-09-29'
+                  acquiree: Bitbucket
+                - date: '2011-10-06'
+                  acquiree: SourceTree
+                - date: '2012-03-07'
+                  acquiree: HipChat
+                - date: '2014-09-11'
+                  acquiree: Wikidocs
+                - date: '2014-09-12'
+                  acquiree: doctape
+                  price: 7500000
+                - date: '2015-04-21'
+                  acquiree: BlueJimp
+                - date: '2015-05-06'
+                  acquiree: Hall
+                  price: 20000000
+                - date: '2016-07-14'
+                  acquiree: StatusPage
+                - date: '2017-01-09'
+                  acquiree: Trello
+                  price: 425000000
+                - date: '2018-09-04'
+                  acquiree: OpsGenie
+                  price: 295000000
+                - date: '2019-03-19'
+                  acquiree: AgileCraft
+                  price: 166000000
+                - date: '2019-04-10'
+                  acquiree: Good Software
+                - date: '2019-10-17'
+                  acquiree: Code Barrel
+                - date: '2020-05-12'
+                  acquiree: Halp
+                - date: '2020-07-30'
+                  acquiree: Mindville
+                - date: '2021-02-26'
+                  acquiree: Chartio
+                - date: '2021-04-19'
+                  acquiree: ThinkTilt
+              parents: []
+              ticker: TEAM
+              funding: 210000000
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Collaboration
+                - Enterprise Software
+                - SaaS
+                - Software
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 54058401792
+              effective_ticker: TEAM
+            image_data:
+              fileName: atlassian-member.svg
+              hash: 0GdE0AJnlRJU0ES7TiZlZ3C8p42QYzveYk32uLDCwZQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-05-19T21:22:56.000Z
+          - item:
             name: Dgraph Labs (member)
             homepage_url: https://dgraph.io/
             logo: dgraph-labs.svg
