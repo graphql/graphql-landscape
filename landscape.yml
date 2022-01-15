@@ -28,6 +28,12 @@ landscape:
             logo: apollo-cli.svg
             crunchbase: https://www.crunchbase.com/organization/meteor
           - item:
+            name: Envelop
+            homepage_url: https://www.envelop.dev
+            repo_url: https://github.com/dotansimha/envelop
+            logo: envelop.svg
+            crunchbase: https://www.crunchbase.com/organization/the-guild-9777
+          - item:
             name: GraphiQL
             homepage_url: https://github.com/graphql/graphiql
             project: foundationproject
@@ -51,6 +57,12 @@ landscape:
             homepage_url: https://graphql-config.com/introduction
             repo_url: https://github.com/kamilkisiela/graphql-config
             logo: graphql-config.svg
+            crunchbase: https://www.crunchbase.com/organization/the-guild-9777
+          - item:
+            name: GraphQL Helix
+            homepage_url: https://www.graphql-helix.com
+            repo_url: https://github.com/contra/graphql-helix
+            logo: graphql-helix.svg
             crunchbase: https://www.crunchbase.com/organization/the-guild-9777
           - item:
             name: GraphQL Inspector
@@ -77,6 +89,12 @@ landscape:
             logo: graphql-scalars.svg
             crunchbase: https://www.crunchbase.com/organization/the-guild-9777
           - item:
+            name: GraphQL Shield
+            homepage_url: https://www.graphql-shield.com
+            repo_url: https://github.com/maticzav/graphql-shield
+            logo: graphql-shield.svg
+            crunchbase: https://www.crunchbase.com/organization/the-guild-9777
+          - item:
             name: GraphQL Tools (by The Guild)
             homepage_url: https://www.graphql-tools.com
             repo_url: https://github.com/ardatan/graphql-tools
@@ -87,6 +105,12 @@ landscape:
             homepage_url: https://sofa-api.com
             repo_url: https://github.com/Urigo/sofa
             logo: sofa.svg
+            crunchbase: https://www.crunchbase.com/organization/the-guild-9777
+          - item:
+            name: SwiftGraphQL
+            homepage_url: https://www.swift-graphql.com
+            repo_url: https://github.com/maticzav/swift-graphql
+            logo: swiftgraphql.svg
             crunchbase: https://www.crunchbase.com/organization/the-guild-9777
           - item:
             name: Tartiflette
@@ -100,30 +124,6 @@ landscape:
             repo_url: https://github.com/MichalLytek/type-graphql
             logo: type-graphql.svg
             crunchbase: https://www.crunchbase.com/organization/typegraphql
-          - item:
-            name: GraphQL Helix
-            homepage_url: https://www.graphql-helix.com
-            repo_url: https://github.com/contra/graphql-helix
-            logo: graphql-helix.svg
-            crunchbase: https://www.crunchbase.com/organization/the-guild-9777
-          - item:
-            name: Envelop
-            homepage_url: https://www.envelop.dev
-            repo_url: https://github.com/dotansimha/envelop
-            logo: envelop.svg
-            crunchbase: https://www.crunchbase.com/organization/the-guild-9777
-          - item:
-            name: GraphQL Shield
-            homepage_url: https://www.graphql-shield.com
-            repo_url: https://github.com/maticzav/graphql-shield
-            logo: graphql-shield.svg
-            crunchbase: https://www.crunchbase.com/organization/the-guild-9777
-          - item:
-            name: SwiftGraphQL
-            homepage_url: https://www.swift-graphql.com
-            repo_url: https://github.com/maticzav/swift-graphql
-            logo: swiftgraphql.svg
-            crunchbase: https://www.crunchbase.com/organization/the-guild-9777
   - category:
     name: Databases
     subcategories:
@@ -205,16 +205,16 @@ landscape:
             logo: graphql-inspector.svg
             crunchbase: https://www.crunchbase.com/organization/the-guild-9777
           - item:
+            name: Hive
+            homepage_url: https://graphql-hive.com/
+            logo: hive.svg
+            crunchbase: https://www.crunchbase.com/organization/the-guild-9777
+          - item:
             name: Tyk
             homepage_url: https://tyk.io
             repo_url: https://github.com/TykTechnologies/tyk
             logo: tyk.svg
             crunchbase: https://www.crunchbase.com/organization/tyk-io
-          - item:
-            name: Hive
-            homepage_url: https://graphql-hive.com/
-            logo: hive.svg
-            crunchbase: https://www.crunchbase.com/organization/the-guild-9777
   - category:
     name: GraphQL Foundation Member
     subcategories:
