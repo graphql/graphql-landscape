@@ -2961,9 +2961,11 @@ landscape:
         items:
           - item:
             name: Airbnb (member)
-            homepage_url: https://www.airbnb.com
+            homepage_url: https://airbnb.com/
             logo: airbnb.svg
+            twitter: https://twitter.com/Airbnb
             crunchbase: https://www.crunchbase.com/organization/airbnb
+            joined: '2021-02-04'
             crunchbase_data:
               name: Airbnb
               description: Airbnb is an online community marketplace for people to list, discover, and book accommodations through mobile phones or the internet.
@@ -3047,11 +3049,12 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-06-02T15:29:45.000Z
+              latest_tweet_date: 2022-06-12T05:41:45.000Z
           - item:
-            name: Amazon Web Services (member)
+            name: Amazon Web Services, Inc. (member)
             homepage_url: https://aws.amazon.com/
-            logo: amazon-web-services.svg
+            logo: amazon_web_services_inc.svg
+            twitter: https://twitter.com/amazon
             crunchbase: https://www.crunchbase.com/organization/amazon-web-services
             crunchbase_data:
               name: Amazon Web Services
@@ -3099,18 +3102,19 @@ landscape:
               market_cap: 1276999106560
               effective_ticker: AMZN
             image_data:
-              fileName: amazon-web-services-member.svg
-              hash: SAaCDzEl11DXhCLfuUg3THlbYtVlQILQOhezT64IiU8=
+              fileName: amazon-web-services-inc-member.svg
+              hash: yKCSHtbw8NJMXVLgirPT0pRxjZIirKRiSKa9UJupouo=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-06-03T00:02:04.000Z
+              latest_tweet_date: 2022-06-14T07:28:09.000Z
           - item:
             name: Apollo GraphQL (member)
-            homepage_url: https://www.apollographql.com/docs/community
-            logo: apollo-graphql.svg
-            crunchbase: https://www.crunchbase.com/organization/meteor
+            homepage_url: https://apollographql.com/
+            logo: apollo_graphql.svg
+            twitter: https://twitter.com/apollographql
+            crunchbase: https://www.crunchbase.com/organization/apollo-3
             crunchbase_data:
               name: Apollo
               description: Apollo helps engineering teams build unified graphs to accelerate application development and deliver better, more cohesive experiences.
@@ -3139,16 +3143,17 @@ landscape:
               kind: funding
             image_data:
               fileName: apollo-graph-ql-member.svg
-              hash: tHRhDNJjHVZKSDWv/b/UwuRDxTeCvssKzKAAo++Mbvs=
+              hash: InACL6SQPgw5hOsHU4SB3w+FocwoonGl7M7ngGDvjcw=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-06-01T21:21:27.000Z
           - item:
-            name: Atlassian (member)
-            homepage_url: https://www.atlassian.com/
-            logo: atlassian.svg
+            name: Atlassian Inc (member)
+            homepage_url: https://atlassian.com/
+            logo: atlassian_inc.svg
+            twitter: https://twitter.com/Atlassian
             crunchbase: https://www.crunchbase.com/organization/atlassian
             crunchbase_data:
               name: Atlassian
@@ -3218,50 +3223,16 @@ landscape:
               market_cap: 49840615424
               effective_ticker: TEAM
             image_data:
-              fileName: atlassian-member.svg
-              hash: 0GdE0AJnlRJU0ES7TiZlZ3C8p42QYzveYk32uLDCwZQ=
+              fileName: atlassian-inc-member.svg
+              hash: 9oksNeVRyhwqnRFKJX09Vp4ZcHWd3l+LfplWSfzjk0g=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-06-03T06:22:02.000Z
-          - item:
-            name: Dgraph Labs (member)
-            homepage_url: https://dgraph.io/
-            logo: dgraph-labs.svg
-            crunchbase: https://www.crunchbase.com/organization/dgraph
-            crunchbase_data:
-              name: Dgraph Labs
-              description: Dgraph is a fast, transactional, native and distributed graph database.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: http://dgraph.io
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: https://www.twitter.com/dgraphlabs
-              linkedin: https://www.linkedin.com/company/dgraph-labs/
-              acquisitions: []
-              parents: []
-              funding: 14450000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Database
-                - Open Source
-                - Real Time
-              kind: funding
-            image_data:
-              fileName: dgraph-labs-member.svg
-              hash: jbD5QoHRu6twWSQXOo17PP5dpeNvfKFIhaAEptVAsW4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-05-23T16:27:03.000Z
+              latest_tweet_date: 2022-06-13T22:15:26.000Z
           - item:
             name: Elementl (member)
-            homepage_url: https://www.elementl.com/
+            homepage_url: https://elementl.com/
             logo: elementl.svg
             crunchbase: https://www.crunchbase.com/organization/elementl
             crunchbase_data:
@@ -3290,111 +3261,18 @@ landscape:
               kind: funding
             image_data:
               fileName: elementl-member.svg
-              hash: OyYYeNssdVs/QSnhivxas/yxwoAxh9FpxGdGTm3g7Tk=
+              hash: cr0xqz3Bqd5YtWfGY569OCAEZarOYwHJE4bN8Se6+No=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-05-26T21:27:05.000Z
           - item:
-            name: Expedia Group (member)
-            homepage_url: https://expediagroup.com/home/default.aspx
-            logo: expedia-group.svg
-            crunchbase: https://www.crunchbase.com/organization/expedia
-            crunchbase_data:
-              name: Expedia
-              description: Expedia is an online travel agency that provides hotel reservations, airline tickets, and vacation packages.
-              num_employees_min: 5001
-              num_employees_max: 10000
-              homepage: https://www.expediagroup.com/
-              city: Bellevue
-              region: Washington
-              country: United States
-              twitter: https://twitter.com/expediagroup
-              linkedin: https://www.linkedin.com/company/expedia/
-              acquisitions:
-                - date: '2000-02-01'
-                  acquiree: Travelscape.com
-                - date: '2000-02-01'
-                  acquiree: VacationSpot.com
-                - date: '2002-03-11'
-                  acquiree: Classic Vacation
-                  price: 48000000
-                - date: '2002-10-16'
-                  acquiree: Newtrade Technologies
-                - date: '2004-03-29'
-                  acquiree: Egencia
-                - date: '2008-03-14'
-                  acquiree: CarRentals.com
-                - date: '2008-06-30'
-                  acquiree: SYNERGI Glbl Travel
-                - date: '2008-07-01'
-                  acquiree: OneTime
-                - date: '2008-07-01'
-                  acquiree: VirtualTourist
-                - date: '2008-07-15'
-                  acquiree: Venere
-                - date: '2010-11-18'
-                  acquiree: Mobiata
-                - date: '2012-12-21'
-                  acquiree: trivago
-                  price: 632000000
-                - date: '2014-06-26'
-                  acquiree: Auto Escape Group
-                - date: '2014-07-07'
-                  acquiree: Wotif
-                  price: 655818799
-                - date: '2015-01-25'
-                  acquiree: Travelocity
-                  price: 280000000
-                - date: '2015-02-12'
-                  acquiree: Orbitz Worldwide
-                  price: 1600000000
-                - date: '2015-02-18'
-                  acquiree: AAE Travel
-                - date: '2015-11-03'
-                  acquiree: HomeAway
-                  price: 3900000000
-                - date: '2016-07-21'
-                  acquiree: Trover
-                - date: '2017-05-12'
-                  acquiree: SilverRail Technologies
-                - date: '2018-10-25'
-                  acquiree: Apartment Jet
-                - date: '2018-10-25'
-                  acquiree: Pillow
-                - date: '2019-04-16'
-                  acquiree: Liberty Expedia Holdings
-                - date: '2019-08-22'
-                  acquiree: CanadaStays.com
-              parents: []
-              ticker: EXPE.VI
-              funding: 3260000000
-              stockExchange: vie
-              company_type: For Profit
-              industries:
-                - Reservations
-                - Task Management
-                - Ticketing
-                - Transportation
-                - Travel
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 21731314685
-              effective_ticker: EXPE.VI
-            image_data:
-              fileName: expedia-group-member.svg
-              hash: CTmEnpKOVr3OPKdayOgY2ziLhdyxJJj19sLgbiEDzak=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-05-24T00:47:30.000Z
-          - item:
-            name: Fauna (member)
+            name: Fauna, Inc. (member)
             homepage_url: https://fauna.com/
-            logo: fauna.svg
-            crunchbase: https://www.crunchbase.com/organization/fauna
+            logo: fauna_inc.svg
+            twitter: https://twitter.com/fauna
+            crunchbase: https://www.crunchbase.com/organization/fauna-2
             crunchbase_data:
               name: Fauna
               description: Fauna is transforming the database into a productive, programmable, secure and operations-free data API with GraphQL.
@@ -3418,17 +3296,18 @@ landscape:
                 - Software
               kind: funding
             image_data:
-              fileName: fauna-member.svg
-              hash: Z1y3961UpBxr7vJ+CFtQOxvsJZfs1qJ+r+9tWRHRGeo=
+              fileName: fauna-inc-member.svg
+              hash: u5VDKVv8+aB41AFrS3RliVCm7RHjkWI4MjS1emke9wA=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-06-03T02:00:16.000Z
           - item:
-            name: Gatsby (member)
-            homepage_url: https://www.gatsbyjs.com
-            logo: gatsby.svg
+            name: Gatsby Inc (member)
+            homepage_url: https://gatsbyjs.org/
+            logo: gatsby_inc.svg
+            twitter: https://twitter.com/GatsbyJS
             crunchbase: https://www.crunchbase.com/organization/gatsby-e828
             crunchbase_data:
               name: Gatsby
@@ -3453,17 +3332,18 @@ landscape:
                 - Web Development
               kind: funding
             image_data:
-              fileName: gatsby-member.svg
-              hash: qJsIPCWgj1U8S1PU8v9rAkrpEb654CcExtriT10ClB4=
+              fileName: gatsby-inc-member.svg
+              hash: lW8PuI6fB6UhW8V2dAxrFHUZ0YGBzO+gBl/4da0TOP8=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-06-02T15:03:29.000Z
+              latest_tweet_date: 2022-06-13T13:49:43.000Z
           - item:
-            name: Goldman Sachs (member)
-            homepage_url: https://www.goldmansachs.com/
-            logo: goldman-sachs.svg
+            name: Goldman Sachs & Co. LLC (member)
+            homepage_url: https://goldmansachs.com/
+            logo: goldman_sachs__co_llc.svg
+            twitter: https://twitter.com/GoldmanSachs
             crunchbase: https://www.crunchbase.com/organization/goldman-sachs
             crunchbase_data:
               name: Goldman Sachs
@@ -3558,39 +3438,23 @@ landscape:
               market_cap: 111362695168
               effective_ticker: GS
             image_data:
-              fileName: goldman-sachs-member.svg
-              hash: CdjvizJ2/8PRAbDvoJue5+g6YDtzzFqm6OUyoKQiWjU=
+              fileName: goldman-sachs-co-llc-member.svg
+              hash: aQ4CCgLXKLkWY2oUYmAHwXBTq8POmUQnnsoOcvmzh7s=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-06-02T14:22:25.000Z
+              latest_tweet_date: 2022-06-13T19:00:14.000Z
           - item:
             name: GraphCDN (member)
-            homepage_url: https://www.graphcdn.io
+            homepage_url: https://graphcdn.io/
             logo: graphcdn.svg
-            crunchbase: https://www.crunchbase.com/organization/graphcdn
+            twitter: https://twitter.com/GraphCDN
+            organization:
+              name: GraphCDN
             crunchbase_data:
               name: GraphCDN
-              description: The GraphQL CDN with caching, analytics and protection for your GraphQL API.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://graphcdn.io/
-              city: Middletown
-              region: Delaware
-              country: United States
-              twitter: https://twitter.com/graphcdn
-              linkedin: https://www.linkedin.com/company/graphcdn/
-              acquisitions:
-                - date: '2021-07-27'
-                  acquiree: FastQL
               parents: []
-              funding: 0
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Analytics
-                - Internet
             image_data:
               fileName: graph-cdn-member.svg
               hash: E8B4VtESV8svVAfQzA/eDHfmNyHMR9IMUa9ysyWLOao=
@@ -3598,11 +3462,12 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-06-02T23:43:49.000Z
+              latest_tweet_date: 2022-06-06T11:05:36.000Z
           - item:
             name: GraphCMS (member)
-            homepage_url: https://www.graphcms.com
+            homepage_url: https://graphcms.com/
             logo: graphcms.svg
+            twitter: https://twitter.com/GraphCMS
             crunchbase: https://www.crunchbase.com/organization/graphcms
             crunchbase_data:
               name: GraphCMS
@@ -3629,16 +3494,17 @@ landscape:
               kind: funding
             image_data:
               fileName: graph-cms-member.svg
-              hash: B7DY8XAiJsbMpF+7YTlnnPalfsIqf2HfzVFfxurNUFA=
+              hash: /jK8sGNJxYaPxmJM1aOcrKuPKSSfPG/drPwEe4Gy7dE=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-06-02T13:30:04.000Z
+              latest_tweet_date: 2022-06-14T12:06:59.000Z
           - item:
-            name: Hasura (member)
-            homepage_url: https://hasura.io
-            logo: hasura.svg
+            name: Hasura, Inc. (member)
+            homepage_url: https://hasura.io/
+            logo: hasura_inc.svg
+            twitter: https://twitter.com/HasuraHQ
             crunchbase: https://www.crunchbase.com/organization/hasura
             crunchbase_data:
               name: Hasura
@@ -3664,17 +3530,64 @@ landscape:
                 - Software
               kind: funding
             image_data:
-              fileName: hasura-member.svg
-              hash: JJkcUcKnMnhfzhGNvHHSKJbt5oKqO/NC2DHtG6hf+9M=
+              fileName: hasura-inc-member.svg
+              hash: KOGAlTgifjL7Pa+IZrWbvz8z5El4L90O1UQVNFVcuyY=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-06-02T16:00:31.000Z
+              latest_tweet_date: 2022-06-14T08:46:29.000Z
           - item:
-            name: IBM (member)
-            homepage_url: https://www.ibm.com/us-en
-            logo: ibm.svg
+            name: Indeed, Inc. (member)
+            homepage_url: https://indeed.com/
+            logo: indeed_inc.svg
+            twitter: https://twitter.com/indeed
+            crunchbase: https://www.crunchbase.com/organization/indeed
+            crunchbase_data:
+              name: Indeed
+              description: Indeed is an employment-related metasearch engine for job listings.
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: http://www.indeed.com
+              city: Austin
+              region: Texas
+              country: United States
+              twitter: http://twitter.com/indeed
+              linkedin: https://www.linkedin.com/company/indeed-com
+              acquisitions:
+                - date: '2014-06-24'
+                  acquiree: MoBolt UK
+                - date: '2017-08-04'
+                  acquiree: Interviewed
+                - date: '2018-05-25'
+                  acquiree: Resume.com
+                - date: '2019-05-30'
+                  acquiree: Syft
+                - date: '2019-07-12'
+                  acquiree: ClickIQ
+              parents: []
+              funding: 5000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Ad Network
+                - Advertising
+                - Recruiting
+                - Search Engine
+              kind: funding
+            image_data:
+              fileName: indeed-inc-member.svg
+              hash: l98+zI1c+BCWuZkkc+pm9XIEWvNfNMHNXAeybFLUfds=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-06-13T23:20:04.000Z
+          - item:
+            name: International Business Machines Corporation (member)
+            homepage_url: https://ibm.com/
+            logo: international_business_machines_corporation.svg
+            twitter: https://twitter.com/IBM
             crunchbase: https://www.crunchbase.com/organization/ibm
             crunchbase_data:
               name: IBM
@@ -4140,7 +4053,7 @@ landscape:
               market_cap: 125619240960
               effective_ticker: IBM
             image_data:
-              fileName: ibm-member.svg
+              fileName: international-business-machines-corporation-member.svg
               hash: E3EqK0+0lDbMaYLFdixTASQkDfEwHfQSUjMYvazFtoI=
             best_practice_data:
               badge: false
@@ -4148,9 +4061,10 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-06-03T05:22:13.000Z
           - item:
-            name: Intuit (member)
-            homepage_url: https://www.intuit.com/
-            logo: intuit.svg
+            name: Intuit, Inc. (member)
+            homepage_url: https://intuit.com/
+            logo: intuit_inc.svg
+            twitter: https://twitter.com/Intuit
             crunchbase: https://www.crunchbase.com/organization/intuit
             crunchbase_data:
               name: Intuit
@@ -4271,17 +4185,18 @@ landscape:
               market_cap: 120387811458
               effective_ticker: INTU.VI
             image_data:
-              fileName: intuit-member.svg
-              hash: I24++Glol3FKuM1gpkeYrf7/9/Kg35S+Nc5GmoMBNkE=
+              fileName: intuit-inc-member.svg
+              hash: E/KvVDvD0JTBcva9GcFnhV16jV5EX4cXBdviIkYKNyk=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-06-02T23:13:34.000Z
           - item:
-            name: Meta (member)
-            homepage_url: https://about.facebook.com/meta
-            logo: meta.svg
+            name: Meta Platforms, Inc. (member)
+            homepage_url: https://facebook.com/
+            logo: meta_platforms_inc.svg
+            twitter: https://twitter.com/Facebook
             crunchbase: https://www.crunchbase.com/organization/facebook
             crunchbase_data:
               name: Meta
@@ -4516,17 +4431,18 @@ landscape:
               market_cap: 538178781184
               effective_ticker: FB
             image_data:
-              fileName: meta-member.svg
+              fileName: meta-platforms-inc-member.svg
               hash: hAi6tf6yJTrEjCCXurqGC/K/KfSMq842e+GywUITjUg=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-06-02T22:02:27.000Z
+              latest_tweet_date: 2022-06-13T20:26:44.000Z
           - item:
-            name: Microsoft (member)
-            homepage_url: https://www.microsoft.com/en-us
-            logo: microsoft-corporation.svg
+            name: Microsoft Corporation (member)
+            homepage_url: https://microsoft.com/
+            logo: microsoft_corporation.svg
+            twitter: https://twitter.com/Microsoft
             crunchbase: https://www.crunchbase.com/organization/microsoft
             crunchbase_data:
               name: Microsoft
@@ -5100,17 +5016,18 @@ landscape:
               market_cap: 2053591924736
               effective_ticker: MSFT
             image_data:
-              fileName: microsoft-member.svg
-              hash: 5PIxnZdPNUyxTu/SJdN4KKVvjCukcUoFbpKzrjPK9SY=
+              fileName: microsoft-corporation-member.svg
+              hash: 8fFf3tCTHX+5TsBQWT3+hZi81xYUBqdd3pZCFAf3LtQ=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-06-02T23:30:01.000Z
           - item:
-            name: Neo4j (member)
+            name: Neo4j, Inc. (member)
             homepage_url: https://neo4j.com/
-            logo: neo4j.svg
+            logo: neo4j_inc.svg
+            twitter: https://twitter.com/neo4j
             crunchbase: https://www.crunchbase.com/organization/neo-technology
             crunchbase_data:
               name: Neo4j
@@ -5136,17 +5053,18 @@ landscape:
                 - Machine Learning
               kind: funding
             image_data:
-              fileName: neo4j-member.svg
-              hash: L3FywyQo36HHkBYlC82HHqCqicTV/TrI/PbUAbGK3II=
+              fileName: neo4j-inc-member.svg
+              hash: A5wpCS7g3uN34l88VfSm2Bie5q7UWS9tel03MyNz3nQ=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-06-03T06:24:24.000Z
           - item:
-            name: PayPal (member)
-            homepage_url: https://www.paypal.com/us/home
-            logo: paypal.svg
+            name: PayPal Holdings, Inc. (member)
+            homepage_url: https://paypal.com/
+            logo: paypal_holdings_inc.svg
+            twitter: https://twitter.com/PayPal
             crunchbase: https://www.crunchbase.com/organization/paypal
             crunchbase_data:
               name: PayPal
@@ -5231,17 +5149,18 @@ landscape:
               market_cap: 102278094848
               effective_ticker: PYPL
             image_data:
-              fileName: pay-pal-member.svg
-              hash: C9a941dLnKsv/M5vp9T2ewtLLNQVs/96bg/RuoIl/GM=
+              fileName: pay-pal-holdings-inc-member.svg
+              hash: 5Qam8UpPl58fdznDhmVdRDh3/Vc1A9NdH4EPWUwFN38=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-06-02T15:00:11.000Z
+              latest_tweet_date: 2022-06-13T15:00:17.000Z
           - item:
-            name: Prisma (member)
+            name: Prisma Data, Inc (member)
             homepage_url: https://prisma.io/
-            logo: prisma.svg
+            logo: prisma_data_inc.svg
+            twitter: https://twitter.com/prisma
             crunchbase: https://www.crunchbase.com/organization/prisma-io
             crunchbase_data:
               name: Prisma
@@ -5266,8 +5185,8 @@ landscape:
                 - Software
               kind: funding
             image_data:
-              fileName: prisma-member.svg
-              hash: LCRDw8Rb6w3hffj0Ga3jKibmxhnvG8C7dbmx9z4xWP4=
+              fileName: prisma-data-inc-member.svg
+              hash: BYsOQWExESbvGFdzaofzMXMJcymrbalfh6WJx4575nA=
             best_practice_data:
               badge: false
               percentage: null
@@ -5276,33 +5195,16 @@ landscape:
           - item:
             name: Saleor Commerce (member)
             homepage_url: https://saleor.io/
-            logo: saleor-commerce.svg
-            crunchbase: https://www.crunchbase.com/organization/saleor-commerce
+            logo: saleor_commerce.svg
+            twitter: https://twitter.com/getsaleor
+            organization:
+              name: Saleor Commerce
             crunchbase_data:
               name: Saleor Commerce
-              description: The world’s fastest growing open-source ecommerce platform with billions of dollars transacted.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://saleor.io
-              city: Wroclaw
-              region: Dolnoslaskie
-              country: Poland
-              twitter: https://twitter.com/getsaleor
-              linkedin: https://www.linkedin.com/company/saleor/
-              acquisitions: []
               parents: []
-              funding: 2500000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Developer APIs
-                - E-Commerce
-                - E-Commerce Platforms
-                - Open Source
-              kind: funding
             image_data:
               fileName: saleor-commerce-member.svg
-              hash: z61y2sabyw0vYNd4NAsAIMmEcdLUnzNKTcrotYfB6+c=
+              hash: tXZglzTueCBfflqELW1ddWezi/tdyfd/PNnD+2fHxF4=
             best_practice_data:
               badge: false
               percentage: null
@@ -5310,8 +5212,9 @@ landscape:
               latest_tweet_date: 2022-06-03T09:33:56.000Z
           - item:
             name: Salsify (member)
-            homepage_url: https://www.salsify.com
+            homepage_url: https://salsify.com/
             logo: salsify.svg
+            twitter: https://twitter.com/Salsify
             crunchbase: https://www.crunchbase.com/organization/salsify
             crunchbase_data:
               name: Salsify
@@ -5346,16 +5249,17 @@ landscape:
               kind: funding
             image_data:
               fileName: salsify-member.svg
-              hash: u77LWkCSyvDVQ9zW0KcxbagDT80zmCc/BhOVoIbRIfw=
+              hash: BvZlAN5Gma8Q5QCXAkLW75Uh6UpZbtPAkElXsJmTPMM=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-06-02T19:30:02.000Z
           - item:
-            name: Shopify (member)
-            homepage_url: https://www.shopify.com
-            logo: shopify.svg
+            name: Shopify Inc. (member)
+            homepage_url: https://shopify.com/
+            logo: shopify_inc.svg
+            twitter: https://twitter.com/Shopify
             crunchbase: https://www.crunchbase.com/organization/shopify
             crunchbase_data:
               name: Shopify
@@ -5415,43 +5319,62 @@ landscape:
               market_cap: 55041667072
               effective_ticker: SHOP
             image_data:
-              fileName: shopify-member.svg
-              hash: 9lEs96a9HzjjwqucEJ8iyv44w+MhFqfcQGKl/uUSSf0=
+              fileName: shopify-inc-member.svg
+              hash: LXJ8gFAqEKL18aMHsNOq1YZi5FAjpPMEWuwh3B8Iz0I=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-06-02T21:59:33.000Z
+              latest_tweet_date: 2022-06-13T15:30:00.000Z
           - item:
-            name: StepZen (member)
-            homepage_url: https://www.stepzen.com
-            logo: stepzen.svg
-            crunchbase: https://www.crunchbase.com/organization/stepzen
+            name: Solo.io (member)
+            homepage_url: https://solo.io/
+            logo: soloio.svg
+            twitter: https://twitter.com/soloio_inc
+            crunchbase: https://www.crunchbase.com/organization/solo-io
             crunchbase_data:
-              name: StepZen
-              description: StepZen develops APIs and databases dedicated to making it easier for app developers to build user experiences.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.stepzen.com/
-              city: Santa Clara
-              region: California
+              name: Solo.io
+              description: Solo.io develops tools to help the enterprise adapt and make the most of innovative cloud technologies.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: https://www.solo.io
+              city: Cambridge
+              region: Massachusetts
               country: United States
-              twitter: https://twitter.com/stepzen_dev
-              linkedin: https://www.linkedin.com/company/stepzen/
+              twitter: https://twitter.com/soloio_inc
+              linkedin: https://www.linkedin.com/company/solo.io
               acquisitions: []
               parents: []
-              funding: 8000000
+              funding: 171500000
               stockExchange: null
               company_type: For Profit
               industries:
-                - Data Integration
-                - Database
+                - Apps
+                - Cloud Computing
                 - Developer APIs
-                - Information Technology
+                - Internet
                 - Software
               kind: funding
             image_data:
-              fileName: step-zen-member.svg
+              fileName: solo-io-member.svg
+              hash: JDw2wDYv1FuYYZ5q18GBqsSxKjMAcM6Yca281ZL/w/I=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-06-14T07:00:08.000Z
+          - item:
+            name: StepZen, Inc. (member)
+            homepage_url: https://stepzen.com/
+            logo: stepzen_inc.svg
+            twitter: https://twitter.com/stepzen_dev
+            organization:
+              name: StepZen, Inc.
+            crunchbase_data:
+              name: StepZen, Inc.
+              parents: []
+            image_data:
+              fileName: step-zen-inc-member.svg
               hash: k2L8okWhP945rBzAQqJw9myRVdDgnMx0ZiLDAwxOfw8=
             best_practice_data:
               badge: false
@@ -5462,6 +5385,7 @@ landscape:
             name: The Guild (member)
             homepage_url: https://the-guild.dev/
             logo: the_guild.svg
+            twitter: https://twitter.com/TheGuildDev
             crunchbase: https://www.crunchbase.com/organization/the-guild-9777
             crunchbase_data:
               name: The Guild
@@ -5481,16 +5405,17 @@ landscape:
               industries: []
             image_data:
               fileName: the-guild-member.svg
-              hash: z6bdaqFNneq2aikKPnRkHa0c+kvs1/5JSUPcnaB8iZE=
+              hash: r99CppNztFASpYdDkRhiC/IgplF819HKcpjLat+JYWA=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-06-03T00:00:11.000Z
           - item:
-            name: Twitter (member)
+            name: Twitter Inc. (member)
             homepage_url: https://twitter.com/
-            logo: twitter.svg
+            logo: twitter_inc.svg
+            twitter: https://twitter.com/Twitter
             crunchbase: https://www.crunchbase.com/organization/twitter
             crunchbase_data:
               name: Twitter
@@ -5664,17 +5589,18 @@ landscape:
               market_cap: 30498463744
               effective_ticker: TWTR
             image_data:
-              fileName: twitter-member.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+              fileName: twitter-inc-member.svg
+              hash: DhJrrDExVdXfA8Ha1ys2kn9EoaHSYW5N3bsEcOcXeGc=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-05-18T16:08:50.000Z
           - item:
-            name: Tyk (member)
-            homepage_url: https://tyk.io
-            logo: tyk.svg
+            name: Tyk Technologies Ltd. (member)
+            homepage_url: https://tyk.io/
+            logo: tyk_technologies_ltd.svg
+            twitter: https://twitter.com/tyk_io
             crunchbase: https://www.crunchbase.com/organization/tyk-io
             crunchbase_data:
               name: Tyk
@@ -5699,8 +5625,8 @@ landscape:
                 - Software
               kind: funding
             image_data:
-              fileName: tyk-member.svg
-              hash: 5J8T0Dvc2X6GrKHWraU7/S06GDAEclgySEZp6Z/I+pk=
+              fileName: tyk-technologies-ltd-member.svg
+              hash: Fu9qV1YHQ28owEiVAwaS7nSvrJYFfqVK9xi9u6s8rmc=
             best_practice_data:
               badge: false
               percentage: null
@@ -9597,7 +9523,7 @@ landscape:
               kind: funding
             image_data:
               fileName: salsify-adopter.svg
-              hash: u77LWkCSyvDVQ9zW0KcxbagDT80zmCc/BhOVoIbRIfw=
+              hash: BvZlAN5Gma8Q5QCXAkLW75Uh6UpZbtPAkElXsJmTPMM=
             best_practice_data:
               badge: false
               percentage: null
@@ -9954,7 +9880,7 @@ landscape:
               industries: []
             image_data:
               fileName: the-guild-adopter.svg
-              hash: z6bdaqFNneq2aikKPnRkHa0c+kvs1/5JSUPcnaB8iZE=
+              hash: r99CppNztFASpYdDkRhiC/IgplF819HKcpjLat+JYWA=
             best_practice_data:
               badge: false
               percentage: null
