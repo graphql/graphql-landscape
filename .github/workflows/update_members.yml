@@ -2,7 +2,8 @@ name: Update members
 
 on:
   workflow_dispatch:
-  # you can add a cron option here as well if you want it fully hands off
+  schedule:
+    - cron: '0 4 * * *'
 
 jobs:
   build:
