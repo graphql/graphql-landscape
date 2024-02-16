@@ -13,7 +13,7 @@ jobs:
       - name: Automerge Pull Request if possible
         uses: "pascalgn/automerge-action@v0.13.0"
         env:
-          GITHUB_TOKEN: "${{ secrets.PAT }}"
+          GITHUB_TOKEN: "${{ github.token }}"
           MERGE_LABELS: "automerge"
           MERGE_RETRY_SLEEP: 300000
           MERGE_METHOD: "squash"
