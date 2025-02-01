@@ -6,12 +6,23 @@ landscape:
         name: Spec
         items:
           - item:
-            name: GraphQL Spec
-            homepage_url: https://graphql.org
+            name: GraphQL Specification
+            description: >-
+              The GraphQL Specification project is a collaborative effort with the GraphQL Foundation, the Linux Foundation and the Joint Development
+              Foundation, which provides open source projects with a swift path to standardization for open specifications. Developers will have an open GraphQL
+              specification and open source software implementations available for designing conformant APIs.
+            homepage_url: https://graphql.org/
             project: foundationproject
             repo_url: https://github.com/graphql/graphql-spec
-            logo: graphql.svg
-            crunchbase: https://www.crunchbase.com/organization/graphql-foundation
+            logo: graphql_specification.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2019-01-22'
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/gql/overview?project=gql-gql-specification
+              annotations:
+                slug: gql-gql-specification
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/gql-gql-specification
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWs6vQAD
       - subcategory:
         name: Tools
         items:
@@ -271,74 +282,108 @@ landscape:
         items:
           - item:
             name: Airbnb (member)
+            description: >-
+              Airbnb, Inc. operates an online community marketplace for people to list, discover, and book accommodations worldwide online or from a mobile
+              phone. The company allows people to rent out their extra space and showcase it to audience. Airbnb, Inc. was formerly known as AirBed & Breakfast,
+              Inc. The company was founded in 2008 and is based in San Francisco, California.
             homepage_url: https://airbnb.com/
             logo: airbnb.svg
             twitter: https://twitter.com/Airbnb
             crunchbase: https://www.crunchbase.com/organization/airbnb
+            extra:
+              linkedin_url: https://www.linkedin.com/company/airbnb
           - item:
             name: Amazon Web Services, Inc. (member)
-            homepage_url: https://amazon.com/
-            logo: amazon_web_services_inc.svg
-            twitter: https://twitter.com/amazon
-            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
             description: >-
               Amazon.com, Inc. is an online retailer, offering new, refurbished and used products including books, DVDs, CDs, MP3 downloads, software, video
               games, electronics, furniture, apparel, jewelry, and toys. The company also manufactures consumer electronics (notably the Amazon Kindle and the
               Kindle Fire) and provides cloud computing services. Amazon is a publicly owned company and is based out of Seattle, WA.
+            homepage_url: https://amazon.com/
+            logo: amazon_web_services_inc.svg
+            twitter: https://twitter.com/amazon
+            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
+            extra:
+              linkedin_url: https://www.linkedin.com/company/amazon
           - item:
             name: Apollo GraphQL (member)
+            description: Apollo Data Graph Platform— unify APIs, microservices, and databases into a data graph that you can query with GraphQL
             homepage_url: https://apollographql.com/
             logo: apollo_graphql.svg
-            twitter: https://twitter.com/apollographql
             crunchbase: https://www.crunchbase.com/organization/apollo-3
+            extra:
+              linkedin_url: https://www.linkedin.com/company/apollo-graphql
           - item:
             name: Atlassian US, Inc (member)
+            description: >-
+              G’day, we’re Atlassian. We make tools like Jira and Trello that are used by thousands of teams worldwide. And we’re serious about creating amazing
+              products, practices, and open work for all teams.
             homepage_url: https://atlassian.com/
             logo: atlassian_us_inc.svg
             twitter: https://twitter.com/Atlassian
             crunchbase: https://www.crunchbase.com/organization/atlassian
-            description: >-
-              G’day, we’re Atlassian. We make tools like Jira and Trello that are used by thousands of teams worldwide. And we’re serious about creating amazing
-              products, practices, and open work for all teams.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/atlassian
           - item:
             name: COPILOT TRAVEL Inc (member)
+            description: Copilot Travel connects global travel stakeholders through integrated technology solutions.
             homepage_url: https://copilottravel.com/
             logo: copilot_travel_inc.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/copilottravel
             organization:
               name: COPILOT TRAVEL Inc
+              linkedin: https://www.linkedin.com/company/copilottravel
           - item:
             name: Elementl (member)
+            description: Elementl is building Dagster, the open-source data orchestrator for machine learning, analytics, and ETL.
             homepage_url: https://elementl.com/
             logo: elementl.svg
-            crunchbase: https://www.crunchbase.com/organization/elementl
+            extra:
+              linkedin_url: https://www.linkedin.com/company/elementl
+            organization:
+              name: Elementl
+              linkedin: https://www.linkedin.com/company/elementl
           - item:
             name: Goldman Sachs & Co. LLC (member)
-            homepage_url: https://goldmansachs.com/
-            logo: goldman_sachs__co_llc.svg
-            twitter: https://twitter.com/GSCareers
-            crunchbase: https://www.crunchbase.com/organization/goldman-sachs
             description: >-
               Founded in 1869, Goldman Sachs is a global investment banking, securities, and investment management firm that provides client-based services that
               include corporations, financial institutions, governments and high net worth individuals. Goldman Sachs is headquartered in New York.
+            homepage_url: https://goldmansachs.com/
+            logo: goldman_sachs_co.svg
+            twitter: https://twitter.com/GSCareers
+            crunchbase: https://www.crunchbase.com/organization/goldman-sachs
+            extra:
+              linkedin_url: https://www.linkedin.com/company/goldman-sachs
           - item:
             name: Grafbase (member)
+            description: The data platform for developers. Instant serverless GraphQL backends
             homepage_url: https://grafbase.com/
             logo: grafbase.svg
             twitter: https://twitter.com/grafbase
+            extra:
+              linkedin_url: https://www.linkedin.com/company/grafbase
             organization:
               name: Grafbase
+              linkedin: https://www.linkedin.com/company/grafbase
           - item:
             name: Hasura, Inc. (member)
+            description: |-
+              2 offices:
+              161, 19th Main Road, 6th Block
+              Koramangala
+              Bangladesh
+
+              3260 Hillview Avenue
+              Palo Alto, CA 94304
+              United States
             homepage_url: https://hasura.io/
             logo: hasura_inc.svg
             twitter: https://twitter.com/HasuraHQ
             crunchbase: https://www.crunchbase.com/organization/hasura
+            extra:
+              linkedin_url: https://www.linkedin.com/company/hasura
           - item:
             name: International Business Machines Corporation (member)
-            homepage_url: https://ibm.com/
-            logo: international_business_machines_corporation.svg
-            twitter: https://twitter.com/IBM
-            crunchbase: https://www.crunchbase.com/organization/ibm
             description: >-
               Founded in 1911, International Business Machines (IBM) is a multinational computer, technology, and IT consulting corporation that manufactures
               and sells computer hardware and software, and offers infrastructure services, hosting services, and consulting services. They are headquartered in
@@ -349,79 +394,110 @@ landscape:
 
 
               IBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services.
+            homepage_url: https://ibm.com/
+            logo: international_business_machines_corporation.svg
+            twitter: https://twitter.com/IBM
+            crunchbase: https://www.crunchbase.com/organization/ibm
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ibm
           - item:
             name: Intuit, Inc. (member)
+            description: >-
+              Headquartered in Mountain View, California, Intuit provides financial management and compliance products and services for consumers, small
+              businesses, self-employed, and accounting professionals in the United States, Canada, and internationally.
             homepage_url: https://intuit.com/
             logo: intuit_inc.svg
-            twitter: https://twitter.com/Intuit
             crunchbase: https://www.crunchbase.com/organization/intuit
+            extra:
+              linkedin_url: https://www.linkedin.com/company/intuit
           - item:
             name: Meta Platforms, Inc. (member)
-            homepage_url: https://meta.com/
-            logo: meta_platforms_inc.svg
-            twitter: https://twitter.com/Meta
-            crunchbase: https://www.crunchbase.com/organization/facebook
             description: >-
               Founded in 2004 and headquartered in Menlo Park, California, Facebook is an American online social media and social networking service company
               that provides various products to connect and share.
+            homepage_url: https://meta.com/
+            logo: meta_platforms_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/facebook
+            extra:
+              linkedin_url: https://www.linkedin.com/company/facebook
           - item:
             name: Microsoft Corporation (member)
-            homepage_url: https://microsoft.com/
-            logo: microsoft_corporation.svg
-            twitter: https://twitter.com/Microsoft
-            crunchbase: https://www.crunchbase.com/organization/microsoft
             description: >-
               The Microsoft Corporation is a publicly owned American software corporation headquartered in Redmond, Washington. Founded in 1975, the company
               develops, manufactures, licenses and supports a variety of computing products used by consumers and businesses. Some of their popular products
               include Windows, Xbox, Microsoft HoloLens, Microsoft Lumia, Outlook, Skype, OneDrive and Microsoft Band.
+            homepage_url: https://microsoft.com/
+            logo: microsoft_corporation.svg
+            crunchbase: https://www.crunchbase.com/organization/microsoft
+            extra:
+              linkedin_url: https://www.linkedin.com/company/microsoft
           - item:
             name: Neo4j, Inc. (member)
-            homepage_url: https://neo4j.com/
-            logo: neo4j_inc.svg
-            twitter: https://twitter.com/neo4j
-            crunchbase: https://www.crunchbase.com/organization/neo-technology
             description: >-
               Neo4j is the leading graph database platform that drives innovation and competitive advantage at Airbus, Comcast, eBay, NASA, UBS, Walmart and
               more. Thousands of community deployments and more than 300 customers harness connected data with Neo4j to reveal how people, processes, locations
               and systems are interrelated. Using this relationships-first approach, applications built using Neo4j tackle connected data challenges including
               artificial intelligence, fraud detection, real-time recommendations and master data. Find out more at Neo4j.com.
+            homepage_url: https://neo4j.com/
+            logo: neo4j_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/neo-technology
+            extra:
+              linkedin_url: https://www.linkedin.com/company/neo4j
           - item:
             name: Platformatic (member)
+            description: >-
+              Platformatic is a company that offers a 'batteries included' developer experience with best practices for building APIs, including REST/OpenAPI or
+              GraphQL with more to come.
             homepage_url: https://platformatic.dev/
             logo: platformatic.svg
             twitter: https://twitter.com/platformatic
+            extra:
+              linkedin_url: https://www.linkedin.com/company/platformatic
             organization:
               name: Platformatic
+              linkedin: https://www.linkedin.com/company/platformatic
           - item:
             name: Postman (member)
+            description: Postman is an API development and testing solution created by Postdot Technologies in 2014 and is headquartered in San Francisco, California.
             homepage_url: https://postman.com/
             logo: postman.svg
-            twitter: https://twitter.com/getpostman
             crunchbase: https://www.crunchbase.com/organization/postman
+            extra:
+              linkedin_url: https://www.linkedin.com/company/postman-platform
           - item:
             name: Shopify Inc. (member)
-            homepage_url: https://shopify.com/
-            logo: shopify_inc.svg
-            twitter: https://twitter.com/Shopify
-            crunchbase: https://www.crunchbase.com/organization/shopify
             description: >-
               Founded in 2004 and launched in 2006, Shopify is a leading cloud-based, multi-channel commerce platform designed for small and medium-sized
               businesses. Merchants can use the software to design, set up, and manage their stores across multiple sales channels, including web, mobile,
               social media, marketplaces, brick-and-mortar locations, and pop-up shops. The platform also provides merchants with a powerful back-office and a
               single view of their business. Shopify currently powers over 500,000 businesses in approximately 175 countries and is used by brands such as Red
               Bull, Nestle, GE, Kylie Cosmetics, and many more.
+            homepage_url: https://shopify.com/
+            logo: shopify_inc.svg
+            twitter: https://twitter.com/Shopify
+            crunchbase: https://www.crunchbase.com/organization/shopify
+            extra:
+              linkedin_url: https://www.linkedin.com/company/shopify
           - item:
             name: The Guild (member)
+            description: Large Scale Open Source done right
             homepage_url: https://the-guild.dev/
             logo: the_guild.svg
-            twitter: https://twitter.com/TheGuildDev
-            crunchbase: https://www.crunchbase.com/organization/the-guild-9777
+            extra:
+              linkedin_url: https://www.linkedin.com/company/the-guild-software
+            organization:
+              name: The Guild
+              linkedin: https://www.linkedin.com/company/the-guild-software
           - item:
             name: Tyk Technologies Ltd. (member)
+            description: >-
+              Our open source API Gateway is fast, scalable and modern. We offer an API Management Platform with an API Gateway, API Analytics, Dev Portal and
+              Dashboard. Try Tyk today!
             homepage_url: https://tyk.io/
             logo: tyk_technologies_ltd.svg
-            twitter: https://twitter.com/tyk_io
             crunchbase: https://www.crunchbase.com/organization/tyk-io
+            extra:
+              linkedin_url: https://www.linkedin.com/company/tyk
   - category:
     name: GraphQL Adopter
     subcategories:
