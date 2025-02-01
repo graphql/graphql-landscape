@@ -1,0 +1,16 @@
+name: Build Landscape from LFX
+
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: "0 11 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: jmertic/lfx-landscape-tools@e5ca86c5671c026b6c4d2ddc518d4a6a66db1942 # 20240124
+        env:
+          token: ${{ secrets.PAT }}
+          repository: ${{ github.repository }}
+          ref: ${{ github.ref }}
