@@ -1,0 +1,11 @@
+name: Provide feedback on the Landscape
+description: Share any feedback you have on the LF Energy Landscape and how we can improve it.
+assignees: 
+  - jmertic
+body:
+  - type: textarea
+    id: feedback
+    attributes:
+      label: "Thank you for providing feedback on improving the LF Energy Landscape. Please update the title above and add your feedback below"
+    validations:
+      required: true
