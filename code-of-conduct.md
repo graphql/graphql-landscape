@@ -1,3 +1,3 @@
 # Code of Conduct
 
-We follow the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
+We follow the [LF Events Code of Conduct](https://events.linuxfoundation.org/about/code-of-conduct/).
