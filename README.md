@@ -29,7 +29,7 @@ GraphQL Foundation Member data in this repository ( which in the [landscape.yml]
 
 - For `GraphQL Foundation Member` entries, you can make these changes in [LFX Organization Dashboard](https://docs.linuxfoundation.org/lfx/organization-dashboard/organization-profile).
 
-If you cannot access the above resources, please [create a helpdesk ticket](https://members.aswf.io) to request those changes.
+If you cannot access the above resources, please [create a helpdesk ticket](https://members.graphql.org) to request those changes.
 
 ## Local Build and Install
 
@@ -42,6 +42,6 @@ landscape2 serve --landscape-dir build
 
 ## License
 
-The generated landscape contains data received from [Crunchbase](http://www.crunchbase.com). This data is not licensed pursuant to the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt). It is subject to Crunchbase’s Data Access Terms, available at [https://data.crunchbase.com/docs/terms](https://data.crunchbase.com/docs/terms), and is only permitted to be used with Academy Software Foundation landscape projects.
+The generated landscape contains data received from [Crunchbase](http://www.crunchbase.com). This data is not licensed pursuant to the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt). It is subject to Crunchbase’s Data Access Terms, available at [https://data.crunchbase.com/docs/terms](https://data.crunchbase.com/docs/terms), and is only permitted to be used with GraphQL Landscape projects.
 
 Everything else is under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt), except for projects and products logos, which are generally copyrighted by the company that created them, and are simply cached here for reliability. The generated landscape and the [landscape.yml](landscape.yml) file are alternatively available under the [Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/).
