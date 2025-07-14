@@ -13,6 +13,6 @@ jobs:
         with:
           project_processing: skip
         env:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT }}
           repository: ${{ github.repository }}
           ref: ${{ github.ref }}
