@@ -141,6 +141,21 @@ landscape:
             repo_url: https://github.com/MichalLytek/type-graphql
             logo: type-graphql.svg
             crunchbase: https://www.crunchbase.com/organization/typegraphql
+          - item:
+            name: Viaduct
+            description: >-
+              Viaduct is a GraphQL-based system that provides a unified interface for accessing and interacting with any data source. It provides one global
+              schema and query system where data access and mutations follow a reliable and consistent pattern, regardless of engineering ownership or backing
+              service. The code which hydrates queries is maintained by the team which owns the data, proven at scale in production at Airbnb.
+            homepage_url: https://viaduct.dev/
+            repo_url: https://github.com/airbnb/viaduct
+            additional_repos:
+              - repo_url: https://github.com/viaduct-dev/batteries-included
+            logo: viaduct.svg
+            crunchbase: https://www.crunchbase.com/organization/airbnb
+            organization:
+              name: Airbnb
+              linkedin: https://www.linkedin.com/company/airbnb
   - category:
     name: Databases
     subcategories:
