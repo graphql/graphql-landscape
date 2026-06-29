@@ -18,7 +18,7 @@ jobs:
       contents: write
       pull-requests: write
     steps:
-      - uses: jmertic/lfx-landscape-tools@d34c5300ea55dae32df9fac122a924d2f85fbb87 # 20260415
+      - uses: jmertic/lfx-landscape-tools@2696780bce5ecfd9c58bc8afaf880d5ac128e1a9 # 20260625
         with:
           project_processing: skip
         env:
