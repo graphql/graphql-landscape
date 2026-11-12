@@ -247,6 +247,11 @@ landscape:
           - item:
             name: GraphPilot
             homepage_url: https://graphpilot.io/
+            description: >-
+              GraphPilot is a managed edge cache for GraphQL and REST APIs. It caches GraphQL
+              responses at the edge, POST requests included, and purges the affected entries
+              automatically when a mutation changes the data, based on cache keys declared in the
+              schema. It also offers persisted queries, request limits and request insights.
             logo: graphpilot.svg
             twitter: https://x.com/graphpilot
             crunchbase: https://www.crunchbase.com/organization/graphpilot
